@@ -8,10 +8,10 @@ keywords: [skater, bin, trash, real, life, doodle, skating]
 
 My other Real Life Doodles:
 
-[Hungry Hippo](https://lolnein.com/2017/03/10/hungryhippo/)
+[Hungry Hippo](http://lolnein.com/2017/03/10/hungryhippo/)
 
-[Bubble Buddy](https://lolnein.com/2016/11/14/bubblebuddy/)
+[Bubble Buddy](http://lolnein.com/2016/11/14/bubblebuddy/)
 
-[Self-control](https://lolnein.com/2016/09/26/selfcontrol/)
+[Self-control](http://lolnein.com/2016/09/26/selfcontrol/)
 
-[Angry Bird](https://lolnein.com/2016/07/15/angrybird/)
+[Angry Bird](http://lolnein.com/2016/07/15/angrybird/)
