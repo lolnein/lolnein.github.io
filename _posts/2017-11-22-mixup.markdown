@@ -3,7 +3,7 @@ layout: comic
 comic: mixup.png
 title: Mix-Up
 alt: Mix-Up
-keywords: [mix-up, elevator, stairs, staircase, flight, ]
+keywords: [mix-up, elevator, stairs, staircase, flight]
 ---
 
 Bonus Panel:
