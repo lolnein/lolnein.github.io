@@ -8,5 +8,5 @@ keywords: [step, legs, tripping, broken]
 
 Bonus Panel:
 
-![Step Step Step Bonud Panel](/images/stepstepstep_bonus.png)
+![Step Step Step Bonus Panel](/images/stepstepstep_bonus.png)
 
