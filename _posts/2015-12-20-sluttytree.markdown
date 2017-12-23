@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: sluttytree.png
+comic: sluttytree_old.png
 title: Slutty Tree
 alt: Slutty Tree
 keywords: [slutty, tree, christmas]
