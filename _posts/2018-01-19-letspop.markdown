@@ -11,3 +11,7 @@ A quick one for National Popcorn Day!
 Bonus Panel:
 
 ![Let's Pop Bonus Panel](/images/letspop_bonus.png)
+
+Bonus Panel 2:
+
+![Let's Pop Bonus Panel 2](/images/letspop_bonus2.png)
