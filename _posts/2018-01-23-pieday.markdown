@@ -1,0 +1,11 @@
+---
+layout: comic
+comic: pieday.png
+title: Pie Day
+alt: Pie Day
+keywords: [pie, day, knife, scream]
+---
+
+Bonus Panel:
+
+![Pie Day Bonus Panel](/images/pieday_bonus.png)
