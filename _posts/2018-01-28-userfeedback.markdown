@@ -1,6 +1,6 @@
 ---
 layout: webm
-comic: userfeedback_en.mp4
+comic: userfeedback_en
 title: The User Feedback
 alt: The User Feedback
 keywords: [user, feedback, recycle, bin, god, prayers]
