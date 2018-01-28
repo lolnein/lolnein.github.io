@@ -1,5 +1,5 @@
 ---
-layout: comic
+layout: webm
 comic: userfeedback_en.mp4
 title: The User Feedback
 alt: The User Feedback
