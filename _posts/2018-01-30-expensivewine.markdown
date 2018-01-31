@@ -1,7 +1,7 @@
 ---
 layout: comic
 comic: expensivewine.png
-title: Expensiv Wine
+title: Expensive Wine
 alt: Expensive Wine
 keywords: [wine, fortune, tile, red, rich, complex, drunk, bathroom, susan]
 ---
