@@ -8,4 +8,4 @@ keywords: [summer, heat, noon, hot, sun, fire, bearable]
 
 Bonus Panel:
 
-![PBearable Heat Bonus Panel](/images/bearableheat_bonus.png)
+![Bearable Heat Bonus Panel](/images/bearableheat_bonus.png)
