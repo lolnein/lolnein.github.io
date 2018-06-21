@@ -1,9 +1,0 @@
----
-layout: comic
-comic: gravity.png
-title: Gravity
-alt: Gravity
-keywords: [gravity, sarah, john]
----
-
-What a lovely couple!
