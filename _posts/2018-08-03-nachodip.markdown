@@ -1,0 +1,11 @@
+---
+layout: comic
+comic: nachodip.png
+title: Nacho Dip
+alt: Nacho Dip
+keywords: [nacho, dip, salsa, shocked, face, pants]
+---
+
+Bonus Panel:
+
+![Nacho Dip Bonus Panel](/images/nachodip_bonus.png)
