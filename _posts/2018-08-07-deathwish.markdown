@@ -12,4 +12,4 @@ Bonus Panel:
 
 Bonus Comic:
 
-![Death Wish Bonus Comic](/images/deathwish2_bonus.png)
+![Death Wish Bonus Comic](/images/deathwish_bonus2.png)
