@@ -9,3 +9,7 @@ keywords: [death, wish, plant, water, dry, dying, cactus, sweet, why]
 Bonus Panel:
 
 ![Death Wish Bonus Panel](/images/deathwish_bonus.png)
+
+Bonus Comic:
+
+![Death Wish Bonus Comic](/images/deathwish2_bonus.png)
