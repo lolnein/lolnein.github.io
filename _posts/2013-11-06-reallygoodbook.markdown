@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: reallygoodbook_new.png
+comic: reallygoodbook.png
 title: Really Good Book
 alt: Really Good Book
 keywords: [books, finished, reading, leaving]
