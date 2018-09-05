@@ -1,0 +1,15 @@
+---
+layout: comic
+comic: getatan.png
+title: Get a Tan
+alt: Get a Tan
+keywords: [tan, chocolate, white, brown, dark, melting, sun, tanning, ant]
+---
+
+Bonus Panel:
+
+![Get a Tan Bonus Panel](/images/getatan_bonus.png)
+
+Another "Beautiful Face" comic:
+
+[Well-Designed](https://lolnein.com/2017/11/04/welldesigned/)
