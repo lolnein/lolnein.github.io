@@ -3,7 +3,7 @@ layout: post
 title: About
 ---
 
-I'm a 24-year-old guy with a passion for drawing and making people laugh. Those two characteristics motivated me to create a web comic.
+I'm a 26-year-old guy with a passion for drawing and making people laugh. Those two characteristics motivated me to create a web comic.
 
 *‘LOLNEIN’ is a neologism composed of the acronym ‘LOL’ (laughing out loud) and the German interjection ‘NEIN’ (which translates as ‘no’) negating a question that the user finds to be totally absurd or ridiculous.*
 
