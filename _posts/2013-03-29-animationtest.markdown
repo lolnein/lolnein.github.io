@@ -1,6 +1,6 @@
 ---
 layout: youtube
-video: http://www.youtube.com/embed/a3ujHR32-j8
+video: https://www.youtube.com/embed/a3ujHR32-j8
 title: Animation Test
 ---
 
