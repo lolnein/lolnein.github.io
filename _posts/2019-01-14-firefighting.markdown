@@ -8,4 +8,4 @@ keywords: [fire, trick, candles, house, man, woman, sparklers]
 
 Bonus Comic:
 
-![Firefighting Bonus Comic](/images/firefighting.png)
+![Firefighting Bonus Comic](/images/firefighting_bonus.png)
