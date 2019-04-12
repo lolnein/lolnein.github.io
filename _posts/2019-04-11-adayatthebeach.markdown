@@ -6,6 +6,6 @@ alt: A Day at the Beach
 keywords: [fish, beach, pee, sea, water, land, disgusting]
 ---
 
-Bonus Comic:
+Bonus Panel:
 
-![A Day at the Beach Bonus Comic](/images/adayatthebeach_bonus.png)
+![A Day at the Beach Bonus Panel](/images/adayatthebeach_bonus.png)
