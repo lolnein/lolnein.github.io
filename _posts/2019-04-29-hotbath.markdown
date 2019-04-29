@@ -1,0 +1,15 @@
+---
+layout: comic
+comic: hotbath.png
+title: Hot Bath
+alt: Hot Bath
+keywords: [tea, mug, teabag, hot, bath, wet]
+---
+
+Bonus Panel:
+
+![Hot Bath Bonus Panel](/images/hotbath_bonus.png)
+
+Great gift idea for tea lovers: [Get this comic on a mug!](https://lolnein.com/shop/)
+
+![Hot Bath on a Mug](/images/hotbath_mug.png)
