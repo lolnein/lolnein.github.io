@@ -13,6 +13,9 @@ Bonus Panels:
 ![Useful Information Bonus 2](/images/usefulinformation_name.gif)
 
 
+[You can get this design on bags, mugs, shirts an more in my shop!](https://shop.spreadshirt.com/lolnein/)
+
+![Useful Information Shirt](/images/usefulinformation_shirt.png)
 
 
 
