@@ -6,6 +6,8 @@ alt: Try to Remember
 keywords: [neurons, network, footage, thoughts, realifedoodles, brain]
 ---
 
+Actual footage of neurons trying to get back that thought I just forgot.
+
 More Real Life Doodles:
 
 [Bubble Buddy](https://lolnein.com/2016/11/14/bubblebuddy/)
