@@ -6,8 +6,6 @@ alt: Bubble Buddy
 keywords: [bubble, buddy, smoke]
 ---
 
-Actual footage of neurons trying to get back that thought I just forgot.
-
 My other Real Life Doodles:
 
 [Skater Bin](https://lolnein.com/2017/01/25/skaterbin/)
