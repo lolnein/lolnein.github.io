@@ -3,7 +3,7 @@ layout: comic
 comic: dearmom.png
 title: Dear Mom
 alt: Dear Mom
-keywords: [mother's, day, , chocolate, mom, thank, you]
+keywords: [mother's, day, chocolate, mom, thank, you]
 ---
 
 [Here's another Mother's Day comic!](https://lolnein.com/2013/05/12/mothersday/)
