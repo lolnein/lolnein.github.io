@@ -12,4 +12,4 @@ Bonus Panel:
 
 Similar Comics:
 
-[![Something on Your Face Thumb](/images/somethingonyourface_thumb.png)](https://lolnein.com/2017/05/07/somethingonyourface/)
+[![Something on Your Face Thumb](/images/somethingonyourface_thumb.png){:height="150px" width="150x"}](https://lolnein.com/2017/05/07/somethingonyourface/)
