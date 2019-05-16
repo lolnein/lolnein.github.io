@@ -10,7 +10,7 @@ Bonus Panel:
 
 ![A Marked Pen Bonus Panel](/images/amarkedpen_bonus.png)
 
-## Similar Comics
+<div class="title">Similar Comics</div>
 
 [![Paper Towel Thumb](/images/papertowel_thumb.png){:height="150px" width="150x"}](https://lolnein.com/2017/04/25/papertowel/)
 [![Shampoolympics Thumb](/images/shampoolympics_thumb.png){:height="150px" width="150x"}](https://lolnein.com/2018/04/19/shampoolympics/)
