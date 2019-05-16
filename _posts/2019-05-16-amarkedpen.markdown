@@ -10,6 +10,8 @@ Bonus Panel:
 
 ![A Marked Pen Bonus Panel](/images/amarkedpen_bonus.png)
 
-Similar Comics:
+## Similar Comics
 
+[![Paper Towel Thumb](/images/papertowel_thumb.png){:height="150px" width="150x"}](https://lolnein.com/2017/04/25/papertowel/)
+[![Shampoolympics Thumb](/images/shampoolympics_thumb.png){:height="150px" width="150x"}](https://lolnein.com/2018/04/19/shampoolympics/)
 [![Something on Your Face Thumb](/images/somethingonyourface_thumb.png){:height="150px" width="150x"}](https://lolnein.com/2017/05/07/somethingonyourface/)
