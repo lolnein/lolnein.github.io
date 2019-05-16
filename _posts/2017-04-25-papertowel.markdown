@@ -17,6 +17,6 @@ Bonus Panel 2:
 
 <div class="title">Similar Comics</div>
 
-[![A New Adventure](images/ANewAdventure_thumb.png){:height="150px" width="150px"}](https://lolnein.com/2018/08/10/ANewAdventure/)
-[![Freshly Washed Clothes](images/FreshlyWashedClothes_thumb.png){:height="150px" width="150px"}](https://lolnein.com/2017/09/20/FreshlyWashedClothes/)
-[![Moisturiser](images/Moisturiser_thumb.png){:height="150px" width="150px"}](https://lolnein.com/2018/01/24/Moisturiser/)
+[![A New Adventure](images/anewadventure_thumb.png){:height="150px" width="150px"}](https://lolnein.com/2018/08/10/anewadventure/)
+[![Freshly Washed Clothes](images/freshlywashedclothes_thumb.png){:height="150px" width="150px"}](https://lolnein.com/2017/09/20/freshlywashedclothes/)
+[![Moisturiser](images/moisturiser_thumb.png){:height="150px" width="150px"}](https://lolnein.com/2018/01/24/moisturiser/)
