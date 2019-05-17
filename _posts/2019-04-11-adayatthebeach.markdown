@@ -13,9 +13,7 @@ Bonus Panel:
 <div class="title">Similar Comics</div>
 
 [![Vacation](/thumbs/vacation.png){:height="150px" width="150px"}](https://lolnein.com/2017/05/26/vacation/)
-
-[![Mix-Up](/thumbs/mix-up.png){:height="150px" width="150px"}](https://lolnein.com/2017/11/23/mix-up/)
-
+[![Mix-Up](/thumbs/mixup.png){:height="150px" width="150px"}](https://lolnein.com/2017/11/23/mix-up/)
 [![No Soaking Matter](/thumbs/nosoakingmatter.png){:height="150px" width="150px"}](https://lolnein.com/2019/04/12/nosoakingmatter/)
 
 
