@@ -9,8 +9,6 @@ title: Archive
 {% for image in site.static_files %}
   {% if image.path contains 'thumbs' %}
     {% if file.name contains post.title %}
-        
-    {% endunless %}
-  {% endif %}
+          {% endif %}
 
 {% endfor %}
