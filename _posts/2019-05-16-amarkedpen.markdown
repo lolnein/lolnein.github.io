@@ -10,7 +10,7 @@ Bonus Panel:
 
 ![A Marked Pen Bonus Panel](/images/amarkedpen_bonus.png)
 
-This design is now [available in my shop!](https://lolnein.com/shop) (Only 4 days left: Get 15% off everything)
+This design is now [available in my shop!](https://lolnein.com/shop)
 ![A Marked Pen Shirt](/images/amarkedpen_shirt.png)
 
 <div class="title">Similar Comics</div>
