@@ -9,3 +9,8 @@ keywords: [back, rub, fly, hand]
 Bonus Panel:
 
 ![Back Rub Bonus Panel](/images/backrub_bonus.png)
+
+<div class="title">Similar Comics</div>
+[![Leg Surgery](/thumbs/legsurgery.png){:height="150px" width="150px"}](https://lolnein.com/2017/06/30/legsurgery/)
+[![The Ugly Caterpillar](/thumbs/theuglycaterpillar.png){:height="150px" width="150px"}](https://lolnein.com/2017/09/18/theuglycaterpillar/)
+[![Clean Window](/thumbs/cleanwindow.png){:height="150px" width="150px"}](https://lolnein.com/2018/08/06/cleanwindow/)
