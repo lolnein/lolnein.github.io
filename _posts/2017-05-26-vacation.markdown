@@ -9,3 +9,8 @@ keywords: [vacation, sun, rain]
 Bonus Panel:
 
 ![Vacation Bonus Panel](/images/vacation_bonus.png)
+
+<div class="title">Similar Comics</div>
+[![Shakenado](/thumbs/shakenado.png){:height="150px" width="150px"}](https://lolnein.com/2019/04/30/shakenado/)
+[![Summer Depression](/thumbs/summerdepression.png){:height="150px" width="150px"}](https://lolnein.com/2018/08/15/summerdepression/)
+[![Lava Floor](/thumbs/lavafloor.png){:height="150px" width="150px"}](https://lolnein.com/2017/06/09/lavafloor/)
