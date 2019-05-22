@@ -1,17 +1,14 @@
 ---
 layout: comic
-comic: mustbeelove.png
-title: Must Bee Love
-alt: Must Bee Love
-keywords: [bee, love, plastic, flower, neckbeard, pillow, weeb]
+comic: firstvideogamecrush.png
+title: First Video Game Crush
+alt: First Video Game Crush
+keywords: [crush, video, game, mario, kart, crash, donkey, kong, snes, nintendo]
 ---
 
 Bonus Panel:
 
-![Must Bee Love Bonus Panel](/images/mustbeelove_bonus.png)
-
-This design is now [available in my shop!](https://shop.spreadshirt.com/lolnein/)
-![Must Bee Love Mug](/images/mustbeelove_mug.png)
+![First Video Game Crush Bonus Panel](/images/firstvideogamecrush_bonus.png)
 
 <div class="title">Similar Comics</div>
 
