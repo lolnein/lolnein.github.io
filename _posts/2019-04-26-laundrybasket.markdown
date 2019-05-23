@@ -6,11 +6,12 @@ alt: Laundry Basket
 keywords: [laundry, basket, chair, floor, shirt, procrastination]
 ---
 
-[This shirt is now available in the shop!](https://lolnein.com/shop/)
-
 Bonus Panel:
 
 ![Laundry Basket Bonus Panel](/images/laundrybasket_bonus.png)
+
+This shirt is now [available in my shop!](https://shop.spreadshirt.com/lolnein/)
+[![Laundry Basket Shirt](/images/laundrybasket_shirt.png)](https://shop.spreadshirt.com/lolnein/)
 
 <div class="title">Similar Comics</div>
 

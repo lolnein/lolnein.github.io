@@ -12,6 +12,6 @@ Bonus Panel:
 
 <div class="title">Similar Comics</div>
 
-[![Clean Window](/thumbs/cleanwindow.png){:height="150px" width="150px"}](https://lolnein.com/2018/08/06/cleanwindow/)
+[![Laundry Basket](/thumbs/laundrybasket.png){:height="150px" width="150px"}](https://lolnein.com/2019/04/26/laundrybasket/)
+[![A Marked Pen](/thumbs/amarkedpen.png){:height="150px" width="150px"}](https://lolnein.com/2019/05/16/amarkedpen/)
 [![Unsaved Work](/thumbs/unsavedwork.png){:height="150px" width="150px"}](https://lolnein.com/2018/06/18/unsavedwork/)
-[![Before My Coffee](/thumbs/beforemycoffee.png){:height="150px" width="150px"}](https://lolnein.com/2017/04/13/beforemycoffee/)

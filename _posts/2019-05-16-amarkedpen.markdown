@@ -10,8 +10,8 @@ Bonus Panel:
 
 ![A Marked Pen Bonus Panel](/images/amarkedpen_bonus.png)
 
-This design is now [available in my shop!](https://lolnein.com/shop)
-![A Marked Pen Shirt](/images/amarkedpen_shirt.png)
+This design is now [available in my shop!](https://shop.spreadshirt.com/lolnein/)
+[![A Marked Pen Shirt](/images/amarkedpen_shirt.png)](https://shop.spreadshirt.com/lolnein/)
 
 <div class="title">Similar Comics</div>
 
