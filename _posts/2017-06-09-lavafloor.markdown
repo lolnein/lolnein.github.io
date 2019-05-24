@@ -8,7 +8,7 @@ keywords: [floor, lava, volcano, volcayes, game, pompeii, magma, mountain, erupt
 
 This design is now [available in my shop!](https://www.redbubble.com/people/LOLNEIN/shop)
 
-[![Volcayes Shirt](/images/volcayes_shirt.png)](https://www.redbubble.com/people/LOLNEIN/shop)
+[![Volcayes Shirt](/images/volcayes_shirtmug.png)](https://www.redbubble.com/people/LOLNEIN/shop)
 
 
 Bonus Panel:
