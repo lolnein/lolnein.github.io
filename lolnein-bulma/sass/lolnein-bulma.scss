@@ -1,0 +1,19 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css?family=Lato:normal,lighter');
+
+$family-sans-serif: "Lato", sans-serif;
+
+$section-padding: 1.5rem;
+$column-gap: 0.25rem;
+$gap: 32px;
+$desktop: 720px + (2 * $gap);
+$widescreen: 720px + (2 * $gap);
+$fullhd: 720px + (2 * $gap);
+
+$link: white;
+$link-hover: #999999;
+$body-color: #999999;
+$title-color: #999999;
+$subtitle-color: #999999;
+
+@import "../node_modules/bulma/bulma.sass";

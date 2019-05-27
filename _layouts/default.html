@@ -1,107 +1,149 @@
 ---
 language: en-GB-oed
 ---
+<html lang="{{ page.language }}">
+<head>
+    <title>{{ page.title }}</title>
 
-<!DOCTYPE html>
+    <meta charset="UTF-8"/>
+    <meta name="generator" content="Jekyll"/>
+    {% if page.keywords %}
+    <meta name="keywords" property="dc:subject" content="{{ page.keywords | join:', ' }}"/>
+    {% else %}
+    <meta name="keywords" property="dc:subject" content="lolnein, webcomic"/>
+    {% endif %}
+    <meta name="author" property="dc:creator" content="Vincent Kunert"/>
+    <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
 
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:og="http://ogp.me/ns#" lang="{{ page.language }}" xml:lang="{{ page.language}}">
-	<head>
-		<title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/lolnein-bulma.css">
+    <link rel="stylesheet" href="/assets/style.css" type="text/css"/>
 
-		<meta charset="UTF-8"/>
-		<meta name="generator" content="Jekyll"/>
-		<meta name="keywords" property="dc:subject" content="{% if page.keywords %}{{ page.keywords | join:', ' }}{% else %}lolnein, webcomic{% endif %}"/>
-		<meta name="author" property="dc:creator" content="Vincent Kunert"/>
+    <link rel="icon" href="/assets/icon.png" type="/assets/image/png"/>
+    <link rel="icon" href="/assets/icon.svg" type="/assets/image/svg+xml"/>
 
-		<link rel="icon" href="/lolnein.png" type="image/png"/>
-		<link rel="icon" href="/icon.svg" type="image/svg+xml"/>
+    <link rel="license" href="https://creativecommons.org/licenses/by-nc-nd/3.0/rdf" type="application/rdf+xml"/>
+    <link rel="license" href="https://creativecommons.org/licenses/by-nc-nd/3.0/" type="text/html"/>
 
-		<link rel="license" href="https://creativecommons.org/licenses/by-nc-nd/3.0/rdf" type="application/rdf+xml"/>
-		<link rel="license" href="https://creativecommons.org/licenses/by-nc-nd/3.0/" type="text/html"/>
+    <link rel="alternate" href="/feed/" type="application/atom+xml" title="Atom feed"/>
 
-		<link rel="stylesheet" href="/style.css" type="text/css"/>
-		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic" type="text/css"/>
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-38526206-1']);
+        _gaq.push(['_setDomainName', 'lolnein.com']);
+        _gaq.push(['_gat._anonymizeIp']);
+        _gaq.push(['_trackPageview']);
 
-		<link rel="alternate" href="/feed/" type="application/atom+xml" title="Atom feed"/>
-
-
-		<script type="text/javascript">
-			var _gaq = _gaq || [];
-			_gaq.push(['_setAccount', 'UA-38526206-1']);
-			_gaq.push(['_setDomainName', 'lolnein.com']);
-			_gaq.push(['_gat._anonymizeIp']);
-			_gaq.push(['_trackPageview']);
-
-			(function() {
-				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-			})();
-		</script>
-
-		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-			<script>
-     		(adsbygoogle = window.adsbygoogle || []).push({
-          	google_ad_client: "ca-pub-5268656907812154",
-          	enable_page_level_ads: true
-     		});
-			</script>
-	</head>
-	
-<!-- Ezoic - Top of page - top_of_page -->
-<div id="ezoic-pub-ad-placeholder-102"></div>
-<!-- End Ezoic - Top of page - top_of_page -->
-
-	<body>
-		<div id="ads" class="robots-nocontent">
-			<!-- Ezoic - sidebar left - sidebar -->
-			<div id="ezoic-pub-ad-placeholder-101">
-				<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-				<!-- Left Side -->
-				<ins class="adsbygoogle"
-				     style="display:inline-block;width:160px;height:600px"
-				     data-ad-client="ca-pub-5268656907812154"
-				     data-ad-slot="5858691563"></ins>
-				<script>
-				     (adsbygoogle = window.adsbygoogle || []).push({});
-				</script>
-		</div>
-			<!-- End Ezoic - sidebar left - sidebar -->
-		</div>
-
-		<div id="main">
-{{ content }}
-		</div>
-
-		<nav id="nav">
-			<a href="/">
-				<img class="logo" src="/lolnein.svg" alt="lolnein"/>
-			</a>
-			
-			<div class="navelm"><a href="/portfolio/">Portfolio</a></div>
-			<div class="navelm"><a href="/archive/">Archive</a></div>
-			<div class="navelm"><a href="/about/">About</a></div>
-			<div class="navelm"><a href="/support/">Support</a></div>
-			<div id="followme">
-				<img src="/followandsupport.png" alt="Follow & Support LOLNEIN!"/>
-			</div>
-			
-			<a class="navsoc" href="https://twitter.com/lolnein"><img src="/twitter.png" style="width: 1cm; height: 1cm;" alt="lolnein on Twitter"/></a>
-			<a class="navsoc" href="https://www.facebook.com/lolnein"><img src="/facebook.png" style="width: 1cm; height: 1cm;" alt="lolnein on Facebook"/></a>
-			<a class="navsoc" href="https://www.instagram.com/lolneincom"><img src="/instagram.png" style="width: 1cm; height: 1cm;" alt="lolnein on Instagram"/></a>
-			<a class="navsoc" href="https://lolnein.com/feed/"><img src="/feed.png" style="width: 1cm; height: 1cm;" alt="lolnein feed"/></a>
-			<a href="https://www.patreon.com/bePatron?u=717973" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
-			
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+</head>
 
 
+<body>
 
-		</nav>
+<section class="section">
+    <div class="container">
+        <div class="columns is-multiline">
+            <div class="column is-full margin-bottom">
+                <div class="has-background-black has-text-centered is-size-3">
+                    Advertisement
+                </div>
+            </div>
+
+            <div class="column is-full">
+                <nav class="nav-image-container">
+                    <figure class="nav-image is-1">
+                        <a href="/">
+                            <img src="/assets/lolnein.png" alt="LOLNEIN Logo"/>
+                        </a>
+                    </figure>
+                    <figure class="nav-image space"></figure>
+                    <figure class="nav-image is-2">
+                        <a href="https://www.patreon.com/bePatron?u=717973">
+                            <img src="/assets/patreon.png" alt="To my Patreon!"/>
+                        </a>
+                    </figure>
+                    <figure class="nav-image space"></figure>
+                    <figure class="nav-image is-2">
+                        <a href="https://www.redbubble.com/people/LOLNEIN/shop">
+                            <img src="/assets/shop.png" alt="To the shop"/>
+                        </a>
+                    </figure>
+                </nav>
+            </div>
+
+            <div class="column is-full margin-bottom">
+                <nav class="columns is-mobile is-gapless has-text-centered is-size-6-mobile is-size-4-desktop text-light nav-row">
+                    <div class="column">
+                        <a href="/archive">
+                            <div class="has-background-black">Archive</div>
+                        </a>
+                    </div>
+                    <div class="column">
+                        <a href="/about">
+                            <div class="has-background-black">About</div>
+                        </a>
+                    </div>
+                    <div class="column">
+                        <a href="/portfolio">
+                            <div class="has-background-black">Portfolio</div>
+                        </a>
+                    </div>
+                </nav>
+            </div>
+
+            <div class="column is-full">
+                <div class="has-background-black has-text-centered is-size-3">
+                    Advertisement
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section>
+    <div class="container">
+        <div class="columns is-multiline">
+            <div class="column is-full">
+                <div class="container content-container has-background-black">
+                    {{ content }}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="section">
+    <div class="container">
+        <div class="columns is-multiline">
+            <div class="column is-full margin-bottom">
+                <nav class="columns is-mobile">
+                    <figure class="column image">
+                        <a href="https://www.patreon.com/bePatron?u=717973">
+                            <img src="/assets/patreon.png" alt="To my Patreon!"/>
+                        </a>
+                    </figure>
+                    <figure class="column image">
+                        <a href="https://www.redbubble.com/people/LOLNEIN/shop">
+                            <img src="/assets/shop.png" alt="To the shop"/>
+                        </a>
+                    </figure>
+                </nav>
+            </div>
+
+            <div class="column is-full">
+                <div class="has-background-black has-text-centered is-size-3">
+                    Advertisement
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 
-		<!-- Ezoic - sidebar right - sidebar_middle -->
-		<div id="ezoic-pub-ad-placeholder-104"></div>
-		<!-- End Ezoic - sidebar right - sidebar_middle -->
-
-		
-	</body>
+</body>
 </html>

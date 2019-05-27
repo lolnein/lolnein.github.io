@@ -1,0 +1,44 @@
+<div class="sticky">
+    <div class="column is-full">
+        <div class="arrow-container columns is-mobile is-gapless is-size-6-mobile is-size-4-desktop">
+            <div class="column">
+                {% if page.previous %}
+                <a rel="prev" href="{{ page.previous.id }}/" title="Previous">
+                    <div class="columns is-mobile has-text-left is-vcentered has-background-black previous-arrow">
+                        <figure class="column is-one-fifth previous-thumb image">
+                            <img src="/thumbs/{{ page.previous.comic }}" alt="Previous" onerror="this.src='/assets/black.png';"/>
+                        </figure>
+                        <span class="column is-four-fifths">Previous</span>
+                    </div>
+                </a>
+                {% else %}
+                <div class="columns is-mobile has-text-right is-vcentered has-background-black">
+                    <figure class="column is-one-fifth next-thumb image">
+                        <img src="/assets/black.png" alt="-"/>
+                    </figure>
+                    <span class="column is-four-fifths next-arrow">&nbsp;</span>
+                </div>
+                {% endif %}
+            </div>
+            <div class="column">
+                {% if page.next %}
+                <a rel="next" href="{{ page.next.id }}/" title="Next">
+                    <div class="columns is-mobile has-text-right is-vcentered has-background-black">
+                        <span class="column is-four-fifths next-arrow">Next</span>
+                        <figure class="column is-one-fifth next-thumb image">
+                            <img src="/thumbs/{{ page.next.comic }}" alt="Next" onerror="this.src='/assets/black.png';"/>
+                        </figure>
+                    </div>
+                </a>
+                {% else %}
+                <div class="columns is-mobile has-text-right is-vcentered has-background-black">
+                    <span class="column is-four-fifths next-arrow">&nbsp;</span>
+                    <figure class="column is-one-fifth next-thumb image">
+                        <img src="/assets/black.png" alt="-"/>
+                    </figure>
+                </div>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>

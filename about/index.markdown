@@ -22,6 +22,6 @@ Germany
 
 ![Email Address](/images/emailaddress.png)
 
-Generously hosted by [nyantec](https://nyantec.com/).
+Generously hosted by [GitHub](https://github.com/).
 
 [Privacy Policy](//g.ezoic.net/privacy/lolnein.com)
