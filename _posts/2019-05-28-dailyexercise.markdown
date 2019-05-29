@@ -13,6 +13,7 @@ Bonus Panel:
 <div class="title">Shop</div>
 
 This mouse pad is [available in my shop!](https://shop.spreadshirt.com/lolnein/)
+
 [![Daily Exercise Mouse Pad](/images/dailyexercise_mousepad.png)](https://shop.spreadshirt.com/lolnein/)
 
 <div class="title">Similar Comics</div>
