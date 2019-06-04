@@ -6,7 +6,7 @@ alt: The Ugly Caterpillar
 keywords: [ugly, caterpillar, butterfly, cocoon, beautiful]
 ---
 
-This design is [available in my shop!](https://shop.spreadshirt.com/lolnein/)
+This design and more is [available in my Spreadshirt shop!](https://shop.spreadshirt.com/lolnein/) (Expires today: FREE SHIPPING! Code: SHIPIT19)
 
 [![Ugly Butterly Bag](/images/uglybutterfly_bag.png)](https://shop.spreadshirt.com/lolnein/)
 
