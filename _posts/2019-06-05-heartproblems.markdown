@@ -14,7 +14,7 @@ Bonus Panel:
 
 This design is [available in my shop!](https://www.redbubble.com/de/shop/lolnein?iaCode=u-clothing)
 
-[![Heart Problems Shirt](/images/heartproblems_shirt.png)](https://www.redbubble.com/de/shop/lolnein?iaCode=u-clothing)
+[![Heart Shirt](/images/heart_shirt.png)](https://www.redbubble.com/de/shop/lolnein?iaCode=u-clothing)
 
 <div class="title">Similar Comics</div>
 
