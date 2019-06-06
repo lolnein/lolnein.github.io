@@ -12,4 +12,6 @@ Bonus Panel:
 
 <div class="title">Shop</div>
 
+Now 25% off apparel! Code: 25SAVE
+
 [![Redbubble Shirts](/images/redbubble_shirts.png)](https://www.redbubble.com/shop/lolnein)
