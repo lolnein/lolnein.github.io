@@ -12,9 +12,9 @@ Bonus Panel:
 
 <div class="title">Shop</div>
 
-This design is [available in my shop!](https://www.redbubble.com/de/shop/lolnein?iaCode=u-clothing)
+This design is [available in my shop!](https://www.redbubble.com/shop/lolnein)
 
-[![Heart Shirt](/images/heart_shirt.png)](https://www.redbubble.com/de/shop/lolnein?iaCode=u-clothing)
+[![Heart Shirt](/images/heart_shirt.png)](https://www.redbubble.com/shop/lolnein)
 
 <div class="title">Similar Comics</div>
 

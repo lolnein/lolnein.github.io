@@ -9,3 +9,7 @@ keywords: [strobe, light, bulb, lamp, flickering, reading, broken, change, dream
 Bonus Panel:
 
 ![Live Your Dream Bonus Panel](/images/liveyourdream_bonus.png)
+
+<div class="title">Shop</div>
+
+[![Redbubble Shirts](/images/redbubble_shirts.png)](https://www.redbubble.com/shop/lolnein)
