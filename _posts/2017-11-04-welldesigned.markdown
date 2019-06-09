@@ -1,4 +1,4 @@
----
+Hi ---
 layout: comic
 comic: welldesigned.png
 title: Well-Designed
@@ -12,6 +12,6 @@ Bonus GIF:
 
 ![Well-Designed Bonus GIF](/images/welldesigned_bonus.gif)
 
-This design is now available [in my shop!](https://www.redbubble.com/people/lolnein/works/39422096-drooling?p=iphone-case&type=iphone_xs_soft&rbs=5ef9ab4e-ccd1-4258-b090-b5129759e551&ref=available_products&asc=u) :)
+This design is now available [in my shop!](https://www.redbubble.com/shop/Lolnein?iaCode=u-case-iphone&ref=search_box&sortOrder=relevant) :)
 
-![Drooling Case](/images/drooling_case.png)
+[![Drooling Case](/images/drooling_case.png)](https://www.redbubble.com/shop/Lolnein?iaCode=u-case-iphone&ref=search_box&sortOrder=relevant)
