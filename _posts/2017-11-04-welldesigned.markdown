@@ -1,4 +1,4 @@
-Hi ---
+---
 layout: comic
 comic: welldesigned.png
 title: Well-Designed
