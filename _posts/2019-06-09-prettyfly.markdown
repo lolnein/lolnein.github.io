@@ -10,6 +10,6 @@ Bonus Panel:
 
 ![Pretty Fly Bonus Panel](/images/prettyfly_bonus.PNG)
 
-This design is now available [in my shop!](https://www.redbubble.com/shop/Lolnein) :)
+This design is now available [in my shop!](https://www.redbubble.com/people/LOLNEIN/shop) :)
 
-[![Pretty Fly Shirt](/images/prettyfly_shirt.jpg)](https://www.redbubble.com/shop/Lolnein)
+[![Pretty Fly Shirt](/images/prettyfly_shirt.jpg)](https://www.redbubble.com/people/LOLNEIN/shop)
