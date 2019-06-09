@@ -12,4 +12,4 @@ Bonus Panel:
 
 This design is now available [in my shop!](https://www.redbubble.com/shop/Lolnein) :)
 
-[![Pretty Fly Shirt](/images/prettyfly_shirt.PNG)](https://www.redbubble.com/shop/Lolnein)
+[![Pretty Fly Shirt](/images/prettyfly_shirt.jpg)](https://www.redbubble.com/shop/Lolnein)
