@@ -10,11 +10,8 @@ Bonus Panel:
 
 ![Must Bee Love Bonus Panel](/images/mustbeelove_bonus.png)
 
-This design is now [available in my shop!](https://shop.spreadshirt.com/lolnein/)
-![Must Bee Love Mug](/images/mustbeelove_mug.png)
+This design is now [available in my shop!](https://www.redbubble.com/people/lolnein/works/39566951-bumblebee?asc=u&p=classic-tee)
 
-<div class="title">Similar Comics</div>
+<b>Now 20% off everything!</b> Code: ALL20
 
-[![The Ugly Caterpillar](/thumbs/theuglycaterpillar.png){:height="150px" width="150px"}](https://lolnein.com/2017/09/18/theuglycaterpillar/)
-[![Leg Surgery](/thumbs/legsurgery.png){:height="150px" width="150px"}](https://lolnein.com/2017/06/30/legsurgery/)
-[![The Greatest Fear](/thumbs/thegreatestfear.png){:height="150px" width="150px"}](https://lolnein.com/2018/06/18/thegreatestfear/)
+[![Bumblebee Shirt](/images/bumblebee_shirt.png)](https://www.redbubble.com/people/lolnein/works/39566951-bumblebee?asc=u&p=classic-tee)
