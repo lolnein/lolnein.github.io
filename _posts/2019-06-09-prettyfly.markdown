@@ -12,4 +12,6 @@ Bonus Panel:
 
 This design is now available [in my shop!](https://www.redbubble.com/people/lolnein/works/39423711-pretty-fly?asc=u&p=classic-tee) :)
 
+<b>Now 20% off everything!</b> Code: ALL20
+
 [![Pretty Fly Shirt](/images/prettyfly_shirt.jpg)](https://www.redbubble.com/people/lolnein/works/39423711-pretty-fly?asc=u&p=classic-tee)
