@@ -9,3 +9,7 @@ keywords: [soap, empty, refill, water, lazy, tap]
 Bonus Panel:
 
 ![Soapless Case Bonus Panel](/images/soaplesscase_bonus.png)
+
+This design is now available [in my shop!](https://www.redbubble.com/people/lolnein/works/39590082-soap?asc=u&p=classic-tee) :)
+
+[![Soap Shirt](/images/soap_shirt.png)](https://www.redbubble.com/people/lolnein/works/39590082-soap?asc=u&p=classic-tee)
