@@ -12,6 +12,4 @@ Bonus Panel:
 
 This design is now available [in my shop!](https://www.redbubble.com/people/lolnein/works/39045928-a-marked-pen?asc=u&p=classic-tee) :)
 
-<b>Now 20% off everything!</b> Code: ALL20
-
 [![A Marked Pen Shirt](/images/amarkedpen_shirt.png)](https://www.redbubble.com/people/lolnein/works/39045928-a-marked-pen?asc=u&p=classic-tee)
