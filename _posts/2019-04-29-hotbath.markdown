@@ -10,13 +10,7 @@ Bonus Panel:
 
 ![Hot Bath Bonus Panel](/images/hotbath_bonus.png)
 
-Great gift idea for tea lovers: [Get this comic on a mug!](https://lolnein.com/shop/)
+Great gift idea for tea lovers: [Get this comic on a mug!](https://www.redbubble.com/people/lolnein/works/39482887-a-hot-bath?asc=u&p=mug)
 
-![Hot Bath on a Mug](/images/hotbath_mug.png)
-
-<div class="title">Similar Comics</div>
-
-[![Smug](/thumbs/smug.png){:height="150px" width="150px"}](https://lolnein.com/2018/08/27/smug/)
-[![Worst Bowl Ever](/thumbs/worstbowlever.png){:height="150px" width="150px"}](https://lolnein.com/2018/08/02/worstbowlever/)
-[![No Soaking Matter](/thumbs/nosoakingmatter.png){:height="150px" width="150px"}](https://lolnein.com/2019/04/12/nosoakingmatter/)
+[![Hot Bath on a Mug](/images/hotbath_mug.png)](https://www.redbubble.com/people/lolnein/works/39482887-a-hot-bath?asc=u&p=mug)
 
