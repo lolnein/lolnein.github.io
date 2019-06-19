@@ -10,11 +10,5 @@ Bonus Panel:
 
 ![Laundry Basket Bonus Panel](/images/laundrybasket_bonus.png)
 
-This shirt is now [available in my shop!](https://shop.spreadshirt.com/lolnein/)
-[![Laundry Basket Shirt](/images/laundrybasket_shirt.png)](https://shop.spreadshirt.com/lolnein/)
-
-<div class="title">Similar Comics</div>
-
-[![Freshly Washed Clothes](/thumbs/freshlywashedclothes.png){:height="150px" width="150px"}](https://lolnein.com/2017/09/20/freshlywashedclothes/)
-[![A New Adventure](/thumbs/anewadventure.png){:height="150px" width="150px"}](https://lolnein.com/2018/08/10/anewadventure/)
-[![Bottom Plate](/thumbs/bottomplate.png){:height="150px" width="150px"}](https://lolnein.com/2017/07/14/bottomplate/)
+This design is now [available in my shop!](https://www.redbubble.com/people/lolnein/works/39602075-laundry-basket?p=t-shirt&style=mens&ref=available_products_swiper)
+[![Laundry Basket Shirt](/images/laundrybasket_shirt2.png)](https://www.redbubble.com/people/lolnein/works/39602075-laundry-basket?p=t-shirt&style=mens&ref=available_products_swiper)
