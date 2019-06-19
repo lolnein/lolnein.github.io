@@ -3,7 +3,7 @@ layout: comic
 comic: usefulinformation.gif
 title: Useful Information
 alt: Useful Information
-keywords: [useful, information, brain, fun, facts]
+keywords: [useful, information, brain, fun, facts, neuro, psychology, learning, studying, concentration]
 ---
 
 Bonus Panels:
@@ -13,14 +13,6 @@ Bonus Panels:
 ![Useful Information Bonus 2](/images/usefulinformation_name.gif)
 
 
-You can get this design on bags, mugs, shirts [and more in my shop!](https://shop.spreadshirt.com/lolnein/)
+You can get this design on bags, mugs, shirts [and more in my shop!](https://www.redbubble.com/people/lolnein/works/38770548-useful-information?asc=u&p=classic-tee)
 
-![Useful Information Shirt](/images/usefulinformation_shirt.png)
-
-
-
-Old Version:
-
-![Useful Information Old](/images/usefulinformation_old.gif)
-
-You can also find me on reddit: https://www.reddit.com/user/lolnein/
+[![Useful Information Shirt](/images/usefulinformation_shirt2.png)](https://www.redbubble.com/people/lolnein/works/38770548-useful-information?asc=u&p=classic-tee)
