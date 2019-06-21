@@ -12,6 +12,4 @@ Bonus Panel:
 
 This design is now [available in my shop!](https://www.redbubble.com/people/LOLNEIN/shop)
 
-<b> Now 25% off apparel!</b> Code: GEARUP
-
 [![Volcayes Shirt](/images/volcayes_shirtmug.png)](https://www.redbubble.com/people/LOLNEIN/shop)

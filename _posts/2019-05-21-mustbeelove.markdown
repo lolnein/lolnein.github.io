@@ -12,6 +12,4 @@ Bonus Panel:
 
 This design is now [available in my shop!](https://www.redbubble.com/people/lolnein/works/39566951-bumblebee?asc=u&p=classic-tee)
 
-<b> Now 25% off apparel!</b> Code: GEARUP
-
 [![Bumblebee Shirt](/images/bumblebee_shirt.png)](https://www.redbubble.com/people/lolnein/works/39566951-bumblebee?asc=u&p=classic-tee)

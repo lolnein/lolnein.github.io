@@ -15,6 +15,4 @@ Bonus Panels:
 
 You can get this design on bags, mugs, shirts [and more in my shop!](https://www.redbubble.com/people/lolnein/works/38770548-useful-information?asc=u&p=classic-tee)
 
-<b> Now 25% off apparel!</b> Code: GEARUP
-
 [![Useful Information Shirt](/images/usefulinformation_shirt2.png)](https://www.redbubble.com/people/lolnein/works/38770548-useful-information?asc=u&p=classic-tee)

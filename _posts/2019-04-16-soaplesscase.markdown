@@ -12,6 +12,4 @@ Bonus Panel:
 
 This design is now available [in my shop!](https://www.redbubble.com/people/lolnein/works/39590082-soap?asc=u&p=classic-tee) :)
 
-<b> Now 25% off apparel!</b> Code: GEARUP
-
 [![Soap Shirt](/images/soap_shirt.png)](https://www.redbubble.com/people/lolnein/works/39590082-soap?asc=u&p=classic-tee)
