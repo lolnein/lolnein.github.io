@@ -14,4 +14,6 @@ Bonus GIF:
 
 This design is now available [in my shop!](https://www.redbubble.com/shop/Lolnein?iaCode=u-case-iphone&ref=search_box&sortOrder=relevant) :)
 
+<b>Today (27.06.) 20% off everything!</b>
+
 [![Drooling Case](/images/drooling_case.png)](https://www.redbubble.com/shop/Lolnein?iaCode=u-case-iphone&ref=search_box&sortOrder=relevant)

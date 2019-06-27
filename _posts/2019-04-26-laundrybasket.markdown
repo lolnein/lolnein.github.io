@@ -12,4 +12,6 @@ Bonus Panel:
 
 This design is now [available in my shop!](https://www.redbubble.com/people/lolnein/works/39602075-laundry-basket?p=t-shirt&style=mens&ref=available_products_swiper)
 
+<b>Today (27.06.) 20% off everything!</b>
+
 [![Laundry Basket Shirt](/images/laundrybasket_shirt2.png)](https://www.redbubble.com/people/lolnein/works/39602075-laundry-basket?p=t-shirt&style=mens&ref=available_products_swiper)

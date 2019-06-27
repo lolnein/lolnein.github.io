@@ -12,4 +12,6 @@ Bonus Panel:
 
 This design is now [available in my shop!](https://www.redbubble.com/people/lolnein/works/39566951-bumblebee?asc=u&p=classic-tee)
 
+<b>Today (27.06.) 20% off everything!</b>
+
 [![Bumblebee Shirt](/images/bumblebee_shirt.png)](https://www.redbubble.com/people/lolnein/works/39566951-bumblebee?asc=u&p=classic-tee)
