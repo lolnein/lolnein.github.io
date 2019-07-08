@@ -28,7 +28,7 @@ PS4 vs Nintendo Switch <- You are here
 
 [SNES Classic Mini vs SNES](https://lolnein.com/2017/06/27/snesclassicminivssnes/)
 
-[Nintendo Switch vs Cardboard] Crafts(https://lolnein.com/2018/01/18/nintendoswitchvscardboardcrafts/)
+[Nintendo Switch vs Cardboard](https://lolnein.com/2018/01/18/nintendoswitchvscardboardcrafts/)
 
 [Airpods vs Earbuds](http://lolnein.com/2016/09/08/airpodsvsearbuds/)
 
