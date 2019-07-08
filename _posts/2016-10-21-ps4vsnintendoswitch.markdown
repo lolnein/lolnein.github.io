@@ -20,6 +20,7 @@ More "But can you do this" Comics:
 [Smartwatch vs Flip Phone](http://lolnein.com/2015/04/24/smartwatches/)
 
 [Smartphone vs Nokia](http://lolnein.com/2016/09/16/smartphonevsnokia/)
+
 [CD vs Floppy Disk](http://lolnein.com/2015/05/11/cdvsfloppydisk/)
 
 PS4 vs Nintendo Switch <- You are here
@@ -28,7 +29,7 @@ PS4 vs Nintendo Switch <- You are here
 
 [SNES Classic Mini vs SNES](https://lolnein.com/2017/06/27/snesclassicminivssnes/)
 
-[Nintendo Switch vs Cardboard](https://lolnein.com/2018/01/18/nintendoswitchvscardboardcrafts/)
+[Nintendo Switch vs Cardboard Crafts](https://lolnein.com/2018/01/18/nintendoswitchvscardboardcrafts/)
 
 [Airpods vs Earbuds](http://lolnein.com/2016/09/08/airpodsvsearbuds/)
 

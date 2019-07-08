@@ -6,34 +6,31 @@ alt: SNES Classic Mini vs SNES
 keywords: [snes, classic, mini, cartridge, comic, animation, super, mario]
 ---
 
-Bonus Panel:
+[Smartphone vs Flip Phone PART 1](http://lolnein.com/2013/08/28/smartphones/) (or [completely animated and with sound!](https://youtu.be/JtQsyorF4WA))
 
-![SNES Classic Mini vs SNES](/images/snesclassicminivssnes_bonus.gif)
+[Smartphone vs Flip Phone PART 2](http://lolnein.com/2014/10/01/smartphones2/)
 
-More "But can you do this?" comics:
+[Smartphone vs Flip Phone PART 3](http://lolnein.com/2016/09/12/galaxynote7vsflipphone/)
 
-[Smartphone vs Flip Phone PART 1](https://lolnein.com/2013/08/28/smartphones/) (or [completely animated and with sound!](https://youtu.be/JtQsyorF4WA))
+[Smartphone vs Flip Phone PART 4](https://lolnein.com/2019/04/27/galaxyfoldvsflipphone/)
 
-[Smartphone vs Flip Phone PART 2](https://lolnein.com/2014/10/01/smartphones2/)
+[Smartwatch vs Flip Phone](http://lolnein.com/2015/04/24/smartwatches/)
 
-[Smartphone vs Flip Phone PART 3](https://lolnein.com/2016/09/12/galaxynote7vsflipphone/)
+[Smartphone vs Nokia](http://lolnein.com/2016/09/16/smartphonevsnokia/)
+[CD vs Floppy Disk](http://lolnein.com/2015/05/11/cdvsfloppydisk/)
 
-[Smartwatch vs Flip Phone](https://lolnein.com/2015/04/24/smartwatches/)
+[PS4 vs Nintendo Switch](http://lolnein.com/2016/10/21/ps4vsnintendoswitch/)
 
-[Smartphone vs Nokia](https://lolnein.com/2016/09/16/smartphonevsnokia/)
+[Nintendo 2DS vs 3DS](http://lolnein.com/2013/09/06/2ds/)
 
-[Airpods vs Earbuds](https://lolnein.com/2016/09/08/airpodsvsearbuds/)
+SNES Classic Mini vs SNES <- You are here
 
-[CD vs Floppy Disk](https://lolnein.com/2015/05/11/cdvsfloppydisk/)
+[Nintendo Switch vs Cardboard Crafts](https://lolnein.com/2018/01/18/nintendoswitchvscardboardcrafts/)
 
-[Book vs E-reader](https://lolnein.com/2016/03/03/bookvsereader/)
+[Airpods vs Earbuds](http://lolnein.com/2016/09/08/airpodsvsearbuds/)
 
-[Laces vs Velcro](https://lolnein.com/2016/07/28/lacesvsvelcro/)
+[Book vs E-reader](http://lolnein.com/2016/03/03/bookvsereader/)
 
-[Stylus vs Ball Pen](https://lolnein.com/2015/09/25/stylusvsballpen/)
+[Laces vs Velcro](http://lolnein.com/2016/07/28/lacesvsvelcro/)
 
-[Nintendo 2DS vs 3DS](https://lolnein.com/2013/09/06/2ds/)
-
-[PS4 vs Nintendo Switch](https://lolnein.com/2016/10/21/ps4vsnintendoswitch/)
-
-[PARTY HARD GIFS](http://blog.lolnein.com/2013/09/19/partyhard/) (WARNING: FLASHING IMAGES)
+[Stylus vs Ball Pen](http://lolnein.com/2015/09/25/stylusvsballpen/)
