@@ -10,6 +10,6 @@ Bonus Panel:
 
 ![Must Bee Love Bonus Panel](/images/mustbeelove_bonus.png)
 
-This design is now [available in my shop!](https://www.redbubble.com/people/lolnein/works/39566951-bumblebee?asc=u&p=classic-tee)
+This design is now [available in my shop!](https://www.redbubble.com/shop/Lolnein)
 
-[![Bumblebee Shirt](/images/bumblebee_shirt.png)](https://www.redbubble.com/people/lolnein/works/39566951-bumblebee?asc=u&p=classic-tee)
+[![Bumblebee Shirt](/images/bumblebee_shirt.png)](https://www.redbubble.com/shop/Lolnein)

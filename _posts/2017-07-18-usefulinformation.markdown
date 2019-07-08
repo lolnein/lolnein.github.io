@@ -13,6 +13,6 @@ Bonus Panels:
 ![Useful Information Bonus 2](/images/usefulinformation_name.gif)
 
 
-You can get this design on bags, mugs, shirts [and more in my shop!](https://www.redbubble.com/people/lolnein/works/38770548-useful-information?asc=u&p=classic-tee)
+You can get this design on bags, mugs, shirts [and more in my shop!](https://www.redbubble.com/shop/Lolnein)
 
-[![Useful Information Shirt](/images/usefulinformation_shirt2.png)](https://www.redbubble.com/people/lolnein/works/38770548-useful-information?asc=u&p=classic-tee)
+[![Useful Information Shirt](/images/usefulinformation_shirt2.png)](https://www.redbubble.com/shop/Lolnein)
