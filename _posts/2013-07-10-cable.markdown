@@ -3,24 +3,13 @@ layout: comic
 comic: cable.png
 title: Cable
 alt: Cable
-keywords: [office, chair, cable, rage, headphones, goddammit]
+keywords: [office, chair, vs, cable, rage, headphones, goddammit]
 ---
 
 Bonus Panel: 
 
 ![Cable Bonus Panel](/images/cable_bonus.png)
 
-
-Animated Version:
-
-![Cable GIF](/images/cable.gif)
-
-
 Animated Version (with sound!):
 
 [The Cable (YouTube)](https://youtu.be/51-txWcXHtU)
-
-
-Old Version:
-
-![Cable Old Version](/images/cable_old.png)
