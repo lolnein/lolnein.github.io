@@ -9,3 +9,7 @@ keywords: [therapy, therapist, psychology, fly, insect, mental, health, depressi
 Bonus Comic:
 
 ![Professional Help Bonus](/images/professionalhelp_bonus.png)
+
+This design is now [available in my shop!](https://www.redbubble.com/shop/Lolnein)
+
+[![Dr. Fly Notebook](/images/drfly_notebook.jpg)](https://www.redbubble.com/shop/Lolnein)
