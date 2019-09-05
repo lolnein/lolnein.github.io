@@ -35,14 +35,5 @@
 	{% if page.next %}<a rel="next" href="{{ page.next.id }}/" title="Next"><img class="arrow" src="/next_dark.svg" style="float: right" alt="Next"/></a>{% else %}<img class="arrow" src ="/next_light.svg" style="float: right" alt="Next"/>{% endif %}
 </div>
 
-<div id="disqus_thread" class="center robots-nocontent"></div>
-<script type="text/javascript">
-	var disqus_shortname = 'lolnein';
-	var disqus_identifier = '{{ page.id }}';
-	var disqus_url = 'https://lolnein.com{{ page.url }}/';
-	(function() {
-		var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-		dsq.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
-		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-	})();
+
 </script>
