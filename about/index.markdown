@@ -24,6 +24,4 @@ Germany
 
 Generously hosted by [nyantec](https://nyantec.com/).
 
-## Privacy Policy
-
-//g.ezoic.net/privacy/lolnein.com
+[Privacy Policy](//g.ezoic.net/privacy/lolnein.com)
