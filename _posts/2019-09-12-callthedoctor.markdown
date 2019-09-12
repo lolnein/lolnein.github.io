@@ -11,7 +11,7 @@ Bonus Panel:
 ![Call the Doctor Bonus](/images/callthedoctor_bonus.png)
 
 
-More phone related comics:
+More phone-related comics:
 
 [Well-Designed](https://lolnein.com/2017/11/04/welldesigned/)
 
