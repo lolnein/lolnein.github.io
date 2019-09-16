@@ -1,0 +1,11 @@
+---
+layout: comic
+comic: hugeguy.png
+title: Huge Guy
+alt: Huge Guy
+keywords: [shower, showerhead, rain, huge, sky, outside, bulb, light, sun, bathroom]
+---
+
+Bonus Panel:
+
+![Huge Guy Bonus](/images/hugeguy_bonus.png)
