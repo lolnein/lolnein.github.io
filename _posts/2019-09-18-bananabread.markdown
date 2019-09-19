@@ -10,6 +10,6 @@ Bonus Panel:
 
 ![Banana Bread Bonus](/images/bananabread_bonus.png)
 
-This design is now [available in my shop!](https://www.redbubble.com/shop/Lolnein) (+++Last day (18.09.): 30% off everything!+++)
+This design is now [available in my shop!](https://www.redbubble.com/shop/Lolnein)
 
 [![Banana Shirt](/images/banana_shirt.jpg)](https://www.redbubble.com/shop/Lolnein)
