@@ -3,7 +3,7 @@ layout: comic
 comic: identicaltests.png
 title: Identical Tests
 alt: Identical Tests
-keywords: [tests, copier, class]
+keywords: [tests, copier, class, copy, exam, answers, school, university, teacher, professor]
 ---
 
 Bonus Panel:
