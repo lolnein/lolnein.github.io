@@ -9,3 +9,7 @@ keywords: [tests, copier, class, copy, exam, answers, school, university, teache
 Bonus Panel:
 
 ![Identical Tests Bonus Panel](/images/identicaltests_bonus.png)
+
+Bonus Panel 2:
+
+![Identical Tests Bonus Panel 2](/images/identicaltests_bonus2.png)
