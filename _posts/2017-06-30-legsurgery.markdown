@@ -10,12 +10,10 @@ Bonus Panel:
 
 ![Leg Surgery](/images/legsurgery_bonus.png)
 
-More Spider Comics:
+More Critter Comics:
 
-[The Greatest Fear](https://lolnein.com/2018/06/18/thegreatestfear/)
-
-[This Is Spider](https://lolnein.com/2014/02/28/thisisspider/)
-
-[Sixteen-eyes](https://lolnein.com/2015/08/23/sixteeneyes/)
-
-[Spider Magic](https://lolnein.com/2018/08/09/spidermagic/)
+[![Pretty Fly](/thumbs/usefulinformation.png){:height="150px" width="150px"}](https://lolnein.com/2018/06/18/thegreatestfear/)
+[![The Ugly Caterpillar](/thumbs/potatochips.png){:height="150px" width="150px"}](https://lolnein.com/2017/09/18/theuglycaterpillar/)
+[![Clean Window](/thumbs/cleanwindow.png){:height="150px" width="150px"}](https://lolnein.com/2018/08/06/cleanwindow/)
+[![Spider Magic](/thumbs/spidermagic.png){:height="150px" width="150px"}](https://lolnein.com/2018/08/09/spidermagic/)
+[![Back Rub](/thumbs/backrub.png){:height="150px" width="150px"}](https://lolnein.com/2017/06/13/backrub/)
