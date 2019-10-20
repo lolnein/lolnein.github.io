@@ -1,0 +1,11 @@
+---
+layout: comic
+comic: dontmove.png
+title: Don't Move
+alt: Don't Move
+keywords: [optical, illusion, moving, circles, photo]
+---
+
+Bonus Panel:
+
+![Don't Move Bonus](/images/dontmove_bonus.png)
