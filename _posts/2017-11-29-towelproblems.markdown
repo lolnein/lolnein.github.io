@@ -8,5 +8,5 @@ keywords: [towel, shower, ass, fear, body, dry]
 
 Bonus Panel:
 
-![Towel Problems Bonus Panel](/images/towelproblems_bonus.png)
+![Towel Problems Bonus Panel](/images/towelproblems_bonus2.png)
 
