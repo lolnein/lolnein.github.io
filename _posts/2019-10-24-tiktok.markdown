@@ -1,0 +1,11 @@
+---
+layout: comic
+comic: tiktok.png
+title: TikTok
+alt: TikTok
+keywords: [tiktok, time, app, comic, smartphone, iphone, funny, android]
+---
+
+Bonus Panel:
+
+![TikTok Bonus](/images/tiktok_bonus.png)
