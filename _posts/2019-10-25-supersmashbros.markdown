@@ -9,3 +9,9 @@ keywords: [super, smash, bros, brothers, nintendo, switch, ultimate, brawl, mele
 Bonus Panel (makes only sense [when you know this comic](https://lolnein.com/2017/05/04/rainbowroad/)):
 
 ![Super Smash Bros Bonus](/images/supersmashbros_bonus.png)
+
+Here's another Lakitu comic:
+
+[Patient Mario](https://lolnein.com/2019/06/28/patientmario/)
+
+
