@@ -1,10 +1,17 @@
 ---
 layout: comic
-comic: airpodsvsearbuds.gif
-title: Airpods vs Earbuds
-alt: Airpods vs Earbuds
-keywords: [airpods, apple, earbuds, vs]
+comic: coffeemachinevsfrenchpress.gif
+title: Coffee Machine vs French Press
+alt:  Coffee Machine vs French Press
+keywords: [fully, automatic, coffee, machine, french, press, maker, but can you do this, delonghi, nespresso, jura, keurig]
 ---
+
+Idea by my really nice flatmate Elias :)
+
+Bonus Panel:
+
+![Coffee Machine vs French Press Bonus](/images/coffeemachinevsfrenchpress_bonus.gif)
+
 
 More "But can you do this" Comics:
 
@@ -34,10 +41,10 @@ More "But can you do this" Comics:
 
 [Stylus vs Ball Pen](http://lolnein.com/2015/09/25/stylusvsballpen/)
 
-Airpods vs Earbuds <- You are here!
+[Airpods vs Earbuds](http://lolnein.com/2016/09/08/airpodsvsearbuds/)
 
 [Book vs E-reader](http://lolnein.com/2016/03/03/bookvsereader/)
 
 [Laces vs Velcro](http://lolnein.com/2016/07/28/lacesvsvelcro/)
 
-[Coffee Machine vs French Press](http://lolnein.com/2019/10/29/coffeemachinevsfrenchpress/)
+Coffee Machine vs French Press <- You are here!

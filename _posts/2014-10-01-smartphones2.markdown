@@ -8,9 +8,11 @@ keywords: [bendgate, iphone, apple, smartphones, flip phones]
 
 More "But can you do this" Comics:
 
-[Smartphone vs Flip Phone PART 1](http://lolnein.com/2013/08/28/smartphones/) (or [completely animated and with sound!](https://youtu.be/JtQsyorF4WA))
+More "But can you do this" Comics:
 
-Smartphone vs Flip Phone PART 2 <- You are here
+[Smartphone vs Flip Phone PART 1](http://lolnein.com/2013/08/28/smartphones/)
+
+Smartphone vs Flip Phone PART 2 <- You are here!
 
 [Smartphone vs Flip Phone PART 3](http://lolnein.com/2016/09/12/galaxynote7vsflipphone/)
 
@@ -30,10 +32,14 @@ Smartphone vs Flip Phone PART 2 <- You are here
 
 [Nintendo Switch vs Cardboard Crafts](https://lolnein.com/2018/01/18/nintendoswitchvscardboardcrafts/)
 
+[Pewdiepie vs LOLNEIN](https://lolnein.com/2018/01/20/pewdiepievslolnein/)
+
+[Stylus vs Ball Pen](http://lolnein.com/2015/09/25/stylusvsballpen/)
+
 [Airpods vs Earbuds](http://lolnein.com/2016/09/08/airpodsvsearbuds/)
 
 [Book vs E-reader](http://lolnein.com/2016/03/03/bookvsereader/)
 
 [Laces vs Velcro](http://lolnein.com/2016/07/28/lacesvsvelcro/)
 
-[Stylus vs Ball Pen](http://lolnein.com/2015/09/25/stylusvsballpen/)
+[Coffee Machine vs French Press](http://lolnein.com/2019/10/29/coffeemachinevsfrenchpress/)
