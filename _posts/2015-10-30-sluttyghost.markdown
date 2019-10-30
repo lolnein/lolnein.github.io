@@ -6,9 +6,16 @@ alt: Slutty Ghost
 keywords: [halloween, ghost, slutty, costume, ghosts, sexy, party]
 ---
 
-Happy slutty Halloween! Here's another slutty comic: [Slutty Tree](https://lolnein.com/2017/12/23/sluttytree/)
+Happy slutty Halloween!
 
 ![Slutty Ghost Bonus GIF](/images/sluttyghost_bonus.gif)
+
+Because a lot of people say it could be a little person: Nope, they would look like this:
+
+![Slutty Ghost Bonus 2](/images/sluttyghost_bonus2.png)
+
+
+
 
 More Animated Comics:
 
