@@ -11,20 +11,22 @@ Bonus Panel:
 ![Call the Doctor Bonus](/images/callthedoctor_bonus.png)
 
 
-More phone-related comics:
+More Technology Comics:
+
+[Loving Technology](https://lolnein.com/2019/11/06/lovingtechnology/)
+
+Call The Doctor <- You are here!
+
+[Daily Exercise](https://lolnein.com/2019/05/28/dailyexercise/)
+
+[Slow Laptop](https://lolnein.com/2018/08/30/slowlaptop/)
+
+[Unsaved Work](https://lolnein.com/2018/06/18/unsavedwork/)
+
+[Windows Update](https://lolnein.com/2018/06/14/windowsupdate/)
+
+[Update And Restart](https://lolnein.com/2018/01/26/updateandrestart/)
 
 [Well-Designed](https://lolnein.com/2017/11/04/welldesigned/)
 
 [Smartphone vs Flip Phone PART 1](http://lolnein.com/2013/08/28/smartphones/)
-
-[Smartphone vs Flip Phone PART 2](http://lolnein.com/2014/10/01/smartphones2/)
-
-[Smartphone vs Flip Phone PART 3](http://lolnein.com/2016/09/12/galaxynote7vsflipphone/)
-
-[Galaxy Fold vs Flip Phone](https://lolnein.com/2019/04/27/galaxyfoldvsflipphone/)
-
-[Smartwatch vs Flip Phone](http://lolnein.com/2015/04/24/smartwatches/)
-
-[Smartphone vs Nokia](http://lolnein.com/2016/09/16/smartphonevsnokia/)
-
-[Me and My Phone](https://lolnein.com/2017/06/26/meandmyphone/)

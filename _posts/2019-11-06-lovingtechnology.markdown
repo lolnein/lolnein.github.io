@@ -1,14 +1,19 @@
 ---
 layout: comic
-comic: unsavedwork.png
-title: Unsaved Work
-alt: Unsaved Work
-keywords: [unsaved, work, windows, update, restart]
+comic: lovingtechnology.png
+title: Loving Technology
+alt:  Loving Technology
+keywords: [technology, IT, pc, computer, printer, mouse, screen, monitor, comic]
 ---
+
+Bonus Panel:
+
+![Loving Technology Bonus](/images/lovingtechnology_bonus.png)
+
 
 More Technology Comics:
 
-[Loving Technology](https://lolnein.com/2019/11/06/lovingtechnology/)
+Loving Technology <- You are here!
 
 [Call The Doctor](https://lolnein.com/2019/09/12/callthedoctor/)
 
@@ -16,7 +21,7 @@ More Technology Comics:
 
 [Slow Laptop](https://lolnein.com/2018/08/30/slowlaptop/)
 
-Unsaved Work <- You are here!
+[Unsaved Work](https://lolnein.com/2018/06/18/unsavedwork/)
 
 [Windows Update](https://lolnein.com/2018/06/14/windowsupdate/)
 
@@ -25,4 +30,3 @@ Unsaved Work <- You are here!
 [Well-Designed](https://lolnein.com/2017/11/04/welldesigned/)
 
 [Smartphone vs Flip Phone PART 1](http://lolnein.com/2013/08/28/smartphones/)
-
