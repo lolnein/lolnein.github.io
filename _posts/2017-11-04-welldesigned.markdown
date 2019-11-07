@@ -31,8 +31,8 @@ More Technology Comics:
 
 Well-Designed <- You are here!
 
-
 [Smartphone vs Flip Phone PART 1](http://lolnein.com/2013/08/28/smartphones/)
+
 
 This design is now available [in my shop!](https://www.redbubble.com/shop/Lolnein?iaCode=u-case-iphone&ref=search_box&sortOrder=relevant) :)
 
