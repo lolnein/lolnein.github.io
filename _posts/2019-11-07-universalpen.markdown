@@ -3,7 +3,7 @@ layout: comic
 comic: universalpen.png
 title: Universal Pen
 alt:  Universal Pen
-keywords: [universal, pen, pens, writing, pencil, mont blanc, parker, copic, lamy, edding, drawing, invention]
+keywords: [universal, pen, pens, writing, pencil, mont blanc, parker, copic, lamy, edding, drawing, wacom, invention]
 ---
 
 Bonus Panel:
