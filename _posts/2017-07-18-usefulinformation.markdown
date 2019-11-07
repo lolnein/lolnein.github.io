@@ -28,6 +28,8 @@ Useful Information <- You are here!
 [Potato Chips](https://lolnein.com/2017/06/21/potatochips/)
 
 
-You can get this design on bags, mugs, shirts [and more in my shop!](https://www.redbubble.com/shop/Lolnein)
+This design is now [available in my shop!](https://www.redbubble.com/shop/Lolnein)
+
++++ Today (07. Nov) 20-50% off everything! CODE: 20TO50 +++ 
 
 [![Useful Information Shirt](/images/usefulinformation_shirt2.png)](https://www.redbubble.com/shop/Lolnein)
