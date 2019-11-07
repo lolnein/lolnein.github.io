@@ -12,4 +12,7 @@ Bonus Panel:
 
 This design is now [available in my shop!](https://www.redbubble.com/shop/Lolnein)
 
++++ Today (07. Nov) 20-50% off everything! CODE: 20TO50 +++ 
+
+
 [![Banana Shirt](/images/banana_shirt.jpg)](https://www.redbubble.com/shop/Lolnein)
