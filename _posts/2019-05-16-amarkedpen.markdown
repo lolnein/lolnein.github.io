@@ -12,6 +12,7 @@ Bonus Panel:
 
 This design is now [available in my shop!](https://www.redbubble.com/shop/Lolnein)
 
-+++ Today (07. Nov) 20-50% off everything! CODE: 20TO50 +++ 
+
+ 
 
 [![A Marked Pen Shirt](/images/amarkedpen_shirt.png)](https://www.redbubble.com/shop/Lolnein)

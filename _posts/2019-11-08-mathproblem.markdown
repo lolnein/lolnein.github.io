@@ -1,0 +1,25 @@
+---
+layout: comic
+comic: mathproblem.png
+title: Math Problem
+alt:  Math Problem
+keywords: [math, problem, calculator, algebra, casio, maths, algebra, letters, equation, school, class, university, blackboard, learning, one, plus, two]
+---
+
+Bonus Panel:
+
+![Math Problem Bonus](/images/mathproblem_bonus.png)
+
+
+More comics about stupidity:
+
+Math Problem <- You are here!
+
+[Improve Your Sleep](https://lolnein.com/2019/09/26/improveyoursleep/)
+
+[TitTok](https://lolnein.com/2019/10/24/tiktok/)
+
+[The Perfect Camping Spot](https://lolnein.com/2019/09/04/theperfectcampingspot/)
+
+[Get A Tan](https://lolnein.com/2018/09/05/getatan/)
+

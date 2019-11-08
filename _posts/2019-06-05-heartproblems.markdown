@@ -28,7 +28,8 @@ Heart Problems <- You are here!
 
 This design is now [available in my shop!](https://www.redbubble.com/shop/Lolnein)
 
-+++ Today (07. Nov) 20-50% off everything! CODE: 20TO50 +++ 
+
+ 
 
 
 [![Heart Problems Shirt](/images/heartproblems_shirt.png)](https://www.redbubble.com/shop/Lolnein)
