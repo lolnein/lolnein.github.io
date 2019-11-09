@@ -3,7 +3,7 @@ layout: post
 title: Support
 ---
 
-You can support me and what I do by:
+You can support me and what I do by
 
 - [... becoming a Patron](https://www.patreon.com/lolnein)
 
