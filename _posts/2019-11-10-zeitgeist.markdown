@@ -1,19 +1,19 @@
 ---
 layout: comic
-comic: horrormovie.gif
-title: Horror Movie
-alt: Horror Movie
-keywords: [exorcist, exorcism, horror, movie, pepper, mill, salt, shaker, head, spin, possessed, halloween]
+comic: zeitgeist.png
+title: Zeitgeist
+alt:  Zeitgeist
+keywords: [zeitgeist, ghost, daylight, saving, time, winter, clock, fall, back, spring, forward]
 ---
 
 Bonus Panel:
 
-![Horror Movie Bonus](/images/horrormovie_bonus.gif)
+![Zeitgeist Bonus](/images/zeitgeist_bonus.png)
 
 
 More "scary" comics:
 
-[Zeitgeist](https://lolnein.com/2019/11/10/zeitgeist/)
+Zeitgeist <- You are here!
 
 [Vandalism](https://lolnein.com/2019/10/22/vandalism/)
 
@@ -23,4 +23,4 @@ More "scary" comics:
 
 [Love Is Scary](https://lolnein.com/2019/10/07/loveisscary/)
 
-Horror Movie <- You are here!
+[Horror Movie](https://lolnein.com/2019/10/03/horrormovie/)
