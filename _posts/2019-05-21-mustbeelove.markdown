@@ -10,7 +10,7 @@ Bonus Panel:
 
 ![Must Bee Love Bonus Panel](/images/mustbeelove_bonus.png)
 
-This design is now [available in my shop!](https://www.redbubble.com/shop/Lolnein)
+This design is now [available in my shop!](https://www.redbubble.com/shop/lolnein) +++ Today (11 Nov) 25% off everything! Code: MORTY25 +++
 
 
  
