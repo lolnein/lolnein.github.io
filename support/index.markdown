@@ -11,8 +11,6 @@ You can support me and what I do by
 
 - [... donating on Ko-fi!](https://ko-fi.com/lolnein)
 
-- [... donating via Paypal!]
-
  - ... sharing my comics with everyone you know!
 
 Thank you so much! I appreciate it.
