@@ -49,5 +49,5 @@ More "But can you do this" Comics:
 
 Coffee Machine vs French Press <- You are here!
 
-[Electric Scooter vs Regular Scooter](http://lolnein.com/2019/11/12/electricscootercsregularscooter/)
+[Electric Scooter vs Regular Scooter](http://lolnein.com/2019/11/12/electricscootervsregularscooter/)
 

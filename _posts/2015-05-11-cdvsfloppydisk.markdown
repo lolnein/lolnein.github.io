@@ -42,4 +42,4 @@ CD vs Floppy Disk <- You are here!
 
 [Coffee Machine vs French Press](https://lolnein.com/2019/10/29/coffeemachinevsfrenchpress/)
 
-[Electric Scooter vs Regular Scooter](http://lolnein.com/2019/11/12/electricscootercsregularscooter/)
+[Electric Scooter vs Regular Scooter](http://lolnein.com/2019/11/12/electricscootervsregularscooter/)

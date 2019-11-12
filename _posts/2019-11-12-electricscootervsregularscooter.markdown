@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: electricscootercsregularscooter.gif
+comic: electricscootervsregularscooter.gif
 title: Electric Scooter vs Regular Scooter
 alt:  Electric Scooter vs Regular Scooter
 keywords: [electric, scooter, escooter, e-scooter, lime, bird, xiaomi, segway, roller, e-roller, eroller, elektro]
@@ -8,7 +8,7 @@ keywords: [electric, scooter, escooter, e-scooter, lime, bird, xiaomi, segway, r
 
 Bonus Panel:
 
-![Electric Scooter vs Regular Scooter Bonus](/images/electricscootercsregularscooter_bonus.png)
+![Electric Scooter vs Regular Scooter Bonus](/images/electricscootervsregularscooter_bonus.png)
 
 
 More "But can you do this" Comics:
