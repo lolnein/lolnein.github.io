@@ -10,7 +10,7 @@ Bonus Comic:
 
 ![Missing Mug Bonus](/images/missingmug_bonus.png)
 
-This happy mug is now [available in my shop!](https://www.redbubble.com/shop/lolnein) +++ Today (11 Nov) 25% off everything! Code: MORTY25 +++
+This happy mug is now [available in my shop!](https://www.redbubble.com/shop/lolnein)
 
 [![Happy Mug](/images/happymug.jpg)](https://www.redbubble.com/people/lolnein/works/41721258-happy-mug)
 

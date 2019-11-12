@@ -48,3 +48,6 @@ More "But can you do this" Comics:
 [Laces vs Velcro](http://lolnein.com/2016/07/28/lacesvsvelcro/)
 
 Coffee Machine vs French Press <- You are here!
+
+[Electric Scooter vs Regular Scooter](http://lolnein.com/2019/11/12/electricscootercsregularscooter/)
+

@@ -1,10 +1,15 @@
 ---
 layout: comic
-comic: cdvsfloppydisk.gif
-title: CD vs Floppy Disk
-alt: CD vs Floppy Disk
-keywords: [CD, floppy disk]
+comic: electricscootercsregularscooter.gif
+title: Electric Scooter vs Regular Scooter
+alt:  Electric Scooter vs Regular Scooter
+keywords: [electric, scooter, escooter, e-scooter, lime, bird, xiaomi, segway, roller, e-roller, eroller, elektro]
 ---
+
+Bonus Panel:
+
+![Electric Scooter vs Regular Scooter Bonus](/images/electricscootercsregularscooter_bonus.png)
+
 
 More "But can you do this" Comics:
 
@@ -20,7 +25,7 @@ More "But can you do this" Comics:
 
 [Smartphone vs Nokia](http://lolnein.com/2016/09/16/smartphonevsnokia/)
 
-CD vs Floppy Disk <- You are here!
+[CD vs Floppy Disk](http://lolnein.com/2015/05/11/cdvsfloppydisk/)
 
 [PS4 vs Nintendo Switch](http://lolnein.com/2016/10/21/ps4vsnintendoswitch/)
 
@@ -42,4 +47,4 @@ CD vs Floppy Disk <- You are here!
 
 [Coffee Machine vs French Press](https://lolnein.com/2019/10/29/coffeemachinevsfrenchpress/)
 
-[Electric Scooter vs Regular Scooter](http://lolnein.com/2019/11/12/electricscootercsregularscooter/)
+Electric Scooter vs Regular Scooter <- You are here!

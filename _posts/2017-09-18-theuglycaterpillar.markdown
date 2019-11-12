@@ -14,6 +14,6 @@ Bonus GIF:
 
 ![The Ugly Caterpillar Bonus GIF](/images/theuglycaterpillar_bonus2.gif)
 
-This design and more is [available in my shop!](https://www.redbubble.com/shop/lolnein) +++ Today (11 Nov) 25% off everything! Code: MORTY25 +++
+This design and more is [available in my shop!](https://www.redbubble.com/shop/lolnein)
 
 [![Ugly Butterfly Bag](/images/uglybutterfly_bag.png)](https://www.redbubble.com/shop/lolnein)

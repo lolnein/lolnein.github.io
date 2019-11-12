@@ -42,4 +42,6 @@ Pewdiepie vs LOLNEIN <- You are here!
 
 [Laces vs Velcro](http://lolnein.com/2016/07/28/lacesvsvelcro/)
 
-[Coffee Machine vs French Press](http://lolnein.com/2019/10/29/coffeemachinevsfrenchpress/)
+[Coffee Machine vs French Press](https://lolnein.com/2019/10/29/coffeemachinevsfrenchpress/)
+
+[Electric Scooter vs Regular Scooter](http://lolnein.com/2019/11/12/electricscootercsregularscooter/)

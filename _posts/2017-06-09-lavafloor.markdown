@@ -10,7 +10,7 @@ Bonus Panel:
 
 ![Lava Floor Bonus Panel](/images/lavafloor_bonus.png)
 
-This design is now [available in my shop!](https://www.redbubble.com/shop/lolnein) +++ Today (11 Nov) 25% off everything! Code: MORTY25 +++
+This design is now [available in my shop!](https://www.redbubble.com/shop/lolnein)
 
 
  
