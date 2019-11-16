@@ -45,3 +45,5 @@ PS4 vs Nintendo Switch <- You are here!
 
 [Electric Scooter vs Regular Scooter](http://lolnein.com/2019/11/12/electricscootervsregularscooter/)
 
+[Motorola Razr vs Flip Phone](https://lolnein.com/2019/11/16/motorolarazrvsflipphone/)
+

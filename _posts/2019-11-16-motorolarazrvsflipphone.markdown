@@ -1,16 +1,14 @@
 ---
 layout: comic
-comic: coffeemachinevsfrenchpress.gif
-title: Coffee Machine vs French Press
-alt:  Coffee Machine vs French Press
-keywords: [fully, automatic, coffee, machine, french, press, maker, but can you do this, delonghi, nespresso, jura, keurig]
+comic: motorolarazrvsflipphone.gif
+title: Motorola Razr vs Flip Phone
+alt:  Motorola Razr vs Flip Phone
+keywords: [motorola, razr, 2019, flip, phone, smartphone, smart, technology, samsung, but can you do this]
 ---
-
-Idea by my really nice flatmate Elias :)
 
 Bonus Panel:
 
-![Coffee Machine vs French Press Bonus](/images/coffeemachinevsfrenchpress_bonus.gif)
+![Motorola Razr vs Flip Phone Bonus](/images/motorolarazrvsflipphone_bonus.gif)
 
 
 More "But can you do this" Comics:
@@ -47,9 +45,8 @@ More "But can you do this" Comics:
 
 [Laces vs Velcro](http://lolnein.com/2016/07/28/lacesvsvelcro/)
 
-Coffee Machine vs French Press <- You are here!
+[Coffee Machine vs French Press](https://lolnein.com/2019/10/29/coffeemachinevsfrenchpress/)
 
 [Electric Scooter vs Regular Scooter](http://lolnein.com/2019/11/12/electricscootervsregularscooter/)
 
-[Motorola Razr vs Flip Phone](https://lolnein.com/2019/11/16/motorolarazrvsflipphone/)
-
+Motorola Razr vs Flip Phone <- You are here!
