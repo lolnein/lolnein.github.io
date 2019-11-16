@@ -10,6 +10,9 @@ Bonus Comic:
 
 ![Missing Mug Bonus](/images/missingmug_bonus.png)
 
+Here's another mug comic: [Mad Mug](https://lolnein.com/2019/11/11/madmug/)
+
+
 This happy mug is now [available in my shop!](https://www.redbubble.com/shop/lolnein)
 
 [![Happy Mug](/images/happymug.jpg)](https://www.redbubble.com/people/lolnein/works/41721258-happy-mug)
