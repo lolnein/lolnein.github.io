@@ -15,5 +15,5 @@ Here's another mug comic: [Mad Mug](https://lolnein.com/2019/11/11/madmug/)
 
 This happy mug is now [available in my shop!](https://www.redbubble.com/shop/lolnein)
 
-[![Happy Mug](/images/happymug.jpg)](https://www.redbubble.com/people/lolnein/works/41721258-happy-mug)
+[![Happy Mug](/images/happymug.jpg)](https://www.redbubble.com/people/lolnein/works/42532538-curious-face?p=mug&style=standard)
 
