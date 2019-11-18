@@ -48,3 +48,5 @@ More "But can you do this" Comics:
 [Coffee Machine vs French Press](https://lolnein.com/2019/10/29/coffeemachinevsfrenchpress/)
 
 Electric Scooter vs Regular Scooter <- You are here!
+
+[Motorola Razr vs Flip Phone](https://lolnein.com/2019/11/16/motorolarazrvsflipphone/)
