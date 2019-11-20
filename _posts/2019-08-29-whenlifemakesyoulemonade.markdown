@@ -11,7 +11,7 @@ Bonus Panel:
 ![When Life Makes You Lemonade Bonus](/images/whenlifemakesyoulemonade_bonus.png)
 
 
-More food-related comics:
+__More food-related comics:__
 
 [How Is the Food](https://lolnein.com/2019/11/20/howisthefood/)
 

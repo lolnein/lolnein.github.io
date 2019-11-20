@@ -11,7 +11,7 @@ Bonus Panel:
 ![The Right Amount of Pasta Bonus](/images/therightamountofpasta_bonus.png)
 
 
-More food-related comics:
+__More food-related comics:__
 
 [How Is the Food](https://lolnein.com/2019/11/20/howisthefood/)
 

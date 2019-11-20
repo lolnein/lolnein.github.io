@@ -13,7 +13,7 @@ Bonus Panel:
 This design is now [available in my shop!](https://www.redbubble.com/shop/lolnein)
 
 
-More food-related comics:
+__More food-related comics:__
 
 [How Is the Food](https://lolnein.com/2019/11/20/howisthefood/)
 

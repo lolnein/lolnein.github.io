@@ -11,7 +11,7 @@ Bonus Panel:
 ![How Is the Food Bonus](/images/howisthefood_bonus.png)
 
 
-More food-related comics:
+__More food-related comics:__
 
 How Is the Food <- You are here!
 
