@@ -13,7 +13,17 @@ Bonus Panel:
 This design is now [available in my shop!](https://www.redbubble.com/shop/lolnein)
 
 
- 
+More food-related comics:
+
+[How Is the Food](https://lolnein.com/2019/11/20/howisthefood/)
+
+Banana Bread <- You are here!
+
+[The Right Amount of Pasta](https://lolnein.com/2019/09/06/therightamountofpasta/)
+
+[When Life Makes You Lemonade](https://lolnein.com/2019/08/29/whenlifemakesyoulemonade/)
+
+[Crass Croissant](https://lolnein.com/2018/02/01/crasscroissant/) 
 
 
 [![Banana Shirt](/images/banana_shirt.jpg)](https://www.redbubble.com/shop/Lolnein)

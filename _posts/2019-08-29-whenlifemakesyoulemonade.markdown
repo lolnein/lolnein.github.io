@@ -9,3 +9,16 @@ keywords: [life, lemonade, straw, ocean, sea, plastic, exciting, glass, loop, cr
 Bonus Panel:
 
 ![When Life Makes You Lemonade Bonus](/images/whenlifemakesyoulemonade_bonus.png)
+
+
+More food-related comics:
+
+[How Is the Food](https://lolnein.com/2019/11/20/howisthefood/)
+
+[Banana Bread](https://lolnein.com/2019/09/18/bananabread/)
+
+[The Right Amount of Pasta](https://lolnein.com/2019/09/06/therightamountofpasta/)
+
+When Life Makes You Lemonade <- You are here!
+
+[Crass Croissant](https://lolnein.com/2018/02/01/crasscroissant/)
