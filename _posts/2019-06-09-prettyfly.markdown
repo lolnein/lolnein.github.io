@@ -27,6 +27,7 @@ Pretty Fly <- You're here!
 
 [Professional Help](https://lolnein.com/2019/09/03/professionalhelp/)
 
+---
 
 This design is now available [in my shop!](https://www.redbubble.com/shop/Lolnein) :)
 
