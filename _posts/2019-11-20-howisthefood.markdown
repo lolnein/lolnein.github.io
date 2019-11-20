@@ -8,7 +8,7 @@ keywords: [food, waiter, waitress, restaurant, how, asking, eating, meal, cookin
 
 Bonus Panel:
 
-![How Is the Food Bonus](/imageshowisthefood_bonus.png)
+![How Is the Food Bonus](/images/howisthefood_bonus.png)
 
 
 More food-related comics:
