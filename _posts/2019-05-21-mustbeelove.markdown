@@ -10,10 +10,24 @@ Bonus Panel:
 
 ![Must Bee Love Bonus Panel](/images/mustbeelove_bonus.png)
 
+
+__More insect-related comics:__
+
+[Back Rub](https://lolnein.com/2017/06/13/backrub/)
+
+[Leg Surgery](https://lolnein.com/2017/06/30/legsurgery/)
+
+[The Ugly Caterpillar](https://lolnein.com/2017/09/18/theuglycaterpillar/)
+
+[Clean Window](https://lolnein.com/2018/08/06/cleanwindow/)
+
+Must Bee Love <- You're here!
+
+[Pretty Fly](https://lolnein.com/2019/06/09/prettyfly/)
+
+[Professional Help](https://lolnein.com/2019/09/03/professionalhelp/)
+
+
 This design is now [available in my shop!](https://www.redbubble.com/shop/lolnein)
-
-
- 
-
 
 [![Bumblebee Shirt](/images/bumblebee_shirt.png)](https://www.redbubble.com/shop/Lolnein)
