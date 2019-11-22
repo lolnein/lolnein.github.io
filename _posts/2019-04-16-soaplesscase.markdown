@@ -10,6 +10,6 @@ Bonus Panel:
 
 ![Soapless Case Bonus Panel](/images/soaplesscase_bonus.png)
 
-This design is now available [in my shop!](https://www.redbubble.com/shop/Lolnein) :)
+This design is now available [in my shop!](https://www.redbubble.com/people/LOLNEIN/shop) :)
 
-[![Soap Shirt](/images/soap_shirt.png)](https://www.redbubble.com/shop/Lolnein)
+[![Soap Shirt](/images/soap_shirt.png)](https://www.redbubble.com/people/LOLNEIN/shop)

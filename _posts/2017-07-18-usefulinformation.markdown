@@ -28,9 +28,9 @@ Useful Information <- You are here!
 [Potato Chips](https://lolnein.com/2017/06/21/potatochips/)
 
 
-This design is now [available in my shop!](https://www.redbubble.com/shop/lolnein)
+This design is now [available in my shop!](https://www.redbubble.com/people/LOLNEIN/shop)
 
 
  
 
-[![Useful Information Shirt](/images/usefulinformation_shirt2.png)](https://www.redbubble.com/shop/Lolnein)
+[![Useful Information Shirt](/images/usefulinformation_shirt2.png)](https://www.redbubble.com/people/LOLNEIN/shop)

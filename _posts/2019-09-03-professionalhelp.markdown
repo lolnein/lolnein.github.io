@@ -28,6 +28,6 @@ __More insect-related comics:__
 Professional Help <- You're here!
 
 
-This design is now [available in my shop!](https://www.redbubble.com/shop/lolnein)
+This design is now [available in my shop!](https://www.redbubble.com/people/LOLNEIN/shop)
 
-[![Dr. Fly Notebook](/images/drfly_notebook.jpg)](https://www.redbubble.com/shop/Lolnein)
+[![Dr. Fly Notebook](/images/drfly_notebook.jpg)](https://www.redbubble.com/people/LOLNEIN/shop)

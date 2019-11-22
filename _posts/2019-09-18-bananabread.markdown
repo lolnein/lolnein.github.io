@@ -10,7 +10,7 @@ Bonus Panel:
 
 ![Banana Bread Bonus](/images/bananabread_bonus.png)
 
-This design is now [available in my shop!](https://www.redbubble.com/shop/lolnein)
+This design is now [available in my shop!](https://www.redbubble.com/people/LOLNEIN/shop)
 
 
 __More food-related comics:__
@@ -26,4 +26,4 @@ Banana Bread <- You are here!
 [Crass Croissant](https://lolnein.com/2018/02/01/crasscroissant/) 
 
 
-[![Banana Shirt](/images/banana_shirt.jpg)](https://www.redbubble.com/shop/Lolnein)
+[![Banana Shirt](/images/banana_shirt.jpg)](https://www.redbubble.com/people/LOLNEIN/shop)

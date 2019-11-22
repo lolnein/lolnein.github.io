@@ -10,9 +10,9 @@ Bonus Panel:
 
 ![A Marked Pen Bonus Panel](/images/amarkedpen_bonus.png)
 
-This design is now [available in my shop!](https://www.redbubble.com/shop/lolnein)
+This design is now [available in my shop!](https://www.redbubble.com/people/LOLNEIN/shop)
 
 
  
 
-[![A Marked Pen Shirt](/images/amarkedpen_shirt.png)](https://www.redbubble.com/shop/Lolnein)
+[![A Marked Pen Shirt](/images/amarkedpen_shirt.png)](https://www.redbubble.com/people/LOLNEIN/shop)

@@ -32,6 +32,6 @@ The Ugly Caterpillar <- You're here!
 [Professional Help](https://lolnein.com/2019/09/03/professionalhelp/)
 
 
-This design and more is [available in my shop!](https://www.redbubble.com/shop/lolnein)
+This design and more is [available in my shop!](https://www.redbubble.com/people/LOLNEIN/shop)
 
-[![Ugly Butterfly Bag](/images/uglybutterfly_bag.png)](https://www.redbubble.com/shop/lolnein)
+[![Ugly Butterfly Bag](/images/uglybutterfly_bag.png)](https://www.redbubble.com/people/LOLNEIN/shop)

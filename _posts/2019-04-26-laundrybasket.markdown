@@ -10,9 +10,9 @@ Bonus Panel:
 
 ![Laundry Basket Bonus Panel](/images/laundrybasket_bonus.png)
 
-This design is now [available in my shop!](https://www.redbubble.com/shop/lolnein)
+This design is now [available in my shop!](https://www.redbubble.com/people/LOLNEIN/shop)
 
 
  
 
-[![Laundry Basket Shirt](/images/laundrybasket_shirt2.png)](https://www.redbubble.com/shop/Lolnein)
+[![Laundry Basket Shirt](/images/laundrybasket_shirt2.png)](https://www.redbubble.com/people/LOLNEIN/shop)
