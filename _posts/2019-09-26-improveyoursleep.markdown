@@ -10,14 +10,17 @@ Bonus Panel:
 
 ![Improve Your Sleep Bonus](/images/improveyoursleep_bonus.png)
 
+
 More comics about stupidity:
 
-[Math Problem](https://lolnein.com/2019/11/08/mathproblem/)
+[Mix-up](https://lolnein.com/2017/11/23/mixup/)
 
-Improve Your Sleep <- You are here!
-
-[TitTok](https://lolnein.com/2019/10/24/tiktok/)
+[Get A Tan](https://lolnein.com/2018/09/05/getatan/)
 
 [The Perfect Camping Spot](https://lolnein.com/2019/09/04/theperfectcampingspot/)
 
-[Get A Tan](https://lolnein.com/2018/09/05/getatan/)
+Improve Your Sleep <- You are here!
+
+[TikTok](https://lolnein.com/2019/10/24/tiktok/)
+
+[Math Problem](https://lolnein.com/2019/11/08/mathproblem/)
