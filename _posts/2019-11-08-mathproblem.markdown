@@ -11,7 +11,9 @@ Bonus Panel:
 ![Math Problem Bonus](/images/mathproblem_bonus.png)
 
 
-More comics about stupidity:
+__More comics about stupidity:__
+
+[Falling Leaves](https://lolnein.com/2017/11/06/fallingleaves/)
 
 [Mix-up](https://lolnein.com/2017/11/23/mixup/)
 
