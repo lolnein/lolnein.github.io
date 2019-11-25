@@ -13,7 +13,7 @@ Bonus Comic:
 Here's another mug comic: [Mad Mug](https://lolnein.com/2019/11/11/madmug/)
 
 
-This happy mug is now [available in my shop!](https://www.redbubble.com/people/LOLNEIN/shop)
+This happy mug is now [available in my shop!](https://www.redbubble.com/people/LOLNEIN/shop) __+++ TODAY (25. NOV) 25% OFF APPAREL! Code: CLOTHING25 +++__
 
 [![Happy Mug](/images/happymug.jpg)](https://www.redbubble.com/people/lolnein/works/42532538-curious-face?p=mug&style=standard)
 
