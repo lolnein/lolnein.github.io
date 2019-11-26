@@ -29,6 +29,6 @@ Pretty Fly <- You're here!
 
 ---
 
-This design is now available [in my shop!](https://www.redbubble.com/people/LOLNEIN/shop) __+++ TODAY (25. NOV) 25% OFF APPAREL! Code: CLOTHING25 +++__ :)
+This design is now available [in my shop!](https://www.redbubble.com/people/LOLNEIN/shop) __+++ TODAY (26. NOV) 25% OFF APPAREL! Code: CLOTHING25 +++__ :)
 
 [![Pretty Fly Shirt](/images/prettyfly_shirt.jpg)](https://www.redbubble.com/people/LOLNEIN/shop)

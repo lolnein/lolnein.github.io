@@ -13,13 +13,15 @@ Bonus Panel:
 
 __More food-related comics:__
 
-[How Is the Food](https://lolnein.com/2019/11/20/howisthefood/)
-
-[Banana Bread](https://lolnein.com/2019/09/18/bananabread/)
-
-The Right Amount of Pasta <- You are here!
+[Crass Croissant](https://lolnein.com/2018/02/01/crasscroissant/)
 
 [When Life Makes You Lemonade](https://lolnein.com/2019/08/29/whenlifemakesyoulemonade/)
 
-[Crass Croissant](https://lolnein.com/2018/02/01/crasscroissant/)
+The Right Amount of Pasta <- You are here!
+
+[Banana Bread](https://lolnein.com/2019/09/18/bananabread/)
+
+[How Is the Food](https://lolnein.com/2019/11/20/howisthefood/)
+
+[Make the Cut](https://lolnein.com/2019/11/26/makethecut/)
 

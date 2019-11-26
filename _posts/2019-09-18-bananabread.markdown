@@ -10,20 +10,22 @@ Bonus Panel:
 
 ![Banana Bread Bonus](/images/bananabread_bonus.png)
 
-This design is now [available in my shop!](https://www.redbubble.com/people/LOLNEIN/shop) __+++ TODAY (25. NOV) 25% OFF APPAREL! Code: CLOTHING25 +++__
-
 
 __More food-related comics:__
 
-[How Is the Food](https://lolnein.com/2019/11/20/howisthefood/)
-
-Banana Bread <- You are here!
-
-[The Right Amount of Pasta](https://lolnein.com/2019/09/06/therightamountofpasta/)
+[Crass Croissant](https://lolnein.com/2018/02/01/crasscroissant/)
 
 [When Life Makes You Lemonade](https://lolnein.com/2019/08/29/whenlifemakesyoulemonade/)
 
-[Crass Croissant](https://lolnein.com/2018/02/01/crasscroissant/) 
+[The Right Amount of Pasta](https://lolnein.com/2019/09/06/therightamountofpasta/)
 
+Banana Bread <- You are here!
+
+[How Is the Food](https://lolnein.com/2019/11/20/howisthefood/)
+
+[Make the Cut](https://lolnein.com/2019/11/26/makethecut/)
+
+
+This design is now [available in my shop!](https://www.redbubble.com/people/LOLNEIN/shop) __+++ TODAY (26. NOV) 25% OFF APPAREL! Code: CLOTHING25 +++__
 
 [![Banana Shirt](/images/banana_shirt.jpg)](https://www.redbubble.com/people/LOLNEIN/shop)

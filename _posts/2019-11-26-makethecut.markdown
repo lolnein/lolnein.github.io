@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: howisthefood.png
+comic: makethecut.png
 title: How Is the Food
 alt: How Is the Food
 keywords: [food, waiter, waitress, restaurant, how, asking, eating, meal, cooking]
@@ -8,7 +8,7 @@ keywords: [food, waiter, waitress, restaurant, how, asking, eating, meal, cookin
 
 Bonus Panel:
 
-![How Is the Food Bonus](/images/howisthefood_bonus.png)
+![How Is the Food Bonus](/images/makethecut_bonus.png)
 
 
 __More food-related comics:__
@@ -21,6 +21,6 @@ __More food-related comics:__
 
 [Banana Bread](https://lolnein.com/2019/09/18/bananabread/)
 
-How Is the Food <- You are here!
+[How Is the Food](https://lolnein.com/2019/11/20/howisthefood/)
 
-[Make the Cut](https://lolnein.com/2019/11/26/makethecut/)
+Make the Cut <- You are here!
