@@ -33,4 +33,4 @@ This design is now [available in my shop!](https://www.redbubble.com/people/LOLN
 
  
 
-[![Useful Information Shirt](/images/usefulinformation_shirt2.png)](https://www.redbubble.com/people/LOLNEIN/shop) __+++ TODAY (25. NOV) 25% OFF APPAREL! Code: CLOTHING25 +++__
+[![Useful Information Shirt](/images/usefulinformation_shirt2.png)](https://www.redbubble.com/people/LOLNEIN/shop)

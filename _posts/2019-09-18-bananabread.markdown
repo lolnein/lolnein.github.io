@@ -26,4 +26,4 @@ Banana Bread <- You are here!
 [Crass Croissant](https://lolnein.com/2018/02/01/crasscroissant/) 
 
 
-[![Banana Shirt](/images/banana_shirt.jpg)](https://www.redbubble.com/people/LOLNEIN/shop) __+++ TODAY (25. NOV) 25% OFF APPAREL! Code: CLOTHING25 +++__
+[![Banana Shirt](/images/banana_shirt.jpg)](https://www.redbubble.com/people/LOLNEIN/shop)

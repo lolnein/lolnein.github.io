@@ -34,4 +34,4 @@ The Ugly Caterpillar <- You're here!
 
 This design and more is [available in my shop!](https://www.redbubble.com/people/LOLNEIN/shop) __+++ TODAY (25. NOV) 25% OFF APPAREL! Code: CLOTHING25 +++__
 
-[![Ugly Butterfly Bag](/images/uglybutterfly_bag.png)](https://www.redbubble.com/people/LOLNEIN/shop) __+++ TODAY (25. NOV) 25% OFF APPAREL! Code: CLOTHING25 +++__
+[![Ugly Butterfly Bag](/images/uglybutterfly_bag.png)](https://www.redbubble.com/people/LOLNEIN/shop)
