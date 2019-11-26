@@ -1,14 +1,14 @@
 ---
 layout: comic
 comic: makethecut.png
-title: How Is the Food
-alt: How Is the Food
-keywords: [food, waiter, waitress, restaurant, how, asking, eating, meal, cooking]
+title: Make the Cut
+alt: Make the Cut
+keywords: [food, cutlery, knife, fork, spoon, cooking, recipe, plate]
 ---
 
 Bonus Panel:
 
-![How Is the Food Bonus](/images/makethecut_bonus.png)
+![Make the Cut Bonus](/images/makethecut_bonus.png)
 
 
 __More food-related comics:__
