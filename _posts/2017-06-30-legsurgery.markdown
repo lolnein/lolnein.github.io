@@ -15,7 +15,9 @@ __More insect-related comics:__
 
 [Back Rub](https://lolnein.com/2017/06/13/backrub/)
 
-Leg Surgery <- You're here!
+Leg Surgery <- You are here!
+
+[The Greatest Fear](https://lolnein.com/2018/06/18/thegreatestfear/)
 
 [The Ugly Caterpillar](https://lolnein.com/2017/09/18/theuglycaterpillar/)
 

@@ -10,16 +10,21 @@ Bonus Panel:
 
 ![The Greatest Fear Bonus Panel](/images/thegreatestfear_bonus.png)
 
-More comics with spiders and insects:
 
-[Spider Magic](https://lolnein.com/2018/08/09/spidermagic/)
+__More insect-related comics:__
+
+[Back Rub](https://lolnein.com/2017/06/13/backrub/)
 
 [Leg Surgery](https://lolnein.com/2017/06/30/legsurgery/)
 
-[Clean Window](https://lolnein.com/2018/08/06/cleanwindow/)
-
 [The Ugly Caterpillar](https://lolnein.com/2017/09/18/theuglycaterpillar/)
 
-[This Is Spider](https://lolnein.com/2014/02/28/thisisspider/)
+The Greatest Fear <- You are here!
 
-[Sixteen-Eyes](https://lolnein.com/2015/08/23/sixteeneyes/)
+[Clean Window](https://lolnein.com/2018/08/06/cleanwindow/)
+
+[Must Bee Love](https://lolnein.com/2019/05/21/mustbeelove/)
+
+[Pretty Fly](https://lolnein.com/2019/06/09/prettyfly/)
+
+[Professional Help](https://lolnein.com/2019/09/03/professionalhelp/)

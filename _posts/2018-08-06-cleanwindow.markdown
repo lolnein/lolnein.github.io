@@ -19,7 +19,9 @@ __More insect-related comics:__
 
 [The Ugly Caterpillar](https://lolnein.com/2017/09/18/theuglycaterpillar/)
 
-Clean Window <- You're here!
+[The Greatest Fear](https://lolnein.com/2018/06/18/thegreatestfear/)
+
+Clean Window <- You are here!
 
 [Must Bee Love](https://lolnein.com/2019/05/21/mustbeelove/)
 

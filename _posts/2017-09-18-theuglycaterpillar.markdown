@@ -21,7 +21,9 @@ __More insect-related comics:__
 
 [Leg Surgery](https://lolnein.com/2017/06/30/legsurgery/)
 
-The Ugly Caterpillar <- You're here!
+The Ugly Caterpillar <- You are here!
+
+[The Greatest Fear](https://lolnein.com/2018/06/18/thegreatestfear/)
 
 [Clean Window](https://lolnein.com/2018/08/06/cleanwindow/)
 
