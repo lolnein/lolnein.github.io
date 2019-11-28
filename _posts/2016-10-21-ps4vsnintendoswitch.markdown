@@ -9,7 +9,7 @@ keywords: [nintendo, switch, consoles, ps4, sony, playstation, play, station, ps
 
 Bonus Panel:
 
-![PS4 vs Nintendo Switch Bonus](/images/ps4vsnintendoswitch_bonus.png.png)
+![PS4 vs Nintendo Switch Bonus](/images/ps4vsnintendoswitch_bonus.png)
 
 
 __More "But can you do this" Comics:__
