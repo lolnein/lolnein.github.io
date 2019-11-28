@@ -13,7 +13,7 @@ Bonus Panel:
 ![Coffee Machine vs French Press Bonus](/images/coffeemachinevsfrenchpress_bonus.gif)
 
 
-More "But can you do this" Comics:
+__More "But can you do this" Comics:__
 
 [Smartphone vs Flip Phone PART 1](http://lolnein.com/2013/08/28/smartphones/)
 

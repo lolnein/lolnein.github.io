@@ -3,11 +3,16 @@ layout: comic
 comic: ps4vsnintendoswitch.gif
 title: PS4 vs Nintendo Switch
 alt: PS4 vs Nintendo Switch
-keywords: [nintendo, switch, consoles, ps4, sony]
+keywords: [nintendo, switch, consoles, ps4, sony, playstation, play, station, ps5, gaming, games]
 ---
 
 
-More "But can you do this" Comics:
+Bonus Panel:
+
+![PS4 vs Nintendo Switch Bonus](/images/ps4vsnintendoswitch_bonus.png.png)
+
+
+__More "But can you do this" Comics:__
 
 [Smartphone vs Flip Phone PART 1](http://lolnein.com/2013/08/28/smartphones/)
 

@@ -7,8 +7,9 @@ keywords: [pewdiepie, chairz, chair, clutch, lolnein, flip, phone]
 ---
 
 [I made this because my comics were just mentioned in a PewDiePie video! Yay!](https://www.youtube.com/watch?v=v8eIuhPstno&feature=youtu.be&t=6m11s)
+
  
-More "But can you do this" Comics:
+__More "But can you do this" Comics:__
 
 [Smartphone vs Flip Phone PART 1](http://lolnein.com/2013/08/28/smartphones/)
 

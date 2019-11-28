@@ -8,7 +8,8 @@ keywords: [smartphones, apple, iphone, samsung, phones]
 
 Who looks stupid now?
 
-More "But can you do this" Comics:
+
+__More "But can you do this" Comics:__
 
 Smartphone vs Flip Phone PART 1 <- You are here!
 
