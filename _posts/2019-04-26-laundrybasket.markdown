@@ -28,7 +28,7 @@ Laundry Basket <- You are here!
 [Clean The Floor](https://lolnein.com/2019/06/21/cleanthefloor/)
 
 
-This design is now [available in my shop!](https://www.redbubble.com/people/LOLNEIN/shop) __+++ TODAY (27. NOV) 25% OFF APPAREL! Code: CLOTHING25 +++__
+This design is now [available in my shop!](https://www.redbubble.com/people/LOLNEIN/shop) __+++ TODAY (28. NOV) 25-60% OFF EVERYTHING! Code: EARLYFRIDAY +++__
 
 
  
