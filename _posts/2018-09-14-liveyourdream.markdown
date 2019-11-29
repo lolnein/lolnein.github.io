@@ -3,9 +3,30 @@ layout: comic
 comic: liveyourdream.gif
 title: Live Your Dream
 alt: Live Your Dream
-keywords: [strobe, light, bulb, lamp, flickering, reading, broken, change, dream, trash]
+keywords: [strobe, light, bulb, lamp, flickering, reading, broken, change, dream, trash, LED, electricity]
 ---
 
 Bonus Panel:
 
 ![Live Your Dream Bonus Panel](/images/liveyourdream_bonus.png)
+
+
+__More comics about objects experiencing L I F E:__
+
+[Paper Towel](https://lolnein.com/2017/04/25/papertowel/)
+
+[The Perfect Table](https://lolnein.com/2017/04/30/theperfecttable/)
+
+[Something on Your Face](https://lolnein.com/2017/05/07/somethingonyourface/)
+
+Live Your Dream <- You are here!
+
+[Missing Mug](https://lolnein.com/2019/09/11/missingmug/)
+
+[Huge Guy](https://lolnein.com/2019/09/16/hugeguy/)
+
+[Get This Party Started](https://lolnein.com/2019/09/30/getthispartystarted/)
+
+[Mad Mug](https://lolnein.com/2019/11/11/madmug/)
+
+[Motorola Razr vs Flip Phone](https://lolnein.com/2019/11/16/motorolarazrvsflipphone/)
