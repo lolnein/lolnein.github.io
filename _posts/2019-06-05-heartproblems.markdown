@@ -26,7 +26,7 @@ Heart Problems <- You are here!
 [Potato Chips](https://lolnein.com/2017/06/21/potatochips/)
 
 
-This design is now [available in my shop!](https://www.redbubble.com/people/LOLNEIN/shop) __+++ TODAY (28. NOV) 25-60% OFF EVERYTHING! Code: EARLYFRIDAY +++__
+This design is now [available in my shop!](https://www.redbubble.com/people/LOLNEIN/shop) __+++ NOW (28. + 29. NOV) 25-60% OFF EVERYTHING! Code: EARLYFRIDAY +++__
 
 
  
