@@ -19,6 +19,8 @@ __More comics about objects experiencing L I F E:__
 
 [Something on Your Face](https://lolnein.com/2017/05/07/somethingonyourface/)
 
+[Worst Bowl Ever](https://lolnein.com/2018/08/02/worstbowlever/)
+
 [Live Your Dream](https://lolnein.com/2018/09/14/liveyourdream/)
 
 [Missing Mug](https://lolnein.com/2019/09/11/missingmug/)
