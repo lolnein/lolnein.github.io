@@ -10,7 +10,7 @@ Bonus Panel:
 
 ![A Marked Pen Bonus Panel](/images/amarkedpen_bonus.png)
 
-This design is now [available in my shop!](https://www.redbubble.com/people/LOLNEIN/shop) __+++ TODAY (29. NOV) 25-60% OFF EVERYTHING! Code: CYBERDEALS +++__
+This design is now [available in my shop!](https://www.redbubble.com/people/LOLNEIN/shop) __+++ TODAY (30. NOV) 25-60% OFF EVERYTHING! Code: CYBERDEALS +++__
 
 
  
