@@ -28,7 +28,7 @@ Useful Information <- You are here!
 [Potato Chips](https://lolnein.com/2017/06/21/potatochips/)
 
 
-This design is now [available in my shop!](https://www.redbubble.com/people/LOLNEIN/shop) __+++ TODAY (30. NOV) 25-60% OFF EVERYTHING! Code: CYBERDEALS +++__
+This design is now [available in my shop!](https://www.redbubble.com/people/LOLNEIN/shop) __+++ 30. NOV AND 01. DEC 25-60% OFF EVERYTHING! Code: CYBERDEALS +++__
 
 
  

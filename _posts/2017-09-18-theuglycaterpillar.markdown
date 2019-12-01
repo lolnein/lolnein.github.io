@@ -34,6 +34,6 @@ The Ugly Caterpillar <- You are here!
 [Professional Help](https://lolnein.com/2019/09/03/professionalhelp/)
 
 
-This design and more is [available in my shop!](https://www.redbubble.com/people/LOLNEIN/shop) __+++ TODAY (30. NOV) 25-60% OFF EVERYTHING! Code: CYBERDEALS +++__
+This design and more is [available in my shop!](https://www.redbubble.com/people/LOLNEIN/shop) __+++ 30. NOV AND 01. DEC 25-60% OFF EVERYTHING! Code: CYBERDEALS +++__
 
 [![Ugly Butterfly Bag](/images/uglybutterfly_bag.png)](https://www.redbubble.com/people/LOLNEIN/shop)
