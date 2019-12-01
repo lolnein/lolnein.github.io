@@ -26,6 +26,6 @@ Banana Bread <- You are here!
 [Make the Cut](https://lolnein.com/2019/11/26/makethecut/)
 
 
-This design is now [available in my shop!](https://www.redbubble.com/people/LOLNEIN/shop) __+++ 30. NOV AND 01. DEC 25-60% OFF EVERYTHING! Code: CYBERDEALS +++__
+This design is now [available in my shop!](https://www.redbubble.com/people/LOLNEIN/shop) __+++ Today (01. Dec) 25-60% OFF EVERYTHING! Code: CYBERDEALS +++__
 
 [![Banana Shirt](/images/banana_shirt.jpg)](https://www.redbubble.com/people/LOLNEIN/shop)

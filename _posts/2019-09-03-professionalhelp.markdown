@@ -30,6 +30,6 @@ __More insect-related comics:__
 Professional Help <- You are here!
 
 
-This design is now [available in my shop!](https://www.redbubble.com/people/LOLNEIN/shop) __+++ 30. NOV AND 01. DEC 25-60% OFF EVERYTHING! Code: CYBERDEALS +++__
+This design is now [available in my shop!](https://www.redbubble.com/people/LOLNEIN/shop) __+++ Today (01. Dec) 25-60% OFF EVERYTHING! Code: CYBERDEALS +++__
 
 [![Dr. Fly Notebook](/images/drfly_notebook.jpg)](https://www.redbubble.com/people/LOLNEIN/shop)
