@@ -25,3 +25,5 @@ More comics about our weird bodies:
 
 Potato Chips <- You are here!
 
+[Smartphone vs Flip Phone PART 2](http://lolnein.com/2014/10/01/smartphones2/)
+

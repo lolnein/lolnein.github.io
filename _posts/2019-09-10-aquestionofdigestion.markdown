@@ -24,3 +24,5 @@ A Question of Digestion <- You are here!
 [Handle This Situtation](https://lolnein.com/2019/04/25/handlethissituation/)
 
 [Potato Chips](https://lolnein.com/2017/06/21/potatochips/)
+
+[Smartphone vs Flip Phone PART 2](http://lolnein.com/2014/10/01/smartphones2/)

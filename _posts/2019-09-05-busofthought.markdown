@@ -25,3 +25,5 @@ Bus Of Thought <- You are here!
 
 [Potato Chips](https://lolnein.com/2017/06/21/potatochips/)
 
+[Smartphone vs Flip Phone PART 2](http://lolnein.com/2014/10/01/smartphones2/)
+
