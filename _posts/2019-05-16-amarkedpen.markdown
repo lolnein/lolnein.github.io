@@ -10,9 +10,18 @@ Bonus Panel:
 
 ![A Marked Pen Bonus Panel](/images/amarkedpen_bonus.png)
 
+
+More work-related comics:
+
+A Marked Pen <- You are here!
+
+[Business Turtle](https://lolnein.com/2019/05/23/businessturtle/)
+
+[Late for Work](https://lolnein.com/2019/08/30/lateforwork/)
+
+[CD vs Floppy Disk](https://lolnein.com/2015/05/11/cdvsfloppydisk/)
+
+
 This design is now [available in my shop!](https://www.redbubble.com/people/LOLNEIN/shop) __+++ Today (02. Dec) 25-60% OFF EVERYTHING! Code: CYBERDEALS +++__
-
-
- 
 
 [![A Marked Pen Shirt](/images/amarkedpen_shirt.png)](https://www.redbubble.com/people/LOLNEIN/shop)
