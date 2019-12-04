@@ -10,7 +10,7 @@ Bonus Panel:
 
 ![Lava Floor Bonus Panel](/images/lavafloor_bonus.png)
 
-This design is now [available in my shop!](https://www.redbubble.com/people/LOLNEIN/shop) __+++ Today (03. Dec) 15% off everything! Code: 15OFF +++__
+This design is now [available in my shop!](https://www.redbubble.com/people/LOLNEIN/shop) __+++ Today (04. Dec) 15% off everything! Code: 15OFF +++__
 
 
  

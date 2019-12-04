@@ -23,6 +23,8 @@ __More comics about objects experiencing L I F E:__
 
 Live Your Dream <- You are here!
 
+[Hot Bath](https://lolnein.com/2019/04/29/hotbath/)
+
 [Missing Mug](https://lolnein.com/2019/09/11/missingmug/)
 
 [Huge Guy](https://lolnein.com/2019/09/16/hugeguy/)

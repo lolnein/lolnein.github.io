@@ -31,6 +31,6 @@ Pretty Fly <- You are here!
 
 ---
 
-This design is now available [in my shop!](https://www.redbubble.com/people/LOLNEIN/shop) __+++ Today (03. Dec) 15% off everything! Code: 15OFF +++__ :)
+This design is now available [in my shop!](https://www.redbubble.com/people/LOLNEIN/shop) __+++ Today (04. Dec) 15% off everything! Code: 15OFF +++__ :)
 
 [![Pretty Fly Shirt](/images/prettyfly_shirt.jpg)](https://www.redbubble.com/people/LOLNEIN/shop)
