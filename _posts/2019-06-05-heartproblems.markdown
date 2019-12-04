@@ -28,10 +28,10 @@ Heart Problems <- You are here!
 [Smartphone vs Flip Phone PART 2](http://lolnein.com/2014/10/01/smartphones2/)
 
 
-This design is now [available in my shop!](https://www.redbubble.com/people/LOLNEIN/shop) __+++ Today (04. Dec) 15% off everything! Code: 15OFF +++__
+This design is now [available in my shop!](https://www.redbubble.com/people/lolnein/shop?asc=u) __+++ Today (04. Dec) 15% off everything! Code: 15OFF +++__
 
 
  
 
 
-[![Heart Problems Shirt](/images/heartproblems_shirt.png)](https://www.redbubble.com/people/LOLNEIN/shop)
+[![Heart Problems Shirt](/images/heartproblems_shirt.png)](https://www.redbubble.com/people/lolnein/shop?asc=u)

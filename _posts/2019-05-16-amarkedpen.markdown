@@ -22,6 +22,6 @@ A Marked Pen <- You are here!
 [CD vs Floppy Disk](https://lolnein.com/2015/05/11/cdvsfloppydisk/)
 
 
-This design is now [available in my shop!](https://www.redbubble.com/people/LOLNEIN/shop) __+++ Today (04. Dec) 15% off everything! Code: 15OFF +++__
+This design is now [available in my shop!](https://www.redbubble.com/people/lolnein/shop?asc=u) __+++ Today (04. Dec) 15% off everything! Code: 15OFF +++__
 
-[![A Marked Pen Shirt](/images/amarkedpen_shirt.png)](https://www.redbubble.com/people/LOLNEIN/shop)
+[![A Marked Pen Shirt](/images/amarkedpen_shirt.png)](https://www.redbubble.com/people/lolnein/shop?asc=u)
