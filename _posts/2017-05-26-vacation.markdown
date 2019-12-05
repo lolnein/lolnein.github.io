@@ -10,7 +10,17 @@ Bonus Panel:
 
 ![Vacation Bonus Panel](/images/vacation_bonus.png)
 
-<div class="title">Similar Comics</div>
-[![Shakenado](/thumbs/shakenado.png){:height="150px" width="150px"}](https://lolnein.com/2019/04/30/shakenado/)
-[![Summer Depression](/thumbs/summerdepression.png){:height="150px" width="150px"}](https://lolnein.com/2018/08/15/summerdepression/)
-[![Lava Floor](/thumbs/lavafloor.png){:height="150px" width="150px"}](https://lolnein.com/2017/06/09/lavafloor/)
+
+__More comics nature-related comics:__
+
+Vacation <- You are here!
+
+[Lava Floor](https://lolnein.com/2017/06/09/lavafloor/)
+
+[Toilet Shopping](https://lolnein.com/2017/07/12/toiletshopping/)
+
+[Falling Leaves](https://lolnein.com/2017/11/06/fallingleaves/)
+
+[A Day at the Beach](https://lolnein.com/2019/04/11/adayatthebeach/)
+
+[Shakenado](https://lolnein.com/2019/04/30/shakenado/)

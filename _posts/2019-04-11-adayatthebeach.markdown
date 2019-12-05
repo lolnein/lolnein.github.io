@@ -10,10 +10,18 @@ Bonus Panel:
 
 ![A Day at the Beach Bonus Panel](/images/adayatthebeach_bonus.png)
 
-<div class="title">Similar Comics</div>
 
-[![Vacation](/thumbs/vacation.png){:height="150px" width="150px"}](https://lolnein.com/2017/05/26/vacation/)
-[![Mix-Up](/thumbs/mixup.png){:height="150px" width="150px"}](https://lolnein.com/2017/11/23/mix-up/)
-[![No Soaking Matter](/thumbs/nosoakingmatter.png){:height="150px" width="150px"}](https://lolnein.com/2019/04/12/nosoakingmatter/)
+__More comics nature-related comics:__
 
+[Vacation](https://lolnein.com/2017/05/26/vacation/)
+
+[Lava Floor](https://lolnein.com/2017/06/09/lavafloor/)
+
+[Toilet Shopping](https://lolnein.com/2017/07/12/toiletshopping/)
+
+[Falling Leaves](https://lolnein.com/2017/11/06/fallingleaves/)
+
+A Day at the Beach <- You are here!
+
+[Shakenado](https://lolnein.com/2019/04/30/shakenado/)
 

@@ -13,8 +13,6 @@ Bonus Panel:
 
 __More comics about stupidity:__
 
-[Falling Leaves](https://lolnein.com/2017/11/06/fallingleaves/)
-
 [Mix-up](https://lolnein.com/2017/11/23/mixup/)
 
 [Get A Tan](https://lolnein.com/2018/09/05/getatan/)

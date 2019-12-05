@@ -11,18 +11,16 @@ Bonus Panel:
 ![Falling Leaves Bonus Panel](/images/fallingleaves_bonus.png)
 
 
-__More comics about stupidity:__
+__More comics nature-related comics:__
+
+[Vacation](https://lolnein.com/2017/05/26/vacation/)
+
+[Lava Floor](https://lolnein.com/2017/06/09/lavafloor/)
+
+[Toilet Shopping](https://lolnein.com/2017/07/12/toiletshopping/)
 
 Falling Leaves <- You are here!
 
-[Mix-up](https://lolnein.com/2017/11/23/mixup/)
+[A Day at the Beach](https://lolnein.com/2019/04/11/adayatthebeach/)
 
-[Get A Tan](https://lolnein.com/2018/09/05/getatan/)
-
-[The Perfect Camping Spot](https://lolnein.com/2019/09/04/theperfectcampingspot/)
-
-[Improve Your Sleep](https://lolnein.com/2019/09/26/improveyoursleep/)
-
-[TikTok](https://lolnein.com/2019/10/24/tiktok/)
-
-[Math Problem](https://lolnein.com/2019/11/08/mathproblem/)
+[Shakenado](https://lolnein.com/2019/04/30/shakenado/)
