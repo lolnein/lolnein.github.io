@@ -34,6 +34,6 @@ The Ugly Caterpillar <- You are here!
 [Professional Help](https://lolnein.com/2019/09/03/professionalhelp/)
 
 
-This design and more is [available in my shop!](https://www.redbubble.com/people/lolnein/shop?asc=u) __+++ Today (05. Dec) 25% off all apparel! Code: OUTFITS25 +++__
+This design and more is [available in my shop!](https://www.redbubble.com/people/lolnein/shop?asc=u) __+++ Today (08. Dec) 15% off everything! Code: 15OFF +++__
 
 [![Ugly Butterfly Bag](/images/uglybutterfly_bag.png)](https://www.redbubble.com/people/lolnein/shop?asc=u)
