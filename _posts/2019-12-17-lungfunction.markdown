@@ -1,14 +1,14 @@
 ---
 layout: comic
-comic: hotbath.png
-title: Hot Bath
-alt: Hot Bath
-keywords: [tea, mug, teabag, hot, bath, wet]
+comic: lungfunction.png
+title: Lung Function
+alt: Lung Function
+keywords: [quit, smoking, cigarettes, e-cigarettes, ecigarettes, health, lung, function, doctor, breathing, chimney, winter, heating, wood, smoke]
 ---
 
 Bonus Panel:
 
-![Hot Bath Bonus Panel](/images/hotbath_bonus.png)
+![Lung Function Bonus](/images/lungfunction_bonus.png)
 
 
 __More comics about objects experiencing L I F E:__
@@ -23,7 +23,7 @@ __More comics about objects experiencing L I F E:__
 
 [Live Your Dream](https://lolnein.com/2018/09/14/liveyourdream/)
 
-Hot Bath <- You are here!
+[Hot Bath](https://lolnein.com/2019/04/29/hotbath/)
 
 [Missing Mug](https://lolnein.com/2019/09/11/missingmug/)
 
@@ -33,12 +33,6 @@ Hot Bath <- You are here!
 
 [Mad Mug](https://lolnein.com/2019/11/11/madmug/)
 
-[Lung Function](https://lolnein.com/2019/12/17/lungfunction/)
+Lung Function <- You are here!
 
 [Motorola Razr vs Flip Phone](https://lolnein.com/2019/11/16/motorolarazrvsflipphone/)
-
-
-Great gift idea for tea lovers: [Get this comic on a mug!](https://www.redbubble.com/people/lolnein/works/39482887-a-hot-bath?asc=u&p=mug)
-
-[![Hot Bath on a Mug](/images/hotbath_mug.png)](https://www.redbubble.com/people/lolnein/works/39482887-a-hot-bath?asc=u&p=mug)
-

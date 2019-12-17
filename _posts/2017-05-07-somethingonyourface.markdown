@@ -33,5 +33,7 @@ Something on Your Face <- You are here!
 
 [Mad Mug](https://lolnein.com/2019/11/11/madmug/)
 
+[Lung Function](https://lolnein.com/2019/12/17/lungfunction/)
+
 [Motorola Razr vs Flip Phone](https://lolnein.com/2019/11/16/motorolarazrvsflipphone/)
 https

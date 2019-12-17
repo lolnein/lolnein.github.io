@@ -33,10 +33,12 @@ Missing Mug <- You are here!
 
 [Mad Mug](https://lolnein.com/2019/11/11/madmug/)
 
+[Lung Function](https://lolnein.com/2019/12/17/lungfunction/)
+
 [Motorola Razr vs Flip Phone](https://lolnein.com/2019/11/16/motorolarazrvsflipphone/)
 
 
-This happy mug is now [available in my shop!](https://www.redbubble.com/people/lolnein/shop?asc=u) __+++ Today (13. Dec) 15% off everything! Code: 15OFF +++__
+This happy mug is now [available in my shop!](https://www.redbubble.com/people/lolnein/shop?asc=u) 
 
 [![Happy Mug](/images/happymug.jpg)](https://www.redbubble.com/people/lolnein/works/42532538-curious-face?p=mug&style=standard)
 
