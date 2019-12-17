@@ -3,7 +3,7 @@ layout: comic
 comic: lungfunction.png
 title: Lung Function
 alt: Lung Function
-keywords: [quit, smoking, cigarettes, e-cigarettes, ecigarettes, health, lung, function, doctor, breathing, chimney, winter, heating, wood, smoke]
+keywords: [quit, smoking, cigarettes, e-cigarettes, ecigarettes, health, insurance, healthcare, lung, function, doctor, breathing, chimney, winter, heating, wood, smoke]
 ---
 
 Bonus Panel:
