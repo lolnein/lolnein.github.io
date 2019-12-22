@@ -11,22 +11,24 @@ Bonus Panel:
 ![Daily Exercise Bonus Panel](/images/dailyexercise_bonus.png)
 
 
-More Technology Comics:
+__More Technology Comics:__
 
-[Loving Technology](https://lolnein.com/2019/11/06/lovingtechnology/)
+[Me and My Phone](https://lolnein.com/2017/06/26/meandmyphone/)
 
-[Call The Doctor](https://lolnein.com/2019/09/12/callthedoctor/)
-
-Daily Exercise <- You are here!
-
-[Slow Laptop](https://lolnein.com/2018/08/30/slowlaptop/)
-
-[Unsaved Work](https://lolnein.com/2018/06/18/unsavedwork/)
-
-[Windows Update](https://lolnein.com/2018/06/14/windowsupdate/)
+[Well-Designed](https://lolnein.com/2017/11/04/welldesigned/)
 
 [Update And Restart](https://lolnein.com/2018/01/26/updateandrestart/)
 
-[Well-Designed](https://lolnein.com/2017/11/04/welldesigned/)
+[Windows Update](https://lolnein.com/2018/06/14/windowsupdate/)
+
+[Unsaved Work](https://lolnein.com/2018/06/18/unsavedwork/)
+
+[Slow Laptop](https://lolnein.com/2018/08/30/slowlaptop/)
+
+Daily Exercise <- You are here!
+
+[Call The Doctor](https://lolnein.com/2019/09/12/callthedoctor/)
+
+[Loving Technology](https://lolnein.com/2019/11/06/lovingtechnology/)
 
 [Smartphone vs Flip Phone PART 1](http://lolnein.com/2013/08/28/smartphones/)
