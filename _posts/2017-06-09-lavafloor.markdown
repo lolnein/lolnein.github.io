@@ -21,6 +21,8 @@ Lava Floor <- You are here!
 
 [Falling Leaves](https://lolnein.com/2017/11/06/fallingleaves/)
 
+[Trunk Show](https://lolnein.com/2017/12/23/trunkshow/)
+
 [A Day at the Beach](https://lolnein.com/2019/04/11/adayatthebeach/)
 
 [Shakenado](https://lolnein.com/2019/04/30/shakenado/)

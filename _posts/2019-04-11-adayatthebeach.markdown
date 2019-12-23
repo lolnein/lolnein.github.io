@@ -21,6 +21,8 @@ __More comics nature-related comics:__
 
 [Falling Leaves](https://lolnein.com/2017/11/06/fallingleaves/)
 
+[Trunk Show](https://lolnein.com/2017/12/23/trunkshow/)
+
 A Day at the Beach <- You are here!
 
 [Shakenado](https://lolnein.com/2019/04/30/shakenado/)
