@@ -11,7 +11,7 @@ Bonus Panel:
 ![Shakenado Bonus Panel](/images/shakenado_bonus.gif)
 
 
-__More comics nature-related comics:__
+__More nature-related comics:__
 
 [Vacation](https://lolnein.com/2017/05/26/vacation/)
 

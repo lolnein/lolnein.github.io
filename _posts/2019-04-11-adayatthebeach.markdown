@@ -11,7 +11,7 @@ Bonus Panel:
 ![A Day at the Beach Bonus Panel](/images/adayatthebeach_bonus.png)
 
 
-__More comics nature-related comics:__
+__More nature-related comics:__
 
 [Vacation](https://lolnein.com/2017/05/26/vacation/)
 

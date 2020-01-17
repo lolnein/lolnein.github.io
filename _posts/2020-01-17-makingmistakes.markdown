@@ -1,14 +1,14 @@
 ---
 layout: comic
-comic: aquestionofdigestion.png
-title: A Question of Digestion
-alt: A Question of Digestion
-keywords: [digestion, disorder, dysfunction, stomach, gut, bowl, intestine, lactose, fructose, gluten, intolerance, intolerant, allergy, problems, digesting, eating, constipation, diarrhea]
+comic: makingmistakes.png
+title: Making Mistakes
+alt: Making Mistakes
+keywords: [brain, anxiety, comic, everybody, makes, mistakes, depression, positive, thoughts, negative]
 ---
 
 Bonus Panel:
 
-![A Question of Digestion Bonus](/images/aquestionofdigestion_bonus.png)
+![Making Mistakes Bonus Panel](/images/makingmistakes_bonus.png)
 
 
 More comics about our weird bodies:
@@ -23,8 +23,8 @@ More comics about our weird bodies:
 
 [Bus Of Thought](https://lolnein.com/2019/09/05/busofthought/)
 
-A Question of Digestion <- You are here!
+[A Question of Digestion](https://lolnein.com/2019/09/10/aquestionofdigestion/)
 
-[Making Mistakes](https://lolnein.com/2020/01/17/makingmistakes/)
+Making Mistakes <- You are here!
 
 [Smartphone vs Flip Phone PART 2](http://lolnein.com/2014/10/01/smartphones2/)
