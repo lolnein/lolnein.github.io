@@ -1,14 +1,14 @@
 ---
 layout: comic
-comic: hugeguy.png
-title: Huge Guy
-alt: Huge Guy
-keywords: [shower, showerhead, rain, huge, sky, outside, bulb, light, sun, bathroom]
+comic: readyforcoffee.png
+title: Ready for Coffee
+alt: Ready for Coffee
+keywords: [coffee, machine, monday, morning, wine, espresso, mugs, glass, work, nespresso, senseo, jura, keurig, delonghi]
 ---
 
 Bonus Panel:
 
-![Huge Guy Bonus](/images/hugeguy_bonus.png)
+![Ready for Coffee Bonus Panel](/images/readyforcoffee_bonus.png)
 
 
 __More comics about objects experiencing L I F E:__
@@ -23,11 +23,11 @@ __More comics about objects experiencing L I F E:__
 
 [Live Your Dream](https://lolnein.com/2018/09/14/liveyourdream/)
 
-[Hot Bath](https://lolnein.com/2019/04/29/hotbath/)
+Hot Bath <- You are here!
 
 [Missing Mug](https://lolnein.com/2019/09/11/missingmug/)
 
-Huge Guy <- You are here!
+[Huge Guy](https://lolnein.com/2019/09/16/hugeguy/)
 
 [Get This Party Started](https://lolnein.com/2019/09/30/getthispartystarted/)
 
@@ -35,6 +35,6 @@ Huge Guy <- You are here!
 
 [Lung Function](https://lolnein.com/2019/12/17/lungfunction/)
 
-[Ready for Coffee](https://lolnein.com/2020/01/20/readyforcoffee/)
+Ready for Coffee <- You are here!
 
 [Motorola Razr vs Flip Phone](https://lolnein.com/2019/11/16/motorolarazrvsflipphone/)

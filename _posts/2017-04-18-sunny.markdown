@@ -9,7 +9,3 @@ keywords: [sunny,sun, cloud, memory, snow, rain]
 Bonus Panel:
 
 ![Sunny Bonus Panel](/images/sunny_bonus.png)
-
-<div class="title">Shop</div>
-
-[![Redbubble Shirts](/images/redbubble_shirts.png)](https://www.redbubble.com/people/lolnein/shop?asc=u)

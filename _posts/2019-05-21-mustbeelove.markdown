@@ -30,6 +30,6 @@ Must Bee Love <- You are here!
 [Professional Help](https://lolnein.com/2019/09/03/professionalhelp/)
 
 
-This design is now [available in my shop!](https://www.redbubble.com/people/lolnein/shop?asc=u) 
+This design is now [available in my shop! +++ Today 20-50% off everything (20.01.2020)! Code: YESTO2050 +++](https://lolnein.redbubble.com) 
 
-[![Bumblebee Shirt](/images/bumblebee_shirt.png)](https://www.redbubble.com/people/lolnein/shop?asc=u)
+[![Bumblebee Shirt](/images/bumblebee_shirt.png)](https://lolnein.redbubble.com)

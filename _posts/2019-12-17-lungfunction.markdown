@@ -35,4 +35,6 @@ __More comics about objects experiencing L I F E:__
 
 Lung Function <- You are here!
 
+[Ready for Coffee](https://lolnein.com/2020/01/20/readyforcoffee/)
+
 [Motorola Razr vs Flip Phone](https://lolnein.com/2019/11/16/motorolarazrvsflipphone/)

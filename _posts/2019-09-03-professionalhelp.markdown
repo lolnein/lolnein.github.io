@@ -30,6 +30,6 @@ __More insect-related comics:__
 Professional Help <- You are here!
 
 
-This design is now [available in my shop!](https://www.redbubble.com/people/lolnein/shop?asc=u) 
+This design is now [available in my shop! +++ Today 20-50% off everything (20.01.2020)! Code: YESTO2050 +++](https://lolnein.redbubble.com) 
 
-[![Dr. Fly Notebook](/images/drfly_notebook.jpg)](https://www.redbubble.com/people/lolnein/shop?asc=u)
+[![Dr. Fly Notebook](/images/drfly_notebook.jpg)](https://lolnein.redbubble.com)
