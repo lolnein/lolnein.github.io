@@ -40,7 +40,7 @@ Missing Mug <- You are here!
 [Motorola Razr vs Flip Phone](https://lolnein.com/2019/11/16/motorolarazrvsflipphone/)
 
 
-This happy mug is now [available in my shop! +++ Today 20-50% off everything (20.01.2020)! Code: YESTO2050 +++](https://lolnein.redbubble.com) 
+This happy mug is now [available in my shop! +++ Today 20-50% off everything (21.01.2020)! Code: YESTO2050 +++](https://lolnein.redbubble.com) 
 
 [![Happy Mug](/images/happymug.jpg)](https://lolnein.redbubble.com)
 
