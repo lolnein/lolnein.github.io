@@ -8,7 +8,7 @@ keywords: [brain, comic, sleep, wake, bed, awake, insomnia, think, desk]
 
 Bonus Panel:
 
-![Ready for Coffee Bonus Panel](/images/aplacetothink_bonus.png)
+![A Place to Think Bonus Panel](/images/aplacetothink_bonus.png)
 
 
 More comics about our weird bodies:
