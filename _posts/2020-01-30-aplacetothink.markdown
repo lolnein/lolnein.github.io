@@ -1,14 +1,14 @@
 ---
 layout: comic
-comic: handlethissituation.png
-title: Handle This Situation
-alt: Handle This Situation
-keywords: [brain, situation, handle, table, paper, manual]
+comic: aplacetothink.png
+title: A Place to Think
+alt: A Place to Think
+keywords: [brain, comic, sleep, wake, bed, awake, insomnia, think, desk]
 ---
 
-Bonus Comic:
+Bonus Panel:
 
-![Handle This Situation Bonus Comic](/images/handlethissituation_bonus.png)
+![Ready for Coffee Bonus Panel](/images/aplacetothink_bonus.png)
 
 
 More comics about our weird bodies:
@@ -17,7 +17,7 @@ More comics about our weird bodies:
 
 [Useful Information](https://lolnein.com/2017/07/18/usefulinformation/)
 
-Handle This Situtation <- You are here!
+[Handle This Situtation](https://lolnein.com/2019/04/25/handlethissituation/)
 
 [Heart Problems](https://lolnein.com/2019/06/05/heartproblems/)
 
@@ -27,6 +27,6 @@ Handle This Situtation <- You are here!
 
 [Making Mistakes](https://lolnein.com/2020/01/17/makingmistakes/)
 
-[A Place to Think](https://lolnein.com/2020/01/30/aplacetothink/)
+A Place to Think <- You are here!
 
 [Smartphone vs Flip Phone PART 2](http://lolnein.com/2014/10/01/smartphones2/)

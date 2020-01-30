@@ -27,4 +27,6 @@ More comics about our weird bodies:
 
 Making Mistakes <- You are here!
 
+[A Place to Think](https://lolnein.com/2020/01/30/aplacetothink/)
+
 [Smartphone vs Flip Phone PART 2](http://lolnein.com/2014/10/01/smartphones2/)

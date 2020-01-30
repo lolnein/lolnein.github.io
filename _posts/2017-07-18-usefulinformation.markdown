@@ -29,6 +29,8 @@ Useful Information <- You are here!
 
 [Making Mistakes](https://lolnein.com/2020/01/17/makingmistakes/)
 
+[A Place to Think](https://lolnein.com/2020/01/30/aplacetothink/)
+
 [Smartphone vs Flip Phone PART 2](http://lolnein.com/2014/10/01/smartphones2/)
 
 
