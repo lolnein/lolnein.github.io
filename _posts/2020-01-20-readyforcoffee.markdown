@@ -37,4 +37,6 @@ __More comics about objects experiencing L I F E:__
 
 Ready for Coffee <- You are here!
 
+[Don't Move](https://lolnein.com/2019/10/20/dontmove/)
+
 [Motorola Razr vs Flip Phone](https://lolnein.com/2019/11/16/motorolarazrvsflipphone/)
