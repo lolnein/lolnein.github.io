@@ -28,6 +28,6 @@ Lava Floor <- You are here!
 [Shakenado](https://lolnein.com/2019/04/30/shakenado/)
 
 
-This design is now [available in my shop!](https://lolnein.redbubble.com) 
+This design is now [available in my shop!](https://lolnein.redbubble.com) +++ Today (03.02.) 25% off apparel! Code: CLOTHING25OFF +++ 
 
 [![Volcayes Shirt](/images/volcayes_shirtmug.png)](https://lolnein.redbubble.com)

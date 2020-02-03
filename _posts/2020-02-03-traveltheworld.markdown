@@ -1,14 +1,14 @@
 ---
 layout: comic
-comic: aplacetothink.png
-title: A Place to Think
-alt: A Place to Think
-keywords: [brain, comic, sleep, wake, bed, awake, insomnia, think, desk]
+comic: traveltheworld.png
+title: Travel the World
+alt: Travel the World
+keywords: [corona, virus, beer, health, insurance, bar, flu, cold, sick, world, pandemic, epidemic, symptoms, incubation, contagious, comic]
 ---
 
 Bonus Panel:
 
-![A Place to Think Bonus Panel](/images/aplacetothink_bonus.png)
+![Travel the World Bonus Panel](/images/traveltheworld_bonus.png)
 
 
 More comics about our weird bodies:
@@ -27,8 +27,8 @@ More comics about our weird bodies:
 
 [Making Mistakes](https://lolnein.com/2020/01/17/makingmistakes/)
 
-A Place to Think <- You are here!
+[A Place to Think](https://lolnein.com/2020/01/30/aplacetothink/)
 
-[Travel the World](https://lolnein.com/2020/02/03/traveltheworld/)
+Travel the World <- You are here!
 
 [Smartphone vs Flip Phone PART 2](http://lolnein.com/2014/10/01/smartphones2/)

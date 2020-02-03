@@ -29,4 +29,6 @@ A Question of Digestion <- You are here!
 
 [A Place to Think](https://lolnein.com/2020/01/30/aplacetothink/)
 
+[Travel the World](https://lolnein.com/2020/02/03/traveltheworld/)
+
 [Smartphone vs Flip Phone PART 2](http://lolnein.com/2014/10/01/smartphones2/)

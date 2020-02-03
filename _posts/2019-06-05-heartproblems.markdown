@@ -29,9 +29,11 @@ Heart Problems <- You are here!
 
 [A Place to Think](https://lolnein.com/2020/01/30/aplacetothink/)
 
+[Travel the World](https://lolnein.com/2020/02/03/traveltheworld/)
+
 [Smartphone vs Flip Phone PART 2](http://lolnein.com/2014/10/01/smartphones2/)
 
 
-This design is now [available in my shop!](https://lolnein.redbubble.com) 
+This design is now [available in my shop!](https://lolnein.redbubble.com) +++ Today (03.02.) 25% off apparel! Code: CLOTHING25OFF +++ 
 
 [![Heart Problems Shirt](/images/heartproblems_shirt.png)](https://lolnein.redbubble.com)
