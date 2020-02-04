@@ -31,6 +31,6 @@ Pretty Fly <- You are here!
 
 ---
 
-This design is now [available in my shop!](https://lolnein.redbubble.com) +++ Today (03.02.) 25% off apparel! Code: CLOTHING25OFF +++  :)
+This design is now [available in my shop!](https://lolnein.redbubble.com) +++ Today (04.02.) 25% off apparel! Code: CLOTHING25OFF +++  :)
 
 [![Pretty Fly Shirt](/images/prettyfly_shirt.jpg)](https://lolnein.redbubble.com)

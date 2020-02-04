@@ -37,6 +37,6 @@ Useful Information <- You are here!
 
 
 
-This design is now [available in my shop!](https://lolnein.redbubble.com) +++ Today (03.02.) 25% off apparel! Code: CLOTHING25OFF +++ 
+This design is now [available in my shop!](https://lolnein.redbubble.com) +++ Today (04.02.) 25% off apparel! Code: CLOTHING25OFF +++ 
 
 [![Useful Information Shirt](/images/usefulinformation_shirt2.png)](https://lolnein.redbubble.com)
