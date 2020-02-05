@@ -1,14 +1,14 @@
 ---
 layout: comic
-comic: hugeguy.png
-title: Huge Guy
-alt: Huge Guy
-keywords: [shower, showerhead, rain, huge, sky, outside, bulb, light, sun, bathroom]
+comic: finelegs.png
+title: Fine Legs
+alt: Fine Legs
+keywords: [bar, chair, stool, fine, legs, romantic, flirting, flirt, compliment, valentine's, day, valentines, drink]
 ---
 
 Bonus Panel:
 
-![Huge Guy Bonus](/images/hugeguy_bonus.png)
+![Fine Legs Bonus Panel](/images/finelegs_bonus.png)
 
 
 __More comics about objects experiencing L I F E:__
@@ -27,7 +27,7 @@ __More comics about objects experiencing L I F E:__
 
 [Missing Mug](https://lolnein.com/2019/09/11/missingmug/)
 
-Huge Guy <- You are here!
+[Huge Guy](https://lolnein.com/2019/09/16/hugeguy/)
 
 [Get This Party Started](https://lolnein.com/2019/09/30/getthispartystarted/)
 
@@ -39,6 +39,6 @@ Huge Guy <- You are here!
 
 [Ready for Coffee](https://lolnein.com/2020/01/20/readyforcoffee/)
 
-[Fine Legs](https://lolnein.com/2020/02/05/finelegs)
+Fine Legs <- You are here!
 
 [Motorola Razr vs Flip Phone](https://lolnein.com/2019/11/16/motorolarazrvsflipphone/)

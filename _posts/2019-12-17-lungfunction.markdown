@@ -31,12 +31,14 @@ __More comics about objects experiencing L I F E:__
 
 [Get This Party Started](https://lolnein.com/2019/09/30/getthispartystarted/)
 
+[Don't Move](https://lolnein.com/2019/10/20/dontmove/)
+
 [Mad Mug](https://lolnein.com/2019/11/11/madmug/)
 
 Lung Function <- You are here!
 
 [Ready for Coffee](https://lolnein.com/2020/01/20/readyforcoffee/)
 
-[Don't Move](https://lolnein.com/2019/10/20/dontmove/)
+[Fine Legs](https://lolnein.com/2020/02/05/finelegs)
 
 [Motorola Razr vs Flip Phone](https://lolnein.com/2019/11/16/motorolarazrvsflipphone/)

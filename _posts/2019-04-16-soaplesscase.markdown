@@ -28,6 +28,6 @@ Soapless Case <- You are here!
 [Clean The Floor](https://lolnein.com/2019/06/21/cleanthefloor/)
 
 
-This design is now [available in my shop!](https://lolnein.redbubble.com) +++ Today (04.02.) 25% off apparel! Code: CLOTHING25OFF +++ 
+This design is now [available in my shop!](https://lolnein.redbubble.com)
 
 [![Soap Shirt](/images/soap_shirt.png)](https://lolnein.redbubble.com)
