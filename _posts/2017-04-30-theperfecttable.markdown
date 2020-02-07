@@ -41,4 +41,6 @@ The Perfect Table <- You are here!
 
 [Fine Legs](https://lolnein.com/2020/02/05/finelegs)
 
+[Passing Salt](https://lolnein.com/2020/02/07/passingsalt/)
+
 [Motorola Razr vs Flip Phone](https://lolnein.com/2019/11/16/motorolarazrvsflipphone/)

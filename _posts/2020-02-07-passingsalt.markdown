@@ -1,14 +1,14 @@
 ---
 layout: comic
-comic: getthispartystarted.png
-title: Get This Party Started
-alt: Get This Party Started
-keywords: [party, door, open, close, slam, hallway, sad, yay]
+comic: passingsalt.png
+title: Passing Salt
+alt: Passing Salt
+keywords: [salt, shaker, pepper, sugar, spices, seasoning, bad, luck, spilt, spilled, comic, walt, walter]
 ---
 
 Bonus Panel:
 
-![Get This Party Started Bonus](/images/getthispartystarted_bonus.png)
+![Passing Salt Bonus Panel](/images/passingsalt_bonus.png)
 
 
 __More comics about objects experiencing L I F E:__
@@ -29,7 +29,9 @@ __More comics about objects experiencing L I F E:__
 
 [Huge Guy](https://lolnein.com/2019/09/16/hugeguy/)
 
-Get This Party Started <- You are here!
+[Get This Party Started](https://lolnein.com/2019/09/30/getthispartystarted/)
+
+[Don't Move](https://lolnein.com/2019/10/20/dontmove/)
 
 [Mad Mug](https://lolnein.com/2019/11/11/madmug/)
 
@@ -39,6 +41,6 @@ Get This Party Started <- You are here!
 
 [Fine Legs](https://lolnein.com/2020/02/05/finelegs)
 
-[Passing Salt](https://lolnein.com/2020/02/07/passingsalt/)
+Passing Salt <- You are here!
 
 [Motorola Razr vs Flip Phone](https://lolnein.com/2019/11/16/motorolarazrvsflipphone/)
