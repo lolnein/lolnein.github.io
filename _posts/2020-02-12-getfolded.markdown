@@ -1,14 +1,14 @@
 ---
 layout: comic
-comic: readyforcoffee.png
-title: Ready for Coffee
-alt: Ready for Coffee
-keywords: [coffee, machine, monday, morning, wine, espresso, mugs, glass, work, nespresso, senseo, jura, keurig, delonghi]
+comic: getfolded.png
+title: Get Folded
+alt: Get Folded
+keywords: [fold, fitted, sheet, how to, tutorial, closet, clothes, laundry, bed, chores, folded, comic]
 ---
 
 Bonus Panel:
 
-![Ready for Coffee Bonus Panel](/images/readyforcoffee_bonus.png)
+![Get Folded Bonus Panel](/images/getfolded_bonus.png)
 
 
 __More comics about objects experiencing L I F E:__
@@ -37,12 +37,12 @@ __More comics about objects experiencing L I F E:__
 
 [Lung Function](https://lolnein.com/2019/12/17/lungfunction/)
 
-Ready for Coffee <- You are here!
+[Ready for Coffee](https://lolnein.com/2020/01/20/readyforcoffee/)
 
 [Fine Legs](https://lolnein.com/2020/02/05/finelegs)
 
 [Passing Salt](https://lolnein.com/2020/02/07/passingsalt/)
 
-[Get Folded](https://lolnein.com/2020/02/12/getfolded)
+Get Folded <- You are here!
 
 [Motorola Razr vs Flip Phone](https://lolnein.com/2019/11/16/motorolarazrvsflipphone/)

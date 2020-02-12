@@ -43,4 +43,6 @@ __More comics about objects experiencing L I F E:__
 
 Passing Salt <- You are here!
 
+[Get Folded](https://lolnein.com/2020/02/12/getfolded)
+
 [Motorola Razr vs Flip Phone](https://lolnein.com/2019/11/16/motorolarazrvsflipphone/)
