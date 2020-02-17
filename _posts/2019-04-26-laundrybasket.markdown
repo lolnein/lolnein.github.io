@@ -28,6 +28,6 @@ Laundry Basket <- You are here!
 [Clean The Floor](https://lolnein.com/2019/06/21/cleanthefloor/)
 
 
-This design is now [available in my shop!](https://lolnein.redbubble.com)
+This design is now [available in my shop!](https://lolnein.redbubble.com) +++ Now 20-50% off EVERYTHING! Code: UPTO50OFF +++
 
 [![Laundry Basket Shirt](/images/laundrybasket_shirt2.png)](https://lolnein.redbubble.com)

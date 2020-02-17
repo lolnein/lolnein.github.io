@@ -11,16 +11,18 @@ Bonus Panel:
 ![Horror Movie Bonus](/images/horrormovie_bonus.gif)
 
 
-More "scary" comics:
+More spooky comics:
 
-[Zeitgeist](https://lolnein.com/2019/11/10/zeitgeist/)
-
-[Vandalism](https://lolnein.com/2019/10/22/vandalism/)
-
-[Ghost Problems](https://lolnein.com/2019/10/14/ghostproblems/)
-
-[Candlelight Dinner](https://lolnein.com/2019/10/08/candlelightdinner/)
+Horror Movie <- You are here!
 
 [Love Is Scary](https://lolnein.com/2019/10/07/loveisscary/)
 
-Horror Movie <- You are here!
+[Candlelight Dinner](https://lolnein.com/2019/10/08/candlelightdinner/)
+
+[Ghost Problems](https://lolnein.com/2019/10/14/ghostproblems/)
+
+[Vandalism](https://lolnein.com/2019/10/22/vandalism/)
+
+[Zeitgeist](https://lolnein.com/2019/11/10/zeitgeist/)
+
+[A Good Scare](https://lolnein.com/2020/02/14/agoodscare/)

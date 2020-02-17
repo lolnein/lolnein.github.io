@@ -1,14 +1,14 @@
 ---
 layout: comic
-comic: candlelightdinner.png
-title: Candlelight Dinner
-alt: Candlelight Dinner
-keywords: [candlelight, dinner, romantic, goat, sacrifice, ritual, candles]
+comic: agoodscare.png
+title: A Good Scare
+alt: A Good Scare
+keywords: [ghost, comic, bed, spooky, wake, up, ugly, beauty, sleep, night, scary, scare, monster]
 ---
 
 Bonus Panel:
 
-![Candlelight Dinner Bonus](/images/candlelightdinner_bonus.png)
+![A Good Scare Bonus Panel](/images/agoodscare_bonus.png)
 
 
 More spooky comics:
@@ -17,7 +17,7 @@ More spooky comics:
 
 [Love Is Scary](https://lolnein.com/2019/10/07/loveisscary/)
 
-Candlelight Dinner <- You are here!
+[Candlelight Dinner](https://lolnein.com/2019/10/08/candlelightdinner/)
 
 [Ghost Problems](https://lolnein.com/2019/10/14/ghostproblems/)
 
@@ -25,4 +25,4 @@ Candlelight Dinner <- You are here!
 
 [Zeitgeist](https://lolnein.com/2019/11/10/zeitgeist/)
 
-[A Good Scare](https://lolnein.com/2020/02/14/agoodscare/)
+A Good Scare <- You are here!

@@ -37,6 +37,6 @@ Useful Information <- You are here!
 
 
 
-This design is now [available in my shop!](https://lolnein.redbubble.com)
+This design is now [available in my shop!](https://lolnein.redbubble.com) +++ Now 20-50% off EVERYTHING! Code: UPTO50OFF +++
 
 [![Useful Information Shirt](/images/usefulinformation_shirt2.png)](https://lolnein.redbubble.com)
