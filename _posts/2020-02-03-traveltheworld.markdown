@@ -31,4 +31,6 @@ More comics about our weird bodies:
 
 Travel the World <- You are here!
 
+[Haircut](https://lolnein.com/2020/02/19/haircut/)
+
 [Smartphone vs Flip Phone PART 2](http://lolnein.com/2014/10/01/smartphones2/)

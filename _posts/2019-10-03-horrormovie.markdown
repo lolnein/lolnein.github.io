@@ -25,4 +25,4 @@ Horror Movie <- You are here!
 
 [Zeitgeist](https://lolnein.com/2019/11/10/zeitgeist/)
 
-[A Good Scare](https://lolnein.com/2020/02/14/agoodscare/)
+[A Good Scare](https://lolnein.com/2020/02/17/agoodscare/)

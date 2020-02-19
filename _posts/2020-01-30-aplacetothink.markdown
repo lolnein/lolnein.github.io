@@ -31,4 +31,6 @@ A Place to Think <- You are here!
 
 [Travel the World](https://lolnein.com/2020/02/03/traveltheworld/)
 
+[Haircut](https://lolnein.com/2020/02/19/haircut/)
+
 [Smartphone vs Flip Phone PART 2](http://lolnein.com/2014/10/01/smartphones2/)

@@ -25,4 +25,4 @@ More spooky comics:
 
 Zeitgeist <- You are here!
 
-[A Good Scare](https://lolnein.com/2020/02/14/agoodscare/)
+[A Good Scare](https://lolnein.com/2020/02/17/agoodscare/)

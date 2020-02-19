@@ -31,9 +31,11 @@ Heart Problems <- You are here!
 
 [Travel the World](https://lolnein.com/2020/02/03/traveltheworld/)
 
+[Haircut](https://lolnein.com/2020/02/19/haircut/)
+
 [Smartphone vs Flip Phone PART 2](http://lolnein.com/2014/10/01/smartphones2/)
 
 
-This design is now [available in my shop!](https://lolnein.redbubble.com) +++ Now 20-50% off EVERYTHING! Code: UPTO50OFF +++
+This design is now [available in my shop!](https://lolnein.redbubble.com)
 
 [![Heart Problems Shirt](/images/heartproblems_shirt.png)](https://lolnein.redbubble.com)

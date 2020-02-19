@@ -1,19 +1,19 @@
 ---
 layout: comic
-comic: potatochips.png
-title: Potato Chips
-alt: Potato Chips
-keywords: [potato, chips, brain, horrible]
+comic: haircut.png
+title: Haircut
+alt: Haircut
+keywords: [hair, hairdresser, haircut, hairdo, wild, messy, stylish, style, products, bald]
 ---
 
 Bonus Panel:
 
-![Potato Chips Bonus Panel](/images/potatochips_bonus.png)
+![Haircut Bonus Panel](/images/haircut_bonus.png)
 
 
 More comics about our weird bodies:
 
-Potato Chips <- You are here!
+[Potato Chips](https://lolnein.com/2017/06/21/potatochips/)
 
 [Useful Information](https://lolnein.com/2017/07/18/usefulinformation/)
 
@@ -31,6 +31,6 @@ Potato Chips <- You are here!
 
 [Travel the World](https://lolnein.com/2020/02/03/traveltheworld/)
 
-[Haircut](https://lolnein.com/2020/02/19/haircut/)
+Haircut <- You are here!
 
 [Smartphone vs Flip Phone PART 2](http://lolnein.com/2014/10/01/smartphones2/)
