@@ -1,14 +1,14 @@
 ---
 layout: comic
-comic: busofthought.png
-title: Bus Of Thought
-alt: Bus Of Thought
-keywords: [train, of, thought, bus, cliffs, brain, driver, break, handbrake]
+comic: amazingview.png
+title: Amazing View
+alt: Amazing View
+keywords: [booger, hanging, nose, notice, comic, job, interview, embarassing, face]
 ---
 
-Bonus Comic:
+Bonus Panel:
 
-![Bus Of Thought Spot Bonus](/images/busofthought_bonus.png)
+![Amazing View Bonus Panel](/images/amazingview_bonus.png)
 
 
 More comics about our weird bodies:
@@ -21,7 +21,7 @@ More comics about our weird bodies:
 
 [Heart Problems](https://lolnein.com/2019/06/05/heartproblems/)
 
-Bus Of Thought <- You are here!
+[Bus Of Thought](https://lolnein.com/2019/09/05/busofthought/)
 
 [A Question of Digestion](https://lolnein.com/2019/09/10/aquestionofdigestion/)
 
@@ -29,11 +29,10 @@ Bus Of Thought <- You are here!
 
 [A Place to Think](https://lolnein.com/2020/01/30/aplacetothink/)
 
-[Travel the World](https://lolnein.com/2020/02/03/traveltheworld/)
+[Travel the World](https://lolnein.com/2020/02/20/amazingview/)
 
 [Haircut](https://lolnein.com/2020/02/19/haircut/)
 
-[Amazing View](https://lolnein.com/2020/02/20/amazingview/)
+Amazing View <- You are here!
 
 [Smartphone vs Flip Phone PART 2](http://lolnein.com/2014/10/01/smartphones2/)
-

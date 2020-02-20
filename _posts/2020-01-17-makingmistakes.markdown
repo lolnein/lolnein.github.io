@@ -33,4 +33,6 @@ Making Mistakes <- You are here!
 
 [Haircut](https://lolnein.com/2020/02/19/haircut/)
 
+[Amazing View](https://lolnein.com/2020/02/20/amazingview/)
+
 [Smartphone vs Flip Phone PART 2](http://lolnein.com/2014/10/01/smartphones2/)
