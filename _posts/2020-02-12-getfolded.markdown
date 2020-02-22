@@ -45,4 +45,6 @@ __More comics about objects experiencing L I F E:__
 
 Get Folded <- You are here!
 
+[Toilet Me Alone](http://lolnein.com/2020/02/22/toiletmealone/)
+
 [Motorola Razr vs Flip Phone](https://lolnein.com/2019/11/16/motorolarazrvsflipphone/)

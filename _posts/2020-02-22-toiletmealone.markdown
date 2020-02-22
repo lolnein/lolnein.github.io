@@ -1,14 +1,14 @@
 ---
 layout: comic
-comic: finelegs.png
-title: Fine Legs
-alt: Fine Legs
-keywords: [bar, chair, stool, fine, legs, romantic, flirting, flirt, compliment, valentine's, day, valentines, drink]
+comic: toiletmealone.png
+title: Toilet Me Alone
+alt: Toilet Me Alone
+keywords: [bird, plane, wings, moving, comic, superman, plird, blane, hero, superhero, animated]
 ---
 
 Bonus Panel:
 
-![Fine Legs Bonus Panel](/images/finelegs_bonus.png)
+![Toilet Me Alone Bonus Panel](/images/toiletmealone_bonus.png)
 
 
 __More comics about objects experiencing L I F E:__
@@ -39,12 +39,14 @@ __More comics about objects experiencing L I F E:__
 
 [Ready for Coffee](https://lolnein.com/2020/01/20/readyforcoffee/)
 
-Fine Legs <- You are here!
+[Fine Legs](https://lolnein.com/2020/02/05/finelegs)
 
 [Passing Salt](https://lolnein.com/2020/02/07/passingsalt/)
 
 [Get Folded](https://lolnein.com/2020/02/12/getfolded)
 
-[Toilet Me Alone](http://lolnein.com/2020/02/22/toiletmealone/)
+Toilet Me Alone <- You are here!
 
 [Motorola Razr vs Flip Phone](https://lolnein.com/2019/11/16/motorolarazrvsflipphone/)
+
+
