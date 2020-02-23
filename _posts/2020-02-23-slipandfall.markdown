@@ -1,14 +1,15 @@
 ---
 layout: comic
-comic: tiktok.png
-title: TikTok
-alt: TikTok
-keywords: [tiktok, time, app, comic, smartphone, iphone, funny, android]
+comic: slipandfall.png
+title: Slip and Fall
+alt: Slip and Fall
+keywords: [spoon, slip, bowl, cereal, corn, flakes, breakfast, tommy, milk]
 ---
 
 Bonus Panel:
 
-![TikTok Bonus](/images/tiktok_bonus.png)
+![Slip and Fall Bonus Panel](/images/slipandfall_bonus.png)
+
 
 
 __More comics about stupidity:__
@@ -21,8 +22,12 @@ __More comics about stupidity:__
 
 [Improve Your Sleep](https://lolnein.com/2019/09/26/improveyoursleep/)
 
-TikTok <- You are here!
+[TikTok](https://lolnein.com/2019/10/24/tiktok/)
 
 [Math Problem](https://lolnein.com/2019/11/08/mathproblem/)
 
-[Slip and Fall](https://lolnein.com/2020/02/23/slipandfall/)
+Slip and Fall <- You are here!
+
+
+
+

@@ -24,3 +24,6 @@ __More comics about stupidity:__
 [TikTok](https://lolnein.com/2019/10/24/tiktok/)
 
 Math Problem <- You are here!
+
+[Slip and Fall](https://lolnein.com/2020/02/23/slipandfall/)
+
