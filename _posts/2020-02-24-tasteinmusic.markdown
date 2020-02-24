@@ -1,14 +1,14 @@
 ---
 layout: comic
-comic: toiletmealone.png
-title: Toilet Me Alone
-alt: Toilet Me Alone
-keywords: [bird, plane, wings, moving, comic, superman, plird, blane, hero, superhero, animated]
+comic: tasteinmusic.png
+title: Taste in Music
+alt: Taste in Music
+keywords: [music, taste, headphones, earbuds, bad, ipod, iphone, spotify, streaming, subscription, airpods, iphone, smartphone]
 ---
 
 Bonus Panel:
 
-![Toilet Me Alone Bonus Panel](/images/toiletmealone_bonus.png)
+![Taste in Music Bonus Panel](/images/tasteinmusic_bonus.png)
 
 
 __More comics about objects experiencing L I F E:__
@@ -45,9 +45,9 @@ __More comics about objects experiencing L I F E:__
 
 [Get Folded](https://lolnein.com/2020/02/12/getfolded)
 
-Toilet Me Alone <- You are here!
+[Toilet Me Alone](http://lolnein.com/2020/02/22/toiletmealone/)
 
-[Taste in Music](https://lolnein.com/2020/02/24/tasteinmusic/)
+Taste in Music <- You are here!
 
 [Motorola Razr vs Flip Phone](https://lolnein.com/2019/11/16/motorolarazrvsflipphone/)
 
