@@ -49,6 +49,8 @@ __More comics about objects experiencing L I F E:__
 
 Taste in Music <- You are here!
 
+[Old Shirt](https://lolnein.com/2020/02/25/oldshirt/)
+
 [Motorola Razr vs Flip Phone](https://lolnein.com/2019/11/16/motorolarazrvsflipphone/)
 
 

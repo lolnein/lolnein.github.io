@@ -1,14 +1,14 @@
 ---
 layout: comic
-comic: somethingonyourface.png
-title: Something on Your Face
-alt: Something on Your Face
-keywords: [mirrors, faces, reflection, face]
+comic: oldshirt.png
+title: Old Shirt
+alt: Old Shirt
+keywords: [shirt, t-shirt, party, fashion, outfit, bad, taste, design, blue, yellow, closet, shopping]
 ---
 
 Bonus Panel:
 
-![Something on Your Face Bonus Panel](/images/somethingonyourface_bonus.png)
+![Old Shirt Bonus Panel](/images/oldshirt_bonus.png)
 
 
 __More comics about objects experiencing L I F E:__
@@ -17,7 +17,7 @@ __More comics about objects experiencing L I F E:__
 
 [The Perfect Table](https://lolnein.com/2017/04/30/theperfecttable/)
 
-Something on Your Face <- You are here!
+[Something on Your Face](https://lolnein.com/2017/05/07/somethingonyourface/)
 
 [Worst Bowl Ever](https://lolnein.com/2018/08/02/worstbowlever/)
 
@@ -49,7 +49,8 @@ Something on Your Face <- You are here!
 
 [Taste in Music](https://lolnein.com/2020/02/24/tasteinmusic/)
 
-[Old Shirt](https://lolnein.com/2020/02/25/oldshirt/)
+Old Shirt <- You are here!
 
 [Motorola Razr vs Flip Phone](https://lolnein.com/2019/11/16/motorolarazrvsflipphone/)
-https
+
+

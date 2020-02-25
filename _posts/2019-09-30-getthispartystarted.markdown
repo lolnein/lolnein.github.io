@@ -47,4 +47,6 @@ Get This Party Started <- You are here!
 
 [Taste in Music](https://lolnein.com/2020/02/24/tasteinmusic/)
 
+[Old Shirt](https://lolnein.com/2020/02/25/oldshirt/)
+
 [Motorola Razr vs Flip Phone](https://lolnein.com/2019/11/16/motorolarazrvsflipphone/)
