@@ -6,13 +6,6 @@ alt: Slip and Fall
 keywords: [spoon, slip, bowl, cereal, corn, flakes, breakfast, tommy, milk]
 ---
 
-<a class="navsoc" href="https://twitter.com/lolnein"><img src="/twitter.png" style="width: 1cm; height: 1cm;" alt="lolnein on Twitter"/></a>
-			<a class="navsoc" href="https://www.facebook.com/lolnein"><img src="/facebook.png" style="width: 1cm; height: 1cm;" alt="lolnein on Facebook"/></a>
-			<a class="navsoc" href="https://www.instagram.com/lolneincom"><img src="/instagram.png" style="width: 1cm; height: 1cm;" alt="lolnein on Instagram"/></a>
-			<a class="navsoc" href="https://lolnein.com/feed/"><img src="/feed.png" style="width: 1cm; height: 1cm;" alt="lolnein feed"/></a>
-			<a href="https://www.patreon.com/bePatron?u=717973" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
-			
-
 Bonus Panel:
 
 ![Slip and Fall Bonus Panel](/images/slipandfall_bonus.png)
