@@ -51,5 +51,7 @@ Something on Your Face <- You are here!
 
 [Old Shirt](https://lolnein.com/2020/02/25/oldshirt/)
 
+[Washing Machine](https://lolnein.com/2020/02/26/washingmachine/)
+
 [Motorola Razr vs Flip Phone](https://lolnein.com/2019/11/16/motorolarazrvsflipphone/)
 https

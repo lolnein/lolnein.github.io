@@ -1,14 +1,14 @@
 ---
 layout: comic
-comic: lungfunction.png
-title: Lung Function
-alt: Lung Function
-keywords: [quit, smoking, cigarettes, e-cigarettes, ecigarettes, health, insurance, healthcare, lung, function, doctor, breathing, chimney, winter, heating, wood, smoke]
+comic: washingmachine.png
+title: Washing Machine
+alt: Washing Machine
+keywords: [washing, machine, moving, walking, shaking, new, laundry, comic, bathroom, chores, household]
 ---
 
 Bonus Panel:
 
-![Lung Function Bonus](/images/lungfunction_bonus.png)
+![Washing Machine Bonus Panel](/images/washingmachine_bonus.png)
 
 
 __More comics about objects experiencing L I F E:__
@@ -35,7 +35,7 @@ __More comics about objects experiencing L I F E:__
 
 [Mad Mug](https://lolnein.com/2019/11/11/madmug/)
 
-Lung Function <- You are here!
+[Lung Function](https://lolnein.com/2019/12/17/lungfunction/)
 
 [Ready for Coffee](https://lolnein.com/2020/01/20/readyforcoffee/)
 
@@ -51,6 +51,8 @@ Lung Function <- You are here!
 
 [Old Shirt](https://lolnein.com/2020/02/25/oldshirt/)
 
-[Washing Machine](https://lolnein.com/2020/02/26/washingmachine/)
+Washing Machine <- You are here!
 
 [Motorola Razr vs Flip Phone](https://lolnein.com/2019/11/16/motorolarazrvsflipphone/)
+
+
