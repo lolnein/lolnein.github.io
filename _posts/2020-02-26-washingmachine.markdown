@@ -53,6 +53,8 @@ __More comics about objects experiencing L I F E:__
 
 Washing Machine <- You are here!
 
+[Just the Way You Are](https://lolnein.com/2020/02/27/justthewayyouare/)
+
 [Motorola Razr vs Flip Phone](https://lolnein.com/2019/11/16/motorolarazrvsflipphone/)
 
 

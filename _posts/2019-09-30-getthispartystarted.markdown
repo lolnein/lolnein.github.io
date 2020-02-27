@@ -51,4 +51,6 @@ Get This Party Started <- You are here!
 
 [Washing Machine](https://lolnein.com/2020/02/26/washingmachine/)
 
+[Just the Way You Are](https://lolnein.com/2020/02/27/justthewayyouare/)
+
 [Motorola Razr vs Flip Phone](https://lolnein.com/2019/11/16/motorolarazrvsflipphone/)

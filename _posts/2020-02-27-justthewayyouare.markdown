@@ -1,14 +1,14 @@
 ---
 layout: comic
-comic: dontmove.png
-title: Don't Move
-alt: Don't Move
-keywords: [optical, illusion, moving, circles, photo]
+comic: justthewayyouare.png
+title: Just the Way You Are
+alt: Just the Way You Are
+keywords: [yogurt, healthy, brand, tv, commercial, fruit, confidence, kitchen]
 ---
 
 Bonus Panel:
 
-![Don't Move Bonus](/images/dontmove_bonus.png)
+![Just the Way You Are Bonus Panel](/images/justthewayyouare_bonus.png)
 
 
 __More comics about objects experiencing L I F E:__
@@ -31,7 +31,7 @@ __More comics about objects experiencing L I F E:__
 
 [Get This Party Started](https://lolnein.com/2019/09/30/getthispartystarted/)
 
-Don't Move <- You are here!
+[Don't Move](https://lolnein.com/2019/10/20/dontmove/)
 
 [Mad Mug](https://lolnein.com/2019/11/11/madmug/)
 
@@ -53,6 +53,8 @@ Don't Move <- You are here!
 
 [Washing Machine](https://lolnein.com/2020/02/26/washingmachine/)
 
-[Just the Way You Are](https://lolnein.com/2020/02/27/justthewayyouare/)
+Just the Way You Are <- You are here!
 
 [Motorola Razr vs Flip Phone](https://lolnein.com/2019/11/16/motorolarazrvsflipphone/)
+
+
