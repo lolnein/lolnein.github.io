@@ -34,3 +34,8 @@ __More Technology Comics:__
 Bluetooth Speaker <- You are here!
 
 [Smartphone vs Flip Phone PART 1](http://lolnein.com/2013/08/28/smartphones/)
+
+
+This design is now [available in my shop!](https://lolnein.redbubble.com) :)
+
+[![Bluetooth Speaker Case](/images/bluetoothspeaker_case.jpg)](https://lolnein.redbubble.com)
