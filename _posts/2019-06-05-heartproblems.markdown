@@ -38,6 +38,6 @@ Heart Problems <- You are here!
 [Smartphone vs Flip Phone PART 2](http://lolnein.com/2014/10/01/smartphones2/)
 
 
-This design is now [available in my shop!](https://lolnein.redbubble.com)
+This design is now [available in my shop!](https://lolnein.redbubble.com) +++ Today (29. February) 20% off EVERYTHING! Code: LEAP20 +++
 
 [![Heart Problems Shirt](/images/heartproblems_shirt.png)](https://lolnein.redbubble.com)

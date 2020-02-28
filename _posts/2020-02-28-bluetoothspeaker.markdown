@@ -36,6 +36,6 @@ Bluetooth Speaker <- You are here!
 [Smartphone vs Flip Phone PART 1](http://lolnein.com/2013/08/28/smartphones/)
 
 
-This design is now [available in my shop!](https://lolnein.redbubble.com) :)
+This design is now [available in my shop!](https://lolnein.redbubble.com) +++ Today (29. February) 20% off EVERYTHING! Code: LEAP20 +++ :)
 
 [![Bluetooth Speaker Case](/images/bluetoothspeaker_case.jpg)](https://lolnein.redbubble.com)

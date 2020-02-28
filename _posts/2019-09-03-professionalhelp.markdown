@@ -30,6 +30,6 @@ __More insect-related comics:__
 Professional Help <- You are here!
 
 
-This design is now [available in my shop!](https://lolnein.redbubble.com)
+This design is now [available in my shop!](https://lolnein.redbubble.com) +++ Today (29. February) 20% off EVERYTHING! Code: LEAP20 +++
 
 [![Dr. Fly Notebook](/images/drfly_notebook.jpg)](https://lolnein.redbubble.com)
