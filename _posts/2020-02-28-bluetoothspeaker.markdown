@@ -1,14 +1,14 @@
 ---
 layout: comic
-comic: updateandrestart.png
-title: Update and Restart
-alt: Update and Restart
-keywords: [update, restart, windows, laptop, unsaved, projects]
+comic: bluetoothspeaker.png
+title: Bluetooth Speaker
+alt: Bluetooth Speaker
+keywords: [bluetooth, speaker, smartphone, connection, connect, pair, pairing, problems, tooth, fairy]
 ---
 
 Bonus Panel:
 
-![Update and Restart Bonus Panel](/images/updateandrestart_bonus.png)
+![Bluetooth Speaker Bonus Panel](/images/bluetoothspeaker_bonus.png)
 
 
 __More Technology Comics:__
@@ -17,7 +17,7 @@ __More Technology Comics:__
 
 [Well-Designed](https://lolnein.com/2017/11/04/welldesigned/)
 
-Update And Restart <- You are here!
+[Update And Restart](https://lolnein.com/2018/01/26/updateandrestart/)
 
 [Windows Update](https://lolnein.com/2018/06/14/windowsupdate/)
 
@@ -31,6 +31,6 @@ Update And Restart <- You are here!
 
 [Loving Technology](https://lolnein.com/2019/11/06/lovingtechnology/)
 
-[Bluetooth Speaker](https://lolnein.com/2020/02/28/bluetoothspeaker/)
+Bluetooth Speaker <- You are here!
 
 [Smartphone vs Flip Phone PART 1](http://lolnein.com/2013/08/28/smartphones/)

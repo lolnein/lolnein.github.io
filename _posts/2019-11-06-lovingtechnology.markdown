@@ -31,4 +31,6 @@ __More Technology Comics:__
 
 Loving Technology <- You are here!
 
+[Bluetooth Speaker](https://lolnein.com/2020/02/28/bluetoothspeaker/)
+
 [Smartphone vs Flip Phone PART 1](http://lolnein.com/2013/08/28/smartphones/)
