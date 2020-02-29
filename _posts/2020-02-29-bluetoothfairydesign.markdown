@@ -1,8 +1,8 @@
 ---
 layout: comic
 comic: bluetoothfairydesign.png
-title: New Design In My Shop: Bluetoothfairy
-alt: New Design In My Shop: Bluetoothfairy
+title: New Design In My Shop
+alt: New Design In My Shop
 keywords: [bluetooth, speaker, smartphone, connection, connect, pair, pairing, problems, tooth, fairy, merchandise, shop]
 ---
 
