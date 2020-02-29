@@ -6,7 +6,7 @@ alt: New Design In My Shop
 keywords: [bluetooth, speaker, smartphone, connection, connect, pair, pairing, problems, tooth, fairy, merchandise, shop]
 ---
 
-To the shop: https://lolnein.redbubble.com
+To the shop: [https://lolnein.redbubble.com](https://lolnein.redbubble.com)
 
 +++ Today (29. February) 20% off EVERYTHING! Code: LEAP20 +++ :)
 
