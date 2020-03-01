@@ -41,6 +41,6 @@ Useful Information <- You are here!
 
 
 
-This design is now [available in my shop!](https://lolnein.redbubble.com) +++ Today (29. February) 20% off EVERYTHING! Code: LEAP20 +++
+This design is now [available in my shop!](https://lolnein.redbubble.com)
 
 [![Useful Information Shirt](/images/usefulinformation_shirt2.png)](https://lolnein.redbubble.com)

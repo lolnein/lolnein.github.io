@@ -26,6 +26,6 @@ Banana Bread <- You are here!
 [Make the Cut](https://lolnein.com/2019/11/26/makethecut/)
 
 
-This design is now [available in my shop!](https://lolnein.redbubble.com) +++ Today (29. February) 20% off EVERYTHING! Code: LEAP20 +++
+This design is now [available in my shop!](https://lolnein.redbubble.com)
 
 [![Banana Shirt](/images/banana_shirt.jpg)](https://lolnein.redbubble.com)
