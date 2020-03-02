@@ -13,11 +13,11 @@ Bonus GIF:
 ![Well-Designed Bonus GIF](/images/welldesigned_bonus.gif)
 
 
-__More Technology Comics:__
+__More technology-related comics:__
 
 [Me and My Phone](https://lolnein.com/2017/06/26/meandmyphone/)
 
-Well-Designed <- You are here!
+[Well-Designed](https://lolnein.com/2017/11/04/welldesigned/) <- You are here!
 
 [Update And Restart](https://lolnein.com/2018/01/26/updateandrestart/)
 

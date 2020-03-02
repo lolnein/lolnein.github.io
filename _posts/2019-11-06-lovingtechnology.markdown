@@ -11,7 +11,7 @@ Bonus Panel:
 ![Loving Technology Bonus](/images/lovingtechnology_bonus.png)
 
 
-__More Technology Comics:__
+__More technology-related comics:__
 
 [Me and My Phone](https://lolnein.com/2017/06/26/meandmyphone/)
 
@@ -29,7 +29,7 @@ __More Technology Comics:__
 
 [Call The Doctor](https://lolnein.com/2019/09/12/callthedoctor/)
 
-Loving Technology <- You are here!
+[Loving Technology](https://lolnein.com/2019/11/06/lovingtechnology/) <- You are here!
 
 [Bluetooth Speaker](https://lolnein.com/2020/02/28/bluetoothspeaker/)
 

@@ -11,7 +11,7 @@ Bonus Panel:
 ![Slow Laptop Bonus Panel](/images/slowlaptop_bonus.png)
 
 
-__More Technology Comics:__
+__More technology-related comics:__
 
 [Me and My Phone](https://lolnein.com/2017/06/26/meandmyphone/)
 
@@ -23,7 +23,7 @@ __More Technology Comics:__
 
 [Unsaved Work](https://lolnein.com/2018/06/18/unsavedwork/)
 
-Slow Laptop <- You are here!
+[Slow Laptop](https://lolnein.com/2018/08/30/slowlaptop/) <- You are here!
 
 [Daily Exercise](https://lolnein.com/2019/05/28/dailyexercise/)
 

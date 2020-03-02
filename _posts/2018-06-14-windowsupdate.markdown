@@ -11,7 +11,7 @@ Bonus Panel:
 ![Windows Update Bonus Panel](/images/windowsupdate_bonus.png)
 
 
-__More Technology Comics:__
+__More technology-related comics:__
 
 [Me and My Phone](https://lolnein.com/2017/06/26/meandmyphone/)
 
@@ -19,7 +19,7 @@ __More Technology Comics:__
 
 [Update And Restart](https://lolnein.com/2018/01/26/updateandrestart/)
 
-Windows Update <- You are here!
+[Windows Update](https://lolnein.com/2018/06/14/windowsupdate/) <- You are here!
 
 [Unsaved Work](https://lolnein.com/2018/06/18/unsavedwork/)
 

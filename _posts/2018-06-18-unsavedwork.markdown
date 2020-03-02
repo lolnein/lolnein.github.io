@@ -6,7 +6,7 @@ alt: Unsaved Work
 keywords: [unsaved, work, windows, update, restart]
 ---
 
-__More Technology Comics:__
+__More technology-related comics:__
 
 [Me and My Phone](https://lolnein.com/2017/06/26/meandmyphone/)
 
@@ -16,7 +16,7 @@ __More Technology Comics:__
 
 [Windows Update](https://lolnein.com/2018/06/14/windowsupdate/)
 
-Unsaved Work <- You are here!
+[Unsaved Work](https://lolnein.com/2018/06/18/unsavedwork/) <- You are here!
 
 [Slow Laptop](https://lolnein.com/2018/08/30/slowlaptop/)
 

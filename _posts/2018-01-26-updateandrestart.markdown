@@ -11,13 +11,13 @@ Bonus Panel:
 ![Update and Restart Bonus Panel](/images/updateandrestart_bonus.png)
 
 
-__More Technology Comics:__
+__More technology-related comics:__
 
 [Me and My Phone](https://lolnein.com/2017/06/26/meandmyphone/)
 
 [Well-Designed](https://lolnein.com/2017/11/04/welldesigned/)
 
-Update And Restart <- You are here!
+[Update And Restart](https://lolnein.com/2018/01/26/updateandrestart/) <- You are here!
 
 [Windows Update](https://lolnein.com/2018/06/14/windowsupdate/)
 

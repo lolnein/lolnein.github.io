@@ -11,9 +11,9 @@ Bonus Panel:
 ![Me and My Phone Bonus Panel](/images/meandmyphone_bonus.png)
 
 
-__More Technology Comics:__
+__More technology-related comics:__
 
-Me and My Phone <- You are here!
+[Me and My Phone](https://lolnein.com/2017/06/26/meandmyphone/) <- You are here!
 
 [Well-Designed](https://lolnein.com/2017/11/04/welldesigned/)
 

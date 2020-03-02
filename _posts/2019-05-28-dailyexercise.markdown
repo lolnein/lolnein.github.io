@@ -11,7 +11,7 @@ Bonus Panel:
 ![Daily Exercise Bonus Panel](/images/dailyexercise_bonus.png)
 
 
-__More Technology Comics:__
+__More technology-related comics:__
 
 [Me and My Phone](https://lolnein.com/2017/06/26/meandmyphone/)
 
@@ -25,7 +25,7 @@ __More Technology Comics:__
 
 [Slow Laptop](https://lolnein.com/2018/08/30/slowlaptop/)
 
-Daily Exercise <- You are here!
+[Daily Exercise](https://lolnein.com/2019/05/28/dailyexercise/) <- You are here!
 
 [Call The Doctor](https://lolnein.com/2019/09/12/callthedoctor/)
 

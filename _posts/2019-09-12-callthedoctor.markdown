@@ -11,7 +11,7 @@ Bonus Panel:
 ![Call the Doctor Bonus](/images/callthedoctor_bonus.png)
 
 
-__More Technology Comics:__
+__More technology-related comics:__
 
 [Me and My Phone](https://lolnein.com/2017/06/26/meandmyphone/)
 
@@ -27,7 +27,7 @@ __More Technology Comics:__
 
 [Daily Exercise](https://lolnein.com/2019/05/28/dailyexercise/)
 
-Call The Doctor <- You are here!
+[Call The Doctor](https://lolnein.com/2019/09/12/callthedoctor/) <- You are here!
 
 [Loving Technology](https://lolnein.com/2019/11/06/lovingtechnology/)
 

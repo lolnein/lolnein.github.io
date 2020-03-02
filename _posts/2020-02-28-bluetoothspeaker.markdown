@@ -11,7 +11,7 @@ Bonus Panel:
 ![Bluetooth Speaker Bonus Panel](/images/bluetoothspeaker_bonus.png)
 
 
-__More Technology Comics:__
+__More technology-related comics:__
 
 [Me and My Phone](https://lolnein.com/2017/06/26/meandmyphone/)
 
@@ -31,7 +31,7 @@ __More Technology Comics:__
 
 [Loving Technology](https://lolnein.com/2019/11/06/lovingtechnology/)
 
-Bluetooth Speaker <- You are here!
+[Bluetooth Speaker](https://lolnein.com/2020/02/28/bluetoothspeaker/) <- You are here!
 
 [Smartphone vs Flip Phone PART 1](http://lolnein.com/2013/08/28/smartphones/)
 
