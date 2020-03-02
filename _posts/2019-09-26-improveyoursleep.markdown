@@ -11,18 +11,16 @@ Bonus Panel:
 ![Improve Your Sleep Bonus](/images/improveyoursleep_bonus.png)
 
 
-__More comics about stupidity:__
+__More health-related comics:__
 
-[Mix-up](https://lolnein.com/2017/11/23/mixup/)
+[Life Is a Rollercoaster](https://lolnein.com/2018/04/12/lifeisarollercoaster/)
 
-[Get A Tan](https://lolnein.com/2018/09/05/getatan/)
+[Professional Help](https://lolnein.com/2019/09/03/professionalhelp/)
 
-[The Perfect Camping Spot](https://lolnein.com/2019/09/04/theperfectcampingspot/)
+[Improve Your Sleep](https://lolnein.com/2019/09/26/improveyoursleep/) <- You are here!
 
-Improve Your Sleep <- You are here!
+[Lung Function](https://lolnein.com/2019/12/17/lungfunction/)
 
-[TikTok](https://lolnein.com/2019/10/24/tiktok/)
+[Dirty Hands](https://lolnein.com/2020/03/02/dirtyhands)
 
-[Math Problem](https://lolnein.com/2019/11/08/mathproblem/)
-
-[Slip and Fall](https://lolnein.com/2020/02/23/slipandfall/)
+[Galaxy Fold vs Flip Phone](https://lolnein.com/2019/04/27/galaxyfoldvsflipphone/)

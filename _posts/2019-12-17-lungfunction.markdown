@@ -11,48 +11,16 @@ Bonus Panel:
 ![Lung Function Bonus](/images/lungfunction_bonus.png)
 
 
-__More comics about objects experiencing L I F E:__
+__More health-related comics:__
 
-[Paper Towel](https://lolnein.com/2017/04/25/papertowel/)
+[Life Is a Rollercoaster](https://lolnein.com/2018/04/12/lifeisarollercoaster/)
 
-[The Perfect Table](https://lolnein.com/2017/04/30/theperfecttable/)
+[Professional Help](https://lolnein.com/2019/09/03/professionalhelp/)
 
-[Something on Your Face](https://lolnein.com/2017/05/07/somethingonyourface/)
+[Improve Your Sleep](https://lolnein.com/2019/09/26/improveyoursleep/)
 
-[Worst Bowl Ever](https://lolnein.com/2018/08/02/worstbowlever/)
+[Lung Function](https://lolnein.com/2019/12/17/lungfunction/) <- You are here!
 
-[Live Your Dream](https://lolnein.com/2018/09/14/liveyourdream/)
+[Dirty Hands](https://lolnein.com/2020/03/02/dirtyhands)
 
-[Hot Bath](https://lolnein.com/2019/04/29/hotbath/)
-
-[Missing Mug](https://lolnein.com/2019/09/11/missingmug/)
-
-[Huge Guy](https://lolnein.com/2019/09/16/hugeguy/)
-
-[Get This Party Started](https://lolnein.com/2019/09/30/getthispartystarted/)
-
-[Don't Move](https://lolnein.com/2019/10/20/dontmove/)
-
-[Mad Mug](https://lolnein.com/2019/11/11/madmug/)
-
-Lung Function <- You are here!
-
-[Ready for Coffee](https://lolnein.com/2020/01/20/readyforcoffee/)
-
-[Fine Legs](https://lolnein.com/2020/02/05/finelegs)
-
-[Passing Salt](https://lolnein.com/2020/02/07/passingsalt/)
-
-[Get Folded](https://lolnein.com/2020/02/12/getfolded)
-
-[Toilet Me Alone](http://lolnein.com/2020/02/22/toiletmealone/)
-
-[Taste in Music](https://lolnein.com/2020/02/24/tasteinmusic/)
-
-[Old Shirt](https://lolnein.com/2020/02/25/oldshirt/)
-
-[Washing Machine](https://lolnein.com/2020/02/26/washingmachine/)
-
-[Just the Way You Are](https://lolnein.com/2020/02/27/justthewayyouare/)
-
-[Motorola Razr vs Flip Phone](https://lolnein.com/2019/11/16/motorolarazrvsflipphone/)
+[Galaxy Fold vs Flip Phone](https://lolnein.com/2019/04/27/galaxyfoldvsflipphone/)

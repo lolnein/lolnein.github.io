@@ -11,23 +11,19 @@ Bonus Comic:
 ![Professional Help Bonus](/images/professionalhelp_bonus.png)
 
 
-__More insect-related comics:__
+__More health-related comics:__
 
-[Back Rub](https://lolnein.com/2017/06/13/backrub/)
+[Life Is a Rollercoaster](https://lolnein.com/2018/04/12/lifeisarollercoaster/)
 
-[Leg Surgery](https://lolnein.com/2017/06/30/legsurgery/)
+[Professional Help](https://lolnein.com/2019/09/03/professionalhelp/) <- You are here!
 
-[The Ugly Caterpillar](https://lolnein.com/2017/09/18/theuglycaterpillar/)
+[Improve Your Sleep](https://lolnein.com/2019/09/26/improveyoursleep/)
 
-[The Greatest Fear](https://lolnein.com/2018/06/18/thegreatestfear/)
+[Lung Function](https://lolnein.com/2019/12/17/lungfunction/)
 
-[Clean Window](https://lolnein.com/2018/08/06/cleanwindow/)
+[Dirty Hands](https://lolnein.com/2020/03/02/dirtyhands)
 
-[Must Bee Love](https://lolnein.com/2019/05/21/mustbeelove/)
-
-[Pretty Fly](https://lolnein.com/2019/06/09/prettyfly/)
-
-Professional Help <- You are here!
+[Galaxy Fold vs Flip Phone](https://lolnein.com/2019/04/27/galaxyfoldvsflipphone/)
 
 
 This design is now [available in my shop!](https://lolnein.redbubble.com) +++ Today (02. March) 25% off apparel! Code: 25CLOTHES +++
