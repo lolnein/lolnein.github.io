@@ -11,50 +11,16 @@ Bonus Panel:
 ![Taste in Music Bonus Panel](/images/tasteinmusic_bonus.png)
 
 
-__More comics about objects experiencing L I F E:__
+__More smartphone-related comics:__
 
-[Paper Towel](https://lolnein.com/2017/04/25/papertowel/)
+[Me and My Phone](https://lolnein.com/2017/06/26/meandmyphone/)
 
-[The Perfect Table](https://lolnein.com/2017/04/30/theperfecttable/)
+[Well-Designed](https://lolnein.com/2017/11/04/welldesigned/)
 
-[Something on Your Face](https://lolnein.com/2017/05/07/somethingonyourface/)
+[Call The Doctor](https://lolnein.com/2019/09/12/callthedoctor/)
 
-[Worst Bowl Ever](https://lolnein.com/2018/08/02/worstbowlever/)
+[Taste in Music](https://lolnein.com/2020/02/24/tasteinmusic/) <- You are here!
 
-[Live Your Dream](https://lolnein.com/2018/09/14/liveyourdream/)
+[Bluetooth Speaker](https://lolnein.com/2020/02/28/bluetoothspeaker/)
 
-[Hot Bath](https://lolnein.com/2019/04/29/hotbath/)
-
-[Missing Mug](https://lolnein.com/2019/09/11/missingmug/)
-
-[Huge Guy](https://lolnein.com/2019/09/16/hugeguy/)
-
-[Get This Party Started](https://lolnein.com/2019/09/30/getthispartystarted/)
-
-[Don't Move](https://lolnein.com/2019/10/20/dontmove/)
-
-[Mad Mug](https://lolnein.com/2019/11/11/madmug/)
-
-[Lung Function](https://lolnein.com/2019/12/17/lungfunction/)
-
-[Ready for Coffee](https://lolnein.com/2020/01/20/readyforcoffee/)
-
-[Fine Legs](https://lolnein.com/2020/02/05/finelegs)
-
-[Passing Salt](https://lolnein.com/2020/02/07/passingsalt/)
-
-[Get Folded](https://lolnein.com/2020/02/12/getfolded)
-
-[Toilet Me Alone](http://lolnein.com/2020/02/22/toiletmealone/)
-
-Taste in Music <- You are here!
-
-[Old Shirt](https://lolnein.com/2020/02/25/oldshirt/)
-
-[Washing Machine](https://lolnein.com/2020/02/26/washingmachine/)
-
-[Just the Way You Are](https://lolnein.com/2020/02/27/justthewayyouare/)
-
-[Motorola Razr vs Flip Phone](https://lolnein.com/2019/11/16/motorolarazrvsflipphone/)
-
-
+[Smartphone vs Flip Phone PART 1](http://lolnein.com/2013/08/28/smartphones/)
