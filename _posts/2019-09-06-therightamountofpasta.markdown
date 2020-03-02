@@ -6,6 +6,8 @@ alt: The Right Amount of Pasta
 keywords: [pasta, spaghetti, measure, portion, serving, size, how, much, cooking, amount, right]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![The Right Amount of Pasta Bonus](/images/therightamountofpasta_bonus.png)

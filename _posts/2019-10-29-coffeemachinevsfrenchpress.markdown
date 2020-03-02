@@ -8,6 +8,8 @@ keywords: [fully, automatic, coffee, machine, french, press, maker, but can you 
 
 Idea by my really nice flatmate Elias :)
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Coffee Machine vs French Press Bonus](/images/coffeemachinevsfrenchpress_bonus.gif)

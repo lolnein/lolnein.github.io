@@ -6,6 +6,8 @@ alt: Make the Cut
 keywords: [food, cutlery, knife, fork, spoon, cooking, recipe, plate]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Make the Cut Bonus](/images/makethecut_bonus.png)

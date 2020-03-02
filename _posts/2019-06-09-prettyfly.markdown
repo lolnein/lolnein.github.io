@@ -6,6 +6,8 @@ alt: Pretty Fly
 keywords: [pretty, fly, white, guy, insect, mother]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Pretty Fly Bonus Panel](/images/prettyfly_bonus.PNG)

@@ -6,6 +6,8 @@ alt: Call the Doctor
 keywords: [iphone, 11, pro, apple, keynote, cameras, doctor, smartphone, photos, spreading, disease, backside, lotion]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Call the Doctor Bonus](/images/callthedoctor_bonus.png)

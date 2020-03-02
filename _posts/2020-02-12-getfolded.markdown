@@ -6,6 +6,8 @@ alt: Get Folded
 keywords: [fold, fitted, sheet, how to, tutorial, closet, clothes, laundry, bed, chores, folded, comic]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Get Folded Bonus Panel](/images/getfolded_bonus.png)

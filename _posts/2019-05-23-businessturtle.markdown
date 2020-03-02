@@ -6,6 +6,8 @@ alt: Business Turtle
 keywords: [turtle, business, tie, day, work, office, late, traffic, detour, deturtle, time, management, skills]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Business Turtle Bonus Panel](/images/businessturtle_bonus.png)

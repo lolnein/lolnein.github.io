@@ -6,6 +6,8 @@ alt: Fancy Restaurant
 keywords: [super mario odyssey, hat stand, restaurant, nintendo, gaming, comic]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Fancy Restaurant Bonus Panel](/images/fancyrestaurant_bonus.png)

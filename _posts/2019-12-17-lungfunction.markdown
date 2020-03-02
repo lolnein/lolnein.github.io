@@ -6,6 +6,8 @@ alt: Lung Function
 keywords: [quit, smoking, cigarettes, e-cigarettes, ecigarettes, health, insurance, healthcare, lung, function, doctor, breathing, chimney, winter, heating, wood, smoke]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Lung Function Bonus](/images/lungfunction_bonus.png)

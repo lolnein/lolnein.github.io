@@ -6,6 +6,8 @@ alt: Potato Chips
 keywords: [potato, chips, brain, horrible]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Potato Chips Bonus Panel](/images/potatochips_bonus.png)

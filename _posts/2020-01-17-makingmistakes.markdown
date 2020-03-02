@@ -6,6 +6,8 @@ alt: Making Mistakes
 keywords: [brain, anxiety, comic, everybody, makes, mistakes, depression, positive, thoughts, negative]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Making Mistakes Bonus Panel](/images/makingmistakes_bonus.png)

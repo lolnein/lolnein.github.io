@@ -6,6 +6,8 @@ alt: Really Good Book
 keywords: [books, finished, reading, leaving]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Really Good Book Bonus Panel](/images/reallygoodbook_bonus.png)

@@ -6,6 +6,8 @@ alt: Bluetooth Speaker
 keywords: [bluetooth, speaker, smartphone, connection, connect, pair, pairing, problems, tooth, fairy]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Bluetooth Speaker Bonus Panel](/images/bluetoothspeaker_bonus.png)

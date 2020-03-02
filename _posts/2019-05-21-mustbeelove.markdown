@@ -6,6 +6,8 @@ alt: Must Bee Love
 keywords: [bee, love, plastic, flower, neckbeard, pillow, weeb]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Must Bee Love Bonus Panel](/images/mustbeelove_bonus.png)

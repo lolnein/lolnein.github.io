@@ -6,6 +6,8 @@ alt: Live Your Dream
 keywords: [strobe, light, bulb, lamp, flickering, reading, broken, change, dream, trash, LED, electricity]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Live Your Dream Bonus Panel](/images/liveyourdream_bonus.png)

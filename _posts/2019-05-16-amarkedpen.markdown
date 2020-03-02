@@ -6,6 +6,8 @@ alt: A Marked Pen
 keywords: [highlighter, marker, pen, text, eraser, schoo, highschool, finals, exams]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![A Marked Pen Bonus Panel](/images/amarkedpen_bonus.png)

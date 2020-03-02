@@ -6,6 +6,8 @@ alt: Banana Bread
 keywords: [banana, bread, apple, fruit, bruised, brown, spots, healthy, apples, bananas, fight]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Banana Bread Bonus](/images/bananabread_bonus.png)

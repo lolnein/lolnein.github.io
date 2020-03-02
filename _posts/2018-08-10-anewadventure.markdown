@@ -6,6 +6,8 @@ alt: A New Adventure
 keywords: [toilet, paper, roll, empty, change, bathroom]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![A New Adventure Bonus Panel](/images/anewadventure_bonus.png)

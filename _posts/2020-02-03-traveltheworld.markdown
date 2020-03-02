@@ -6,6 +6,8 @@ alt: Travel the World
 keywords: [corona, virus, beer, health, insurance, bar, flu, cold, sick, world, pandemic, epidemic, symptoms, incubation, contagious, comic]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Travel the World Bonus Panel](/images/traveltheworld_bonus.png)

@@ -6,6 +6,8 @@ alt: Washed With Shampoo
 keywords: [shampoo, pubic hair, shower, bodywash, second-class, snobs]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Washed With Shampoo Bonus Panel](/images/washedwithshampoo_bonus.png)

@@ -6,6 +6,8 @@ alt: A Question of Digestion
 keywords: [digestion, disorder, dysfunction, stomach, gut, bowl, intestine, lactose, fructose, gluten, intolerance, intolerant, allergy, problems, digesting, eating, constipation, diarrhea]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![A Question of Digestion Bonus](/images/aquestionofdigestion_bonus.png)

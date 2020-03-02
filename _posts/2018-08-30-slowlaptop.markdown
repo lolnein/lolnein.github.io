@@ -6,6 +6,8 @@ alt: Slow Laptop
 keywords: [laptop, notebook, new, cheap, buy, slow]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Slow Laptop Bonus Panel](/images/slowlaptop_bonus.png)

@@ -6,6 +6,8 @@ alt: Me and My Phone
 keywords: [phone, smartphone]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Me and My Phone Bonus Panel](/images/meandmyphone_bonus.png)

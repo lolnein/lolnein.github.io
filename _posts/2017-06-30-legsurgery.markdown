@@ -6,6 +6,8 @@ alt: Leg Surgery
 keywords: [leg, surgery, spider, ant, cute]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Leg Surgery](/images/legsurgery_bonus.png)

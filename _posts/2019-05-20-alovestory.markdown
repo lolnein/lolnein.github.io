@@ -6,6 +6,8 @@ alt: A Love Story
 keywords: [hangnail, pocket, love, jacket, hold, pain, finger]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![A Love Story Bonus Panel](/images/alovestory_bonus.png)

@@ -6,6 +6,8 @@ alt: Taste in Music
 keywords: [music, taste, headphones, earbuds, bad, ipod, iphone, spotify, streaming, subscription, airpods, iphone, smartphone]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Taste in Music Bonus Panel](/images/tasteinmusic_bonus.png)

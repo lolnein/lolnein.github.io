@@ -6,6 +6,8 @@ alt: Late for Work
 keywords: [life, lemonade, straw, ocean, sea, plastic, exciting, glass, loop, crazy, death]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Late for Work Bonus](/images/lateforwork_bonus.png)

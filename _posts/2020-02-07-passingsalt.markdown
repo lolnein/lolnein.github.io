@@ -6,6 +6,8 @@ alt: Passing Salt
 keywords: [salt, shaker, pepper, sugar, spices, seasoning, bad, luck, spilt, spilled, comic, walt, walter]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Passing Salt Bonus Panel](/images/passingsalt_bonus.png)

@@ -6,6 +6,8 @@ alt: Toilet Me Alone
 keywords: [bird, plane, wings, moving, comic, superman, plird, blane, hero, superhero, animated]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Toilet Me Alone Bonus Panel](/images/toiletmealone_bonus.png)

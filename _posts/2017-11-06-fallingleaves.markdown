@@ -6,6 +6,8 @@ alt: Falling Leaves
 keywords: [falling, leaves, trees, fir, needles, winter, fall, autumn]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Falling Leaves Bonus Panel](/images/fallingleaves_bonus.png)

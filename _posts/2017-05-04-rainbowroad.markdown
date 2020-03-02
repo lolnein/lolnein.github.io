@@ -6,6 +6,8 @@ alt: Rainbow Road
 keywords: [rainbow, road, mario, kart, lakitu, fish, nintendo, gaming]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Rainbow Road Bonus Panel](/images/rainbowroad_bonus.png)

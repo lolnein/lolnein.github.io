@@ -6,6 +6,8 @@ alt: Daily Exercise
 keywords: [exercise, mouse, computer, keyboard, weight, health]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Daily Exercise Bonus Panel](/images/dailyexercise_bonus.png)

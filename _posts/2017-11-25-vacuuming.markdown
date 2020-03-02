@@ -6,6 +6,8 @@ alt: Vacuuming
 keywords: [vacuuming, vacuum cleaner, fabric, crumbs, hoover]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Vacuuming Bonus GIF](/images/vacuuming_bonus.gif)

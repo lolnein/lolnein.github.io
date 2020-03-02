@@ -6,6 +6,8 @@ alt: How Is the Food
 keywords: [food, waiter, waitress, restaurant, how, asking, eating, meal, cooking]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![How Is the Food Bonus](/images/howisthefood_bonus.png)

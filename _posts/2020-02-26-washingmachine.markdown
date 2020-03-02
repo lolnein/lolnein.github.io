@@ -6,6 +6,8 @@ alt: Washing Machine
 keywords: [washing, machine, moving, walking, shaking, new, laundry, comic, bathroom, chores, household]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Washing Machine Bonus Panel](/images/washingmachine_bonus.png)

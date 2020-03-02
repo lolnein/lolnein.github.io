@@ -6,6 +6,8 @@ alt: Heart Problems
 keywords: [heart, problems, love, human, feelings, valentine's, day]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Heart Problems Bonus Panel](/images/heartproblems_bonus.png)

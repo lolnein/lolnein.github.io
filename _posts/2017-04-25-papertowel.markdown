@@ -6,6 +6,8 @@ alt: Paper Towel
 keywords: [paper, towel, toilet]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Paper Towel Bonus Panel](/images/papertowel_bonus.png)

@@ -6,6 +6,8 @@ alt: When Life Makes You Lemonade
 keywords: [life, lemonade, straw, ocean, sea, plastic, exciting, glass, loop, crazy, death]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![When Life Makes You Lemonade Bonus](/images/whenlifemakesyoulemonade_bonus.png)

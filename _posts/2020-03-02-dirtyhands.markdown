@@ -6,6 +6,10 @@ alt: Dirty Hands
 keywords: [dirty, filthy, hands, soap, wash, washing, hygiene, virus, corona, bathroom, bacteria, contagious, toilet, health, epidemic, pandemic]
 ---
 
+
+
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Dirty Hands Bonus Panel](/images/dirtyhands_bonus.png)

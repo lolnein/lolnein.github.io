@@ -6,6 +6,8 @@ alt: Ready for Coffee
 keywords: [coffee, machine, monday, morning, wine, espresso, mugs, glass, work, nespresso, senseo, jura, keurig, delonghi]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Ready for Coffee Bonus Panel](/images/readyforcoffee_bonus.png)

@@ -6,6 +6,8 @@ alt: Shakenado
 keywords: [tornado, dance, dancing, music, festival, shake]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Shakenado Bonus Panel](/images/shakenado_bonus.gif)

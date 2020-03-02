@@ -6,6 +6,8 @@ alt: Improve Your Sleep
 keywords: [improve, sleep, quality, disorder, insomnia, sleepy, awake, screen, display, bed, fall, asleep, phone, smartphone, tired, doctor]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Improve Your Sleep Bonus](/images/improveyoursleep_bonus.png)

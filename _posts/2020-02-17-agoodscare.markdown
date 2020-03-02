@@ -6,6 +6,8 @@ alt: A Good Scare
 keywords: [ghost, comic, bed, spooky, wake, up, ugly, beauty, sleep, night, scary, scare, monster]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![A Good Scare Bonus Panel](/images/agoodscare_bonus.png)

@@ -6,6 +6,8 @@ alt: Update and Restart
 keywords: [update, restart, windows, laptop, unsaved, projects]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Update and Restart Bonus Panel](/images/updateandrestart_bonus.png)

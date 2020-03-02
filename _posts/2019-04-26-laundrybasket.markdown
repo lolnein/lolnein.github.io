@@ -6,6 +6,8 @@ alt: Laundry Basket
 keywords: [laundry, basket, chair, floor, shirt, procrastination]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Laundry Basket Bonus Panel](/images/laundrybasket_bonus.png)

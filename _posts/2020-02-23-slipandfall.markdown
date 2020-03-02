@@ -6,6 +6,8 @@ alt: Slip and Fall
 keywords: [spoon, slip, bowl, cereal, corn, flakes, breakfast, tommy, milk]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Slip and Fall Bonus Panel](/images/slipandfall_bonus.png)

@@ -6,6 +6,8 @@ alt: Amazing View
 keywords: [booger, hanging, nose, notice, comic, job, interview, embarassing, face]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Amazing View Bonus Panel](/images/amazingview_bonus.png)

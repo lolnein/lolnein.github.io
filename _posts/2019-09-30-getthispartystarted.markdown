@@ -6,6 +6,8 @@ alt: Get This Party Started
 keywords: [party, door, open, close, slam, hallway, sad, yay]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Get This Party Started Bonus](/images/getthispartystarted_bonus.png)

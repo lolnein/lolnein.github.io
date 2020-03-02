@@ -6,6 +6,8 @@ alt: Clean The Floor
 keywords: [floor, broom, mop, vacuum, cleaner, household, chores, cleaning, hand, brush, dustpan, funny, comic, spring]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Clean The Floor Bonus Panel](/images/cleanthefloor_bonus.png)

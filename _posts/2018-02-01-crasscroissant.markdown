@@ -6,6 +6,8 @@ alt: Crass Croissant
 keywords: [croissant, pretzel, farts, gross, grossant]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Crass Croissant Bonus Panel](/images/crasscroissant_bonus.png)

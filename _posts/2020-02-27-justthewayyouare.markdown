@@ -6,6 +6,8 @@ alt: Just the Way You Are
 keywords: [yogurt, healthy, brand, tv, commercial, fruit, confidence, kitchen]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Just the Way You Are Bonus Panel](/images/justthewayyouare_bonus.png)

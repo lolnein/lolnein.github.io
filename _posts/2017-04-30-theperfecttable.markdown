@@ -6,6 +6,8 @@ alt: The Perect Table
 keywords: [table, relatable, ikea, brain]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![The Perfect Table Bonus Panel](/images/theperfecttable_bonus.png)

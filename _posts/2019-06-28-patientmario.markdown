@@ -8,6 +8,8 @@ keywords: [super, mario, maker, 2, nintendo, switch, wiiu, lakitu, psychologist,
 
 Super Mario Maker 2 (more like Super Misery Maker amirite?) released today! I wish everyone who's getting the game a lot of fun with it!
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Patient Mario Bonus Panel](/images/patientmario_bonus.png)

@@ -6,6 +6,8 @@ alt: The Greates Fear
 keywords: [spider, ghost, book, fear]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![The Greatest Fear Bonus Panel](/images/thegreatestfear_bonus.png)

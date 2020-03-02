@@ -6,6 +6,8 @@ alt: Quiet for a Minute
 keywords: [wine, sparkling wine, glasses, quiet, beer]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Quiet for a Minute Bonus Panel](/images/quietforaminute_bonus.png)

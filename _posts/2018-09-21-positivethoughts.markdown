@@ -6,6 +6,8 @@ alt: Positive Thoughts
 keywords: [brain, gif, positive, thoughts, horror, scenarios, anxiety, depression]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Positive Thoughts Bonus Panel](/images/sweetdreams.gif)

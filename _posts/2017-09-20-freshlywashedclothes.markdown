@@ -6,6 +6,8 @@ alt: Freshly Washed Clothes
 keywords: [drying, rack, clothes, closet, wet]
 ---
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 Bonus Panel:
 
 ![Freshly Washed Clothes Bonus Panel](/images/freshlywashedclothes_bonus.png)
