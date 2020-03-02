@@ -11,21 +11,19 @@ Bonus Panel:
 ![Laundry Basket Bonus Panel](/images/laundrybasket_bonus.png)
 
 
-__More comics involving chores:__
-
-[Bottom Plate](https://lolnein.com/2017/07/14/bottomplate/)
+__More clothes-related comics:__
 
 [Freshly Washed Clothes](https://lolnein.com/2017/09/20/freshlywashedclothes/)
 
-[Vacuuming](https://lolnein.com/2017/11/25/vacuuming/)
+[Laundry Basket](https://lolnein.com/2019/04/26/laundrybasket/) <- You are here!
 
-[No Soaking Matter](https://lolnein.com/2019/04/12/nosoakingmatter/)
+[Get Folded](https://lolnein.com/2020/02/12/getfolded)
 
-[Soapless Case](https://lolnein.com/2019/04/16/soaplesscase/)
+[Old Shirt](https://lolnein.com/2020/02/25/oldshirt/)
 
-Laundry Basket <- You are here!
+[Washing Machine](https://lolnein.com/2020/02/26/washingmachine/)
 
-[Clean The Floor](https://lolnein.com/2019/06/21/cleanthefloor/)
+[Laces vs Velcro](http://lolnein.com/2016/07/28/lacesvsvelcro/)
 
 
 This design is now [available in my shop!](https://lolnein.redbubble.com) +++ Today (02. March) 25% off apparel! Code: 25CLOTHES +++

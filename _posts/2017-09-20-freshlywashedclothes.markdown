@@ -11,18 +11,16 @@ Bonus Panel:
 ![Freshly Washed Clothes Bonus Panel](/images/freshlywashedclothes_bonus.png)
 
 
-__More comics involving chores:__
+__More clothes-related comics:__
 
-[Bottom Plate](https://lolnein.com/2017/07/14/bottomplate/)
-
-Freshly Washed Clothes <- You are here!
-
-[Vacuuming](https://lolnein.com/2017/11/25/vacuuming/)
-
-[No Soaking Matter](https://lolnein.com/2019/04/12/nosoakingmatter/)
-
-[Soapless Case](https://lolnein.com/2019/04/16/soaplesscase/)
+[Freshly Washed Clothes](https://lolnein.com/2017/09/20/freshlywashedclothes/) <- You are here!
 
 [Laundry Basket](https://lolnein.com/2019/04/26/laundrybasket/)
 
-[Clean The Floor](https://lolnein.com/2019/06/21/cleanthefloor/)
+[Get Folded](https://lolnein.com/2020/02/12/getfolded)
+
+[Old Shirt](https://lolnein.com/2020/02/25/oldshirt/)
+
+[Washing Machine](https://lolnein.com/2020/02/26/washingmachine/)
+
+[Laces vs Velcro](http://lolnein.com/2016/07/28/lacesvsvelcro/)
