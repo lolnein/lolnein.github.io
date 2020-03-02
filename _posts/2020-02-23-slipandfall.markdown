@@ -12,21 +12,29 @@ Bonus Panel:
 
 
 
-__More comics about stupidity:__
-
-[Mix-up](https://lolnein.com/2017/11/23/mixup/)
+__More food-related comics:__
 
 [Get A Tan](https://lolnein.com/2018/09/05/getatan/)
 
-[The Perfect Camping Spot](https://lolnein.com/2019/09/04/theperfectcampingspot/)
+[Crass Croissant](https://lolnein.com/2018/02/01/crasscroissant/)
 
-[Improve Your Sleep](https://lolnein.com/2019/09/26/improveyoursleep/)
+[When Life Makes You Lemonade](https://lolnein.com/2019/08/29/whenlifemakesyoulemonade/)
 
-[TikTok](https://lolnein.com/2019/10/24/tiktok/)
+[The Right Amount of Pasta](https://lolnein.com/2019/09/06/therightamountofpasta/)
 
-[Math Problem](https://lolnein.com/2019/11/08/mathproblem/)
+[Banana Bread](https://lolnein.com/2019/09/18/bananabread/)
 
-Slip and Fall <- You are here!
+[How Is the Food](https://lolnein.com/2019/11/20/howisthefood/)
+
+[Make the Cut](https://lolnein.com/2019/11/26/makethecut/)
+
+[Passing Salt](https://lolnein.com/2020/02/07/passingsalt/)
+
+[Slip and Fall](https://lolnein.com/2020/02/23/slipandfall/) <- You are here!
+
+[Just the Way You Are](https://lolnein.com/2020/02/27/justthewayyouare/)
+
+[Coffee Machine vs French Press](https://lolnein.com/2019/10/29/coffeemachinevsfrenchpress/)
 
 
 
