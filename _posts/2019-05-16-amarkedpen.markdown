@@ -17,7 +17,7 @@ More work-related comics:
 
 A Marked Pen <- You are here!
 
-[Business Turtle](https://lolnein.com/2019/05/23/businessturtle/)
+[![Business Turtle](/thumbs/businessturtle.png){:height="150px" width="150px"}](https://lolnein.com/2019/05/23/businessturtle/) | [Business Turtle](https://lolnein.com/2019/05/23/businessturtle/)
 
 [Late for Work](https://lolnein.com/2019/08/30/lateforwork/)
 
