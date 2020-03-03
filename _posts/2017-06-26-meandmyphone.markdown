@@ -23,4 +23,4 @@ Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com
 [![Call the Doctor](/thumbs/callthedoctor.png){:height="50px" width="50px"}](https://lolnein.com/2019/09/12/callthedoctor/) | [Call The Doctor](https://lolnein.com/2019/09/12/callthedoctor/)
 [![Taste in Music](/thumbs/tasteinmusic.png){:height="50px" width="50px"}](https://lolnein.com/2020/02/24/tasteinmusic/) | [Taste in Music](https://lolnein.com/2020/02/24/tasteinmusic/)
 [![Bluetooth Speaker](/thumbs/bluetoothspeaker.png){:height="50px" width="50px"}](https://lolnein.com/2020/02/28/bluetoothspeaker/) | [Bluetooth Speaker](https://lolnein.com/2020/02/28/bluetoothspeaker/) <- You are here!
-[![Smartphones](/thumbs/smartphones.png){:height="50px" width="50px"}](https://lolnein.com/2013/08/28/smartphones/)[Smartphone vs Flip Phone](http://lolnein.com/2013/08/28/smartphones/)
+[![Smartphones](/thumbs/smartphones.png){:height="50px" width="50px"}](https://lolnein.com/2013/08/28/smartphones/) | [Smartphone vs Flip Phone](http://lolnein.com/2013/08/28/smartphones/)
