@@ -28,6 +28,6 @@ __More smartphone-related comics:__
 [Smartphone vs Flip Phone PART 1](http://lolnein.com/2013/08/28/smartphones/)
 
 
-This design is now [available in my shop!](https://lolnein.redbubble.com) +++ Today (02. March) 25% off apparel! Code: 25CLOTHES +++
+This design is now [available in my shop!](https://lolnein.redbubble.com) +++ Today (03. March) 25% off apparel! Code: 25CLOTHES +++
 
 [![Bluetooth Speaker Case](/images/bluetoothspeaker_case.jpg)](https://lolnein.redbubble.com)
