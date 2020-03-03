@@ -11,10 +11,10 @@ Bonus Panel:
 ![Bluetooth Speaker Bonus Panel](/images/bluetoothspeaker_bonus.png)
 
 
-Support my webcomic and [__become a patron on my Patreon!__](https://www.patreon.com/lolnein)
+__Support my webcomic and__ [become a patron on my Patreon!](https://www.patreon.com/lolnein)
 
 
-__More smartphone-related comics:__
+### More smartphone-related comics:
 
 [Me and My Phone](https://lolnein.com/2017/06/26/meandmyphone/)
 
