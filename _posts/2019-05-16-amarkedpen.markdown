@@ -12,8 +12,9 @@ Bonus Panel:
 
 ![A Marked Pen Bonus Panel](/images/amarkedpen_bonus.png)
 
+### More work-related comics:
 
-|   | More work-related comics: | 
+| | | 
 | --- | --- |
 [![A Marked Pen](/thumbs/amarkedpen.png){:height="50px" width="50px"}](https://lolnein.com/2019/05/16/amarkedpen/) | [A Marked Pen](https://lolnein.com/2019/05/16/amarkedpen/) <- You are here! |
 [![Business Turtle](/thumbs/businessturtle.png){:height="50px" width="50px"}](https://lolnein.com/2019/05/23/businessturtle/) | [Business Turtle](https://lolnein.com/2019/05/23/businessturtle/) |
