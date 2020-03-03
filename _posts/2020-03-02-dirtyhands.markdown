@@ -12,7 +12,7 @@ Bonus Panel:
 
 Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
 
-##More health-related comics:
+## More health-related comics:
 
 [Life Is a Rollercoaster](https://lolnein.com/2018/04/12/lifeisarollercoaster/)
 
