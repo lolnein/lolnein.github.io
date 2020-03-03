@@ -6,16 +6,13 @@ alt: Dirty Hands
 keywords: [dirty, filthy, hands, soap, wash, washing, hygiene, virus, corona, bathroom, bacteria, contagious, toilet, health, epidemic, pandemic]
 ---
 
-
-
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
-
 Bonus Panel:
 
 ![Dirty Hands Bonus Panel](/images/dirtyhands_bonus.png)
 
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
 
-__More health-related comics:__
+##More health-related comics:
 
 [Life Is a Rollercoaster](https://lolnein.com/2018/04/12/lifeisarollercoaster/)
 
