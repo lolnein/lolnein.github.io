@@ -13,7 +13,6 @@ Bonus Panel:
 
 ![PS4 vs Nintendo Switch Bonus](/images/ps4vsnintendoswitch_bonus.png)
 
-
 __More "But can you do this" Comics:__
 
 [Smartphone vs Flip Phone PART 1](http://lolnein.com/2013/08/28/smartphones/)

@@ -12,7 +12,6 @@ Bonus Panel:
 
 ![Galaxy Fold vs Flip Phone Bonus Panel](/images/galaxyfoldvsflipphone_bonus.png)
 
-
 __More "But can you do this" Comics:__
 
 [Smartphone vs Flip Phone PART 1](http://lolnein.com/2013/08/28/smartphones/)

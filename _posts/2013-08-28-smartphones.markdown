@@ -6,8 +6,7 @@ alt: Smartphones
 keywords: [smartphones, apple, iphone, samsung, phones]
 ---
 
-Who looks stupid now?
-
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
 
 __More "But can you do this" Comics:__
 

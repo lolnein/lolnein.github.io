@@ -12,7 +12,6 @@ Bonus Panel:
 
 ![Motorola Razr vs Flip Phone Bonus](/images/motorolarazrvsflipphone_bonus.gif)
 
-
 __More "But can you do this" Comics:__
 
 [Smartphone vs Flip Phone PART 1](http://lolnein.com/2013/08/28/smartphones/)
