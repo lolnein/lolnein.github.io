@@ -25,7 +25,7 @@ __More smartphone-related comics:__
 
 [Bluetooth Speaker](https://lolnein.com/2020/02/28/bluetoothspeaker/) <- You are here!
 
-[Smartphone vs Flip Phone PART 1](http://lolnein.com/2013/08/28/smartphones/)
+[Smartphone vs Flip Phone](http://lolnein.com/2013/08/28/smartphones/)
 
 
 This design is now [available in my shop!](https://lolnein.redbubble.com) +++ Today (03. March) 25% off apparel! Code: 25CLOTHES +++
