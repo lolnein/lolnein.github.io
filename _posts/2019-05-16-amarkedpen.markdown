@@ -15,11 +15,13 @@ Bonus Panel:
 
 More work-related comics:
 
-A Marked Pen <- You are here!
+| --- | --- | --- |
+
+[![A Marked Pen](/thumbs/amarkedpen.png){:height="50px" width="50px"}](https://lolnein.com/2019/05/16/amarkedpen/) | [A Marked Pen](https://lolnein.com/2019/05/16/amarkedpen/) <- You are here!
 
 [![Business Turtle](/thumbs/businessturtle.png){:height="50px" width="50px"}](https://lolnein.com/2019/05/23/businessturtle/) | [Business Turtle](https://lolnein.com/2019/05/23/businessturtle/)
 
-[Late for Work](https://lolnein.com/2019/08/30/lateforwork/)
+[![Late for Work](/thumbs/lateforwork.png){:height="150px" width="150px"}](https://lolnein.com/2019/08/30/lateforwork/) | [Late for Work](https://lolnein.com/2019/08/30/lateforwork/)
 
 [CD vs Floppy Disk](https://lolnein.com/2015/05/11/cdvsfloppydisk/)
 
