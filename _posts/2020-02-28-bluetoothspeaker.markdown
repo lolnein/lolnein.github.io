@@ -3,7 +3,7 @@ layout: comic
 comic: bluetoothspeaker.png
 title: Bluetooth Speaker
 alt: Bluetooth Speaker
-keywords: [bluetooth, speaker, smartphone, connection, connect, pair, pairing, problems, tooth, fairy]
+keywords: [bluetooth, speaker, smartphone, connection, connect, pair, pairing, problems, tooth, fairy, iphone, boombox, android, samsung, galaxy]
 ---
 
 Bonus Panel:
