@@ -13,8 +13,8 @@ Bonus Comic:
 
 Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
 
-### More health-related comics:
 
+### More health-related comics:
 
 [![Life Is a Rollercoaster](/thumbs/lifeisarollercoaster.png){:height="50px" width="50px"}](https://lolnein.com/2018/04/12/lifeisarollercoaster/) | [Life Is a Rollercoaster](https://lolnein.com/2018/04/12/lifeisarollercoaster/) <- You are here!
 [![Professional Help](/thumbs/professionalhelp.png){:height="50px" width="50px"}](https://lolnein.com/2019/09/03/professionalhelp/) | [Professional Help](https://lolnein.com/2019/09/03/professionalhelp/)
