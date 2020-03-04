@@ -21,4 +21,4 @@ Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com
 [![Travel the World](/thumbs/traveltheworld.png){:height="50px" width="50px"}](https://lolnein.com/2020/02/03/traveltheworld/) | [Travel the World](https://lolnein.com/2020/02/03/traveltheworld/)
 [![Haircut](/thumbs/haircut.png){:height="50px" width="50px"}](https://lolnein.com/2020/02/19/haircut/) | [Haircut](https://lolnein.com/2020/02/19/haircut/)
 [![Amazing View](/thumbs/amazingview.png){:height="50px" width="50px"}](https://lolnein.com/2020/02/20/amazingview/) | [Amazing View](https://lolnein.com/2020/02/20/amazingview/) <- You are here!
-[![Smartphones (Part 2)](/thumbs/smartphones(part2).png){:height="50px" width="50px"}](https://lolnein.com/2014/10/01/smartphones2/) | [Smartphone vs Flip Phone PART 2](http://lolnein.com/2014/10/01/smartphones2/)
+[![Smartphones (Part 2)](/thumbs/smartphones2.png){:height="50px" width="50px"}](https://lolnein.com/2014/10/01/smartphones2/) | [Smartphone vs Flip Phone PART 2](http://lolnein.com/2014/10/01/smartphones2/)
