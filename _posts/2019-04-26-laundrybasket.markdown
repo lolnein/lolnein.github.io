@@ -28,6 +28,6 @@ __More clothes-related comics:__
 [Laces vs Velcro](http://lolnein.com/2016/07/28/lacesvsvelcro/)
 
 
-This design is now [available in my shop!](https://lolnein.redbubble.com) +++ Today (03. March) 25% off apparel! Code: 25CLOTHES +++
+This design is now [available in my shop!](https://lolnein.redbubble.com) 
 
 [![Laundry Basket Shirt](/images/laundrybasket_shirt2.png)](https://lolnein.redbubble.com)
