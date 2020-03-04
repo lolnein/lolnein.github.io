@@ -11,18 +11,13 @@ Bonus Comic:
 ![The Perfect Camping Spot Bonus](/images/theperfectcampingspot_bonus.png)
 
 
-__More comics about stupidity:__
+Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
 
-[Mix-up](https://lolnein.com/2017/11/23/mixup/)
 
-[Get A Tan](https://lolnein.com/2018/09/05/getatan/)
+### More "motivational" comics:
 
-The Perfect Camping Spot <- You are here!
-
-[Improve Your Sleep](https://lolnein.com/2019/09/26/improveyoursleep/)
-
-[TikTok](https://lolnein.com/2019/10/24/tiktok/)
-
-[Math Problem](https://lolnein.com/2019/11/08/mathproblem/)
-
-[Slip and Fall](https://lolnein.com/2020/02/23/slipandfall/)
+[![Live Your Dream](/thumbs/liveyourdream.png){:height="50px" width="50px"}](https://lolnein.com/2018/09/14/liveyourdream/) | [Live Your Dream](https://lolnein.com/2018/09/14/liveyourdream/)
+[![The Perfect Camping Spot](/thumbs/theperfectcampingspot.png){:height="50px" width="50px"}](https://lolnein.com/2019/09/04/theperfectcampingspot/) | [The Perfect Camping Spot](https://lolnein.com/2019/09/04/theperfectcampingspot/) <- You are here!
+[![Get This Party Started](/thumbs/getthispartystarted.png){:height="50px" width="50px"}](https://lolnein.com/2019/09/30/getthispartystarted/) | [Get This Party Started](https://lolnein.com/2019/09/30/getthispartystarted/)
+[![Socket Up](/thumbs/socketup.png){:height="50px" width="50px"}](https://lolnein.com/2020/03/04/socketup/) | [Socket Up](https://lolnein.com/2020/03/04/socketup/)
+[![Motorola Razr vs Flip Phone](/thumbs/motorolarazrvsflipphone.png){:height="50px" width="50px"}](https://lolnein.com/2019/11/16/motorolarazrvsflipphone/) | [Motorola Razr vs Flip Phone](https://lolnein.com/2019/11/16/motorolarazrvsflipphone/)

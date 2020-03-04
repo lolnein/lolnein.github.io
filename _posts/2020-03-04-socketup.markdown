@@ -1,15 +1,14 @@
 ---
 layout: comic
-comic: getthispartystarted.png
-title: Get This Party Started
-alt: Get This Party Started
-keywords: [party, door, open, close, slam, hallway, sad, yay]
+comic: socketup.png
+title: Socket Up
+alt: Socket Up
+keywords: [socket, outlet, power, cable, plug, electricity, comic, motivational, work, burnout, electrician, strip, extension, block, board, bar]
 ---
 
 Bonus Panel:
 
-![Get This Party Started Bonus](/images/getthispartystarted_bonus.png)
-
+![Socket Up Bonus Panel](/images/socketup_bonus.png)
 
 Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
 
@@ -18,6 +17,6 @@ Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com
 
 [![Live Your Dream](/thumbs/liveyourdream.png){:height="50px" width="50px"}](https://lolnein.com/2018/09/14/liveyourdream/) | [Live Your Dream](https://lolnein.com/2018/09/14/liveyourdream/)
 [![The Perfect Camping Spot](/thumbs/theperfectcampingspot.png){:height="50px" width="50px"}](https://lolnein.com/2019/09/04/theperfectcampingspot/) | [The Perfect Camping Spot](https://lolnein.com/2019/09/04/theperfectcampingspot/)
-[![Get This Party Started](/thumbs/getthispartystarted.png){:height="50px" width="50px"}](https://lolnein.com/2019/09/30/getthispartystarted/) | [Get This Party Started](https://lolnein.com/2019/09/30/getthispartystarted/) <- You are here!
-[![Socket Up](/thumbs/socketup.png){:height="50px" width="50px"}](https://lolnein.com/2020/03/04/socketup/) | [Socket Up](https://lolnein.com/2020/03/04/socketup/)
+[![Get This Party Started](/thumbs/getthispartystarted.png){:height="50px" width="50px"}](https://lolnein.com/2019/09/30/getthispartystarted/) | [Get This Party Started](https://lolnein.com/2019/09/30/getthispartystarted/)
+[![Socket Up](/thumbs/socketup.png){:height="50px" width="50px"}](https://lolnein.com/2020/03/04/socketup/) | [Socket Up](https://lolnein.com/2020/03/04/socketup/) <- You are here!
 [![Motorola Razr vs Flip Phone](/thumbs/motorolarazrvsflipphone.png){:height="50px" width="50px"}](https://lolnein.com/2019/11/16/motorolarazrvsflipphone/) | [Motorola Razr vs Flip Phone](https://lolnein.com/2019/11/16/motorolarazrvsflipphone/)
