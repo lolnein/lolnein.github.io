@@ -41,6 +41,6 @@ Useful Information <- You are here!
 
 
 
-This design is now [available in my shop!](https://lolnein.redbubble.com) 
+This design is now [available in my shop!](https://lolnein.redbubble.com) +++ Now 20% off EVERYTHING! Code: ARTSY20 +++ 
 
-[![Useful Information Shirt](/images/usefulinformation_shirt2.png)](https://lolnein.redbubble.com)
+[![Useful Information Shirt](/images/usefulinformation_shirt2.png)](https://lolnein.redbubble.com) +++ Now 20% off EVERYTHING! Code: ARTSY20 +++

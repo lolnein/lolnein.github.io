@@ -28,7 +28,7 @@ __More kitchen-related comics:__
 [Coffee Machine vs French Press](https://lolnein.com/2019/10/29/coffeemachinevsfrenchpress/)
 
 
-This happy mug is now [available in my shop!](https://lolnein.redbubble.com) 
+This happy mug is now [available in my shop!](https://lolnein.redbubble.com) +++ Now 20% off EVERYTHING! Code: ARTSY20 +++ 
 
-[![Happy Mug](/images/happymug.jpg)](https://lolnein.redbubble.com)
+[![Happy Mug](/images/happymug.jpg)](https://lolnein.redbubble.com) +++ Now 20% off EVERYTHING! Code: ARTSY20 +++
 

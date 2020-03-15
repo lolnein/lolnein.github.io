@@ -24,6 +24,6 @@ Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com
 [![Smartphones](/thumbs/smartphones.png){:height="50px" width="50px"}](https://lolnein.com/2013/08/28/smartphones/) | [Smartphone vs Flip Phone](http://lolnein.com/2013/08/28/smartphones/)
 
 
-This design is now [available in my shop!](https://lolnein.redbubble.com) 
+This design is now [available in my shop!](https://lolnein.redbubble.com) +++ Now 20% off EVERYTHING! Code: ARTSY20 +++ 
 
-[![Bluetooth Speaker Case](/images/bluetoothspeaker_case.jpg)](https://lolnein.redbubble.com)
+[![Bluetooth Speaker Case](/images/bluetoothspeaker_case.jpg)](https://lolnein.redbubble.com) +++ Now 20% off EVERYTHING! Code: ARTSY20 +++

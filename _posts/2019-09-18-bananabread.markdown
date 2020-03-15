@@ -29,6 +29,6 @@ You are here! -> &nbsp; | [![Banana Bread](/thumbs/bananabread.png){:height="50p
 &nbsp; | [![Coffee Machine vs French Press](/thumbs/coffeemachinevsfrenchpress.png){:height="50px" width="50px"}](https://lolnein.com/2019/10/29/coffeemachinevsfrenchpress/) | [Coffee Machine vs French Press](https://lolnein.com/2019/10/29/coffeemachinevsfrenchpress/)
 
 
-This design is now [available in my shop!](https://lolnein.redbubble.com) 
+This design is now [available in my shop!](https://lolnein.redbubble.com) +++ Now 20% off EVERYTHING! Code: ARTSY20 +++ 
 
-[![Banana Shirt](/images/banana_shirt.jpg)](https://lolnein.redbubble.com)
+[![Banana Shirt](/images/banana_shirt.jpg)](https://lolnein.redbubble.com) +++ Now 20% off EVERYTHING! Code: ARTSY20 +++

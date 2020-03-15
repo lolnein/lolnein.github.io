@@ -24,6 +24,6 @@ Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com
 [![Smartphones (Part 2)](/thumbs/smartphones2.png){:height="50px" width="50px"}](https://lolnein.com/2014/10/01/smartphones2/) | [Smartphone vs Flip Phone PART 2](http://lolnein.com/2014/10/01/smartphones2/)
 
 
-This design is now [available in my shop!](https://lolnein.redbubble.com) 
+This design is now [available in my shop!](https://lolnein.redbubble.com) +++ Now 20% off EVERYTHING! Code: ARTSY20 +++ 
 
-[![Heart Problems Shirt](/images/heartproblems_shirt.png)](https://lolnein.redbubble.com)
+[![Heart Problems Shirt](/images/heartproblems_shirt.png)](https://lolnein.redbubble.com) +++ Now 20% off EVERYTHING! Code: ARTSY20 +++

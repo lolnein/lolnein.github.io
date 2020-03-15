@@ -25,6 +25,6 @@ You are here -> &nbsp; | [![Must Bee Love](/thumbs/mustbeelove.png){:height="50p
 &nbsp; | [![Pretty Fly](/thumbs/prettyfly.png){:height="50px" width="50px"}](https://lolnein.com/2019/06/09/prettyfly/) | [Pretty Fly](https://lolnein.com/2019/06/09/prettyfly/)
 
 
-This design is now [available in my shop!](https://lolnein.redbubble.com) 
+This design is now [available in my shop!](https://lolnein.redbubble.com) +++ Now 20% off EVERYTHING! Code: ARTSY20 +++ 
 
-[![Bumblebee Shirt](/images/bumblebee_shirt.png)](https://lolnein.redbubble.com)
+[![Bumblebee Shirt](/images/bumblebee_shirt.png)](https://lolnein.redbubble.com) +++ Now 20% off EVERYTHING! Code: ARTSY20 +++
