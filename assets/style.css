@@ -29,12 +29,20 @@ table {
   font-size: 1em;
 }
 
+table td {
+    vertical-align: middle;
+    padding: 0.5rem;
+}
 
-tr:nth-child(odd) {background-color: #333333;}
+table td a {
+    display:block;
+    width:100%;
+}
 
-td:nth-child(1) {
+table tr:nth-child(odd) {background-color: #333333;}
+
+table td:nth-child(1) {
     width:1%;
-    text-align: right;
     white-space:nowrap;
     font-weight: lighter;
     font-size: 1.25em;
@@ -43,16 +51,6 @@ td:nth-child(1) {
 
 td:nth-child(2) {
   width: 50;
-}
-
-table td {
-    vertical-align: middle;
-    padding: 0.5rem;
-}
-
-td a {
-    display:block;
-    width:100%;
 }
 
 
