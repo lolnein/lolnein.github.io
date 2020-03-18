@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-
-{% include head.html %}
-<iframe class="center" width="560" height="315" src="{{ page.video }}" allowfullscreen="allowfullscreen" seamless="seamless"></iframe>
-{% include tail.html %}
+{% include arrows.html %}
+<div class="column is-full">
+    <iframe class="center" width="560" height="315" src="{{ page.video }}" allowfullscreen="allowfullscreen" seamless="seamless"></iframe>
+</div>
+{% include description.html %}

@@ -11,9 +11,7 @@
 		<email>vin@lolnein.com</email>
 	</author>
 
-	<generator uri="http://jekyllrb.com/">
-		Jekyll
-	</generator>
+	<generator uri="http://jekyllrb.com/">Jekyll</generator>
 
 	<icon>/lolnein.png</icon>
 

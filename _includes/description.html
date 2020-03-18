@@ -1,0 +1,16 @@
+<div class="column is-full" itemscope="itemscope" itemtype="http://schema.org/Article">
+    <meta property="og:url" content="https://lolnein.com{{ page.url }}/"/>
+    <div class="title-container is-clearfix is-size-5 margin-bottom">
+        <div class="is-pulled-left" itemprop="name" property="dc:title">
+            {{ page.title }}
+        </div>
+        <div class="is-pulled-right text-light" itemprop="datePublished" property="dc:date"
+           content="{{ page.date | date: '%Y-%m-%d' }}">
+            {{ page.date | date_to_long_string }}
+        </div>
+    </div>
+
+    <div itemprop="articleBody">
+        {{ content }}
+    </div>
+</div>
