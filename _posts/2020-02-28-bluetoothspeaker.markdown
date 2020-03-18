@@ -23,6 +23,8 @@ Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com
 [![Bluetooth Speaker](/thumbs/bluetoothspeaker.png){:height="50px" width="50px"}](https://lolnein.com/2020/02/28/bluetoothspeaker/) | [Bluetooth Speaker](https://lolnein.com/2020/02/28/bluetoothspeaker/) <- You are here!
 [![Smartphones](/thumbs/smartphones.png){:height="50px" width="50px"}](https://lolnein.com/2013/08/28/smartphones/) | [Smartphone vs Flip Phone](http://lolnein.com/2013/08/28/smartphones/)
 
+---
+
 
 This design is now [available in my shop!](https://lolnein.redbubble.com) +++ Now 20% off EVERYTHING! Code: ARTSY20 +++ 
 
