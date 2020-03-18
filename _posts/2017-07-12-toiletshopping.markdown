@@ -15,7 +15,7 @@ Bonus Comic 2:
 ![Toilet Shopping Bonus](/images/toiletshopping_bonus2.png)
 
 
-__More nature-related comics:__
+### More nature-related comics:
 
 [Vacation](https://lolnein.com/2017/05/26/vacation/)
 

@@ -17,7 +17,7 @@ Bonus Panel 2:
 ![Paper Towel Bonus Panel 2](/images/papertowel_bonus2.png)
 
 
-__More kitchen-related comics:__
+### More kitchen-related comics:
 
 [Paper Towel](https://lolnein.com/2017/04/25/papertowel/) <- You are here!
 

@@ -13,7 +13,7 @@ Bonus Panel:
 ![Slow Laptop Bonus Panel](/images/slowlaptop_bonus.png)
 
 
-__More technology-related comics:__
+### More technology-related comics:
 
 [Update And Restart](https://lolnein.com/2018/01/26/updateandrestart/)
 

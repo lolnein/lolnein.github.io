@@ -13,7 +13,7 @@ Bonus Panel:
 ![Toilet Me Alone Bonus Panel](/images/toiletmealone_bonus.png)
 
 
-__More bathroom-related comics:__
+### More bathroom-related comics:
 
 [Washed with Shampoo](https://lolnein.com/2017/11/03/washedwithshampoo/)
 

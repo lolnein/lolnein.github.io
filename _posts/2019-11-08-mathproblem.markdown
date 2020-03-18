@@ -13,7 +13,7 @@ Bonus Panel:
 ![Math Problem Bonus](/images/mathproblem_bonus.png)
 
 
-__More comics about stupidity:__
+### More comics about stupidity:
 
 [Mix-up](https://lolnein.com/2017/11/23/mixup/)
 

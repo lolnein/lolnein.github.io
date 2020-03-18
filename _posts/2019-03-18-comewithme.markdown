@@ -11,7 +11,7 @@ Bonus Comic:
 ![Come with Me Bonus Comic](/images/comewithme_bonus.png)
 
 
-__More gaming-related comics:__
+### More gaming-related comics:
 
 [Nintendo 2DS vs 3DS](http://lolnein.com/2013/09/06/2ds/)
 

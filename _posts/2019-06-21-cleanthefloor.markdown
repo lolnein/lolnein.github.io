@@ -13,7 +13,7 @@ Bonus Panel:
 ![Clean The Floor Bonus Panel](/images/cleanthefloor_bonus.png)
 
 
-__More comics involving chores:__
+### More comics involving chores:
 
 [Bottom Plate](https://lolnein.com/2017/07/14/bottomplate/)
 

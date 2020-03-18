@@ -12,7 +12,7 @@ Bonus Panel:
 
 ![Electric Scooter vs Regular Scooter Bonus](/images/electricscootervsregularscooter_bonus.png)
 
-__More "But can you do this" Comics:__
+### More "But can you do this" Comics:
 
 [Smartphone vs Flip Phone PART 1](http://lolnein.com/2013/08/28/smartphones/)
 

@@ -13,7 +13,7 @@ Bonus Panel:
 ![Expensive Wine Bonus Panel](/images/expensivewine_bonus.png)
 
 
-__More Susan-related comics:__
+### More Susan-related comics:
 
 [Part 1: Moisturiser](https://lolnein.com/2018/01/24/moisturiser/)
 

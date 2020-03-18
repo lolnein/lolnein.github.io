@@ -13,7 +13,7 @@ Bonus Panel:
 ![Ready for Coffee Bonus Panel](/images/readyforcoffee_bonus.png)
 
 
-__More kitchen-related comics:__
+### More kitchen-related comics:
 
 [Paper Towel](https://lolnein.com/2017/04/25/papertowel/)
 

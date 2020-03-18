@@ -13,7 +13,7 @@ Bonus Panel:
 ![The Perfect Table Bonus Panel](/images/theperfecttable_bonus.png)
 
 
-__More comics about objects experiencing L I F E:__
+### More comics about objects experiencing L I F E:
 
 [Paper Towel](https://lolnein.com/2017/04/25/papertowel/)
 

@@ -13,7 +13,7 @@ Bonus Panel:
 ![Lava Floor Bonus Panel](/images/lavafloor_bonus.png)
 
 
-__More nature-related comics:__
+### More nature-related comics:
 
 [Vacation](https://lolnein.com/2017/05/26/vacation/)
 

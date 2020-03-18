@@ -6,7 +6,7 @@ alt: Unsaved Work
 keywords: [unsaved, work, windows, update, restart]
 ---
 
-__More technology-related comics:__
+### More technology-related comics:
 
 [Update And Restart](https://lolnein.com/2018/01/26/updateandrestart/)
 
