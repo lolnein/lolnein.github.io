@@ -132,3 +132,9 @@ td:nth-child(2) {
 .content-container {
     padding: 0.5rem;
 }
+
+@media (max-width: 992px) {
+    body.splash-page {
+    font-size: 40% !important;
+    }
+}
