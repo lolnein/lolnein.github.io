@@ -26,6 +26,6 @@ You are here -> &nbsp; | [![Laundry Basket](/thumbs/laundrybasket.png){:height="
 &nbsp; | [![Laces vs Velcro](/thumbs/lacesvsvelcro.png){:height="50px" width="50px"}](https://lolnein.com/2016/07/28/lacesvsvelcro/) | [Laces vs Velcro](http://lolnein.com/2016/07/28/lacesvsvelcro/)
 
 
-This design is now [available in my shop!](https://lolnein.redbubble.com) +++ Now 20% off EVERYTHING! Code: ARTSY20 +++ 
+This design is now [available in my shop!](https://lolnein.redbubble.com)
 
-[![Laundry Basket Shirt](/images/laundrybasket_shirt2.png)](https://lolnein.redbubble.com) +++ Now 20% off EVERYTHING! Code: ARTSY20 +++
+[![Laundry Basket Shirt](/images/laundrybasket_shirt2.png)](https://lolnein.redbubble.com)

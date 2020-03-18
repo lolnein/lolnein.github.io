@@ -26,6 +26,6 @@ Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com
 ---
 
 
-This design is now [available in my shop!](https://lolnein.redbubble.com) +++ Now 20% off EVERYTHING! Code: ARTSY20 +++ 
+This design is now [available in my shop!](https://lolnein.redbubble.com)
 
-[![Bluetooth Speaker Case](/images/bluetoothspeaker_case.jpg)](https://lolnein.redbubble.com) +++ Now 20% off EVERYTHING! Code: ARTSY20 +++
+[![Bluetooth Speaker Case](/images/bluetoothspeaker_case.jpg)](https://lolnein.redbubble.com)

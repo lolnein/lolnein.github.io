@@ -22,6 +22,6 @@ Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com
 [![CD vs Floppy Disk](/thumbs/cdvsfloppydisk.png){:height="50px" width="50px"}](https://lolnein.com/2015/05/11/cdvsfloppydisk/) | [CD vs Floppy Disk](https://lolnein.com/2015/05/11/cdvsfloppydisk/)
 
 
-This design is now [available in my shop!](https://lolnein.redbubble.com) +++ Now 20% off EVERYTHING! Code: ARTSY20 +++ 
+This design is now [available in my shop!](https://lolnein.redbubble.com)
 
-[![A Marked Pen Shirt](/images/amarkedpen_shirt.png)](https://lolnein.redbubble.com) +++ Now 20% off EVERYTHING! Code: ARTSY20 +++
+[![A Marked Pen Shirt](/images/amarkedpen_shirt.png)](https://lolnein.redbubble.com)

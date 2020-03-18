@@ -25,6 +25,6 @@ You are here -> &nbsp; | [![Professional Help](/thumbs/professionalhelp.png){:he
 &nbsp; | [![Galaxy Fold vs Flip Phone](/thumbs/galaxyfoldvsflipphone.png){:height="50px" width="50px"}](https://lolnein.com/2019/04/27/galaxyfoldvsflipphone/) | [Galaxy Fold vs Flip Phone](https://lolnein.com/2019/04/27/galaxyfoldvsflipphone/)
 
 
-This design is now [available in my shop!](https://lolnein.redbubble.com) +++ Now 20% off EVERYTHING! Code: ARTSY20 +++ 
+This design is now [available in my shop!](https://lolnein.redbubble.com)
 
-[![Dr. Fly Notebook](/images/drfly_notebook.jpg)](https://lolnein.redbubble.com) +++ Now 20% off EVERYTHING! Code: ARTSY20 +++
+[![Dr. Fly Notebook](/images/drfly_notebook.jpg)](https://lolnein.redbubble.com)

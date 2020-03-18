@@ -26,6 +26,6 @@ You are here -> &nbsp; | [![Pretty Fly](/thumbs/prettyfly.png){:height="50px" wi
 
 ---
 
-This design is now [available in my shop!](https://lolnein.redbubble.com) +++ Now 20% off EVERYTHING! Code: ARTSY20 +++ 
+This design is now [available in my shop!](https://lolnein.redbubble.com)
 
-[![Pretty Fly Shirt](/images/prettyfly_shirt.jpg)](https://lolnein.redbubble.com) +++ Now 20% off EVERYTHING! Code: ARTSY20 +++
+[![Pretty Fly Shirt](/images/prettyfly_shirt.jpg)](https://lolnein.redbubble.com)
