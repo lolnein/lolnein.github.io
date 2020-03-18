@@ -1,5 +1,6 @@
 body {
     background-color: #333333;
+    font-size: 0.5em;
 }
 
 @media screen and (min-width: 784px) {
