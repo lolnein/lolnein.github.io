@@ -17,7 +17,7 @@ Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com
 ### More food-related comics:
 
 &nbsp; | [![Crass Croissant](/thumbs/crasscroissant.png){:height="50px" width="50px"}](https://lolnein.com/2018/02/01/crasscroissant/) | [Crass Croissant](https://lolnein.com/2018/02/01/crasscroissant/)
-You are here &rarr; &nbsp; | [![When Life Makes You Lemonade](/thumbs/whenlifemakesyoulemonade.png){:height="50px" width="50px"}](https://lolnein.com/2019/08/29/whenlifemakesyoulemonade/) | [When Life Makes You Lemonade](https://lolnein.com/2019/08/29/whenlifemakesyoulemonade/)
+&rarr; &nbsp; | [![When Life Makes You Lemonade](/thumbs/whenlifemakesyoulemonade.png){:height="50px" width="50px"}](https://lolnein.com/2019/08/29/whenlifemakesyoulemonade/) | [When Life Makes You Lemonade](https://lolnein.com/2019/08/29/whenlifemakesyoulemonade/)
 &nbsp; | [![The Right Amount of Pasta](/thumbs/therightamountofpasta.png){:height="50px" width="50px"}](https://lolnein.com/2019/09/06/therightamountofpasta/) | [The Right Amount of Pasta](https://lolnein.com/2019/09/06/therightamountofpasta/)
 &nbsp; | [![Banana Bread](/thumbs/bananabread.png){:height="50px" width="50px"}](https://lolnein.com/2019/09/18/bananabread/) | [Banana Bread](https://lolnein.com/2019/09/18/bananabread/)
 &nbsp; | [![How Is the Food](/thumbs/howisthefood.png){:height="50px" width="50px"}](https://lolnein.com/2019/11/20/howisthefood/) | [How Is the Food](https://lolnein.com/2019/11/20/howisthefood/)

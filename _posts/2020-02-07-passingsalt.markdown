@@ -22,7 +22,7 @@ Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com
 &nbsp; | [![Banana Bread](/thumbs/bananabread.png){:height="50px" width="50px"}](https://lolnein.com/2019/09/18/bananabread/) | [Banana Bread](https://lolnein.com/2019/09/18/bananabread/)
 &nbsp; | [![How Is the Food](/thumbs/howisthefood.png){:height="50px" width="50px"}](https://lolnein.com/2019/11/20/howisthefood/) | [How Is the Food](https://lolnein.com/2019/11/20/howisthefood/)
 &nbsp; | [![Make the Cut](/thumbs/makethecut.png){:height="50px" width="50px"}](https://lolnein.com/2019/11/26/makethecut/) | [Make the Cut](https://lolnein.com/2019/11/26/makethecut/)
-You are here &rarr; &nbsp; | [![Passing Salt](/thumbs/passingsalt.png){:height="50px" width="50px"}](https://lolnein.com/2020/02/07/passingsalt/) | [Passing Salt](https://lolnein.com/2020/02/07/passingsalt/)
+&rarr; &nbsp; | [![Passing Salt](/thumbs/passingsalt.png){:height="50px" width="50px"}](https://lolnein.com/2020/02/07/passingsalt/) | [Passing Salt](https://lolnein.com/2020/02/07/passingsalt/)
 &nbsp; | [![Slip and Fall](/thumbs/slipandfall.png){:height="50px" width="50px"}](https://lolnein.com/2020/02/23/slipandfall/) | [Slip and Fall](https://lolnein.com/2020/02/23/slipandfall/)
 &nbsp; | [![Just the Way You Are](/thumbs/justthewayyouare.png){:height="50px" width="50px"}](https://lolnein.com/2020/02/27/justthewayyouare/) | [Just the Way You Are](https://lolnein.com/2020/02/27/justthewayyouare/)
 &nbsp; | [![Cutelery](/thumbs/cutelery.png){:height="50px" width="50px"}](https://lolnein.com/2020/03/06/cutelery/) | [Cutelery](https://lolnein.com/2020/03/06/cutelery/)

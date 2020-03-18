@@ -24,6 +24,6 @@ Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com
 &nbsp; | [![Make the Cut](/thumbs/makethecut.png){:height="50px" width="50px"}](https://lolnein.com/2019/11/26/makethecut/) | [Make the Cut](https://lolnein.com/2019/11/26/makethecut/)
 &nbsp; | [![Passing Salt](/thumbs/passingsalt.png){:height="50px" width="50px"}](https://lolnein.com/2020/02/07/passingsalt/) | [Passing Salt](https://lolnein.com/2020/02/07/passingsalt/)
 &nbsp; | [![Slip and Fall](/thumbs/slipandfall.png){:height="50px" width="50px"}](https://lolnein.com/2020/02/23/slipandfall/) | [Slip and Fall](https://lolnein.com/2020/02/23/slipandfall/)
-You are here &rarr; &nbsp; | [![Just the Way You Are](/thumbs/justthewayyouare.png){:height="50px" width="50px"}](https://lolnein.com/2020/02/27/justthewayyouare/) | [Just the Way You Are](https://lolnein.com/2020/02/27/justthewayyouare/)
+&rarr; &nbsp; | [![Just the Way You Are](/thumbs/justthewayyouare.png){:height="50px" width="50px"}](https://lolnein.com/2020/02/27/justthewayyouare/) | [Just the Way You Are](https://lolnein.com/2020/02/27/justthewayyouare/)
 &nbsp; | [![Cutelery](/thumbs/cutelery.png){:height="50px" width="50px"}](https://lolnein.com/2020/03/06/cutelery/) | [Cutelery](https://lolnein.com/2020/03/06/cutelery/)
 &nbsp; | [![Coffee Machine vs French Press](/thumbs/coffeemachinevsfrenchpress.png){:height="50px" width="50px"}](https://lolnein.com/2019/10/29/coffeemachinevsfrenchpress/) | [Coffee Machine vs French Press](https://lolnein.com/2019/10/29/coffeemachinevsfrenchpress/)

@@ -18,7 +18,7 @@ Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com
 
 ### More smartphone-related comics:
 
-You are here &rarr; &nbsp; | [![Me and My Phone](/thumbs/meandmyphone.png){:height="50px" width="50px"}](https://lolnein.com/2017/06/26/meandmyphone/) | [Me and My Phone](https://lolnein.com/2017/06/26/meandmyphone/)
+&rarr; &nbsp; | [![Me and My Phone](/thumbs/meandmyphone.png){:height="50px" width="50px"}](https://lolnein.com/2017/06/26/meandmyphone/) | [Me and My Phone](https://lolnein.com/2017/06/26/meandmyphone/)
 &nbsp; | [![Well-Designed](/thumbs/welldesigned.png){:height="50px" width="50px"}](https://lolnein.com/2017/11/04/well-designed/) | [Well-Designed](https://lolnein.com/2017/11/04/welldesigned/)
 &nbsp; | [![Call the Doctor](/thumbs/callthedoctor.png){:height="50px" width="50px"}](https://lolnein.com/2019/09/12/callthedoctor/) | [Call The Doctor](https://lolnein.com/2019/09/12/callthedoctor/)
 &nbsp; | [![Taste in Music](/thumbs/tasteinmusic.png){:height="50px" width="50px"}](https://lolnein.com/2020/02/24/tasteinmusic/) | [Taste in Music](https://lolnein.com/2020/02/24/tasteinmusic/)

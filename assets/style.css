@@ -33,7 +33,9 @@ table {
 tr:nth-child(odd) {background-color: #333333;}
 
 td:nth-child(1) {
-    width: 60;
+    width: 30;
+    font-weight: lighter;
+    font-size: 1.25em;
     background-color: black;
 }
 
