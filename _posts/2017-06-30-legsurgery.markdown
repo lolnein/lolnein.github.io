@@ -17,7 +17,7 @@ Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com
 ### More insect-related comics:
 
 &nbsp; | [![Back Rub](/thumbs/backrub.png){:height="50px" width="50px"}](https://lolnein.com/2017/06/13/backrub/) | [Back Rub](https://lolnein.com/2017/06/13/backrub/)
-You are here -> &nbsp; | [![Leg Surgery](/thumbs/legsurgery.png){:height="50px" width="50px"}](https://lolnein.com/2017/06/30/legsurgery/) | [Leg Surgery](https://lolnein.com/2017/06/30/legsurgery/)
+You are here &rarr; &nbsp; | [![Leg Surgery](/thumbs/legsurgery.png){:height="50px" width="50px"}](https://lolnein.com/2017/06/30/legsurgery/) | [Leg Surgery](https://lolnein.com/2017/06/30/legsurgery/)
 &nbsp; | [![The Ugly Caterpillar](/thumbs/theuglycaterpillar.png){:height="50px" width="50px"}](https://lolnein.com/2017/09/18/theuglycaterpillar/) | [The Ugly Caterpillar](https://lolnein.com/2017/09/18/theuglycaterpillar/)
 &nbsp; | [![The Greatest Fear](/thumbs/thegreatestfear.png){:height="50px" width="50px"}](https://lolnein.com/2018/06/18/thegreatestfear/) | [The Greatest Fear](https://lolnein.com/2018/06/18/thegreatestfear/)
 &nbsp; | [![Clean Window](/thumbs/cleanwindow.png){:height="50px" width="50px"}](https://lolnein.com/2018/08/06/cleanwindow/) | [Clean Window](https://lolnein.com/2018/08/06/cleanwindow/)

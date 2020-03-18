@@ -23,6 +23,35 @@ hr {
     height: 1px;
 }
 
+table {
+  width: 100%;
+  font-weight: lighter;
+  font-size: 1em;
+}
+
+
+tr:nth-child(odd) {background-color: #333333;}
+
+td:nth-child(1) {
+    width: 60;
+    background-color: black;
+}
+
+td:nth-child(2) {
+  width: 50;
+}
+
+table td {
+    vertical-align: middle;
+    padding: 0.5rem;
+}
+
+td a {
+    display:block;
+    width:100%;
+}
+
+
 @media screen and (min-width: 784px) {
     .next-thumb {
         padding-left: 1.5rem;
@@ -71,11 +100,6 @@ hr {
     position: sticky;
     top: 0;
     z-index: 1000;
-}
-
-table td {
-    vertical-align: middle;
-    padding: 0.25rem;
 }
 
 .nav-image-container {

@@ -22,7 +22,7 @@ Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com
 &nbsp; | [![The Greatest Fear](/thumbs/thegreatestfear.png){:height="50px" width="50px"}](https://lolnein.com/2018/06/18/thegreatestfear/) | [The Greatest Fear](https://lolnein.com/2018/06/18/thegreatestfear/)
 &nbsp; | [![Clean Window](/thumbs/cleanwindow.png){:height="50px" width="50px"}](https://lolnein.com/2018/08/06/cleanwindow/) | [Clean Window](https://lolnein.com/2018/08/06/cleanwindow/)
 &nbsp; | [![Must Bee Love](/thumbs/mustbeelove.png){:height="50px" width="50px"}](https://lolnein.com/2019/05/21/mustbeelove/) | [Must Bee Love](https://lolnein.com/2019/05/21/mustbeelove/)
-You are here -> &nbsp; | [![Pretty Fly](/thumbs/prettyfly.png){:height="50px" width="50px"}](https://lolnein.com/2019/06/09/prettyfly/) | [Pretty Fly](https://lolnein.com/2019/06/09/prettyfly/)
+You are here &rarr; &nbsp; | [![Pretty Fly](/thumbs/prettyfly.png){:height="50px" width="50px"}](https://lolnein.com/2019/06/09/prettyfly/) | [Pretty Fly](https://lolnein.com/2019/06/09/prettyfly/)
 
 ---
 
