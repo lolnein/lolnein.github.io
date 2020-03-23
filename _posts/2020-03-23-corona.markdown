@@ -1,6 +1,6 @@
 ---
 layout: youtube
-video: https://youtu.be/DU6ObLRuz74
+video: https://www.youtube.com/embed/DU6ObLRuz74
 title: Corona
 ---
 
