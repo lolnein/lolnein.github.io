@@ -1,19 +1,16 @@
 ---
 layout: comic
-comic: cutelery.png
-title: Cutelery
-alt: Cutelery
-keywords: [cutlery, fork, spoon, knife, cake, soup, funny, comic, table, kitchen]
+comic: groceryshopping.png
+title: Grocery Shopping
+alt: Grocery Shopping
+keywords: [toilet, paper, three-ply, grocery, shopping, supermarket, store cashier, apocalypse, payment, method, cash, money]
 ---
 
 Bonus Panel:
 
-![Cutelery Bonus Panel](/images/cutelery_bonus.png)
+![Grocery Shopping Bonus Panel](/images/groceryshopping_bonus.png)
 
-
-__The Cutelery Song (link takes you to YouTube):__
-
-[![LOLNEIN - The Cutelery Song](https://img.youtube.com/vi/lntIfuBR8Ls/0.jpg)](https://www.youtube.com/watch?v=lntIfuBR8Ls)
+Also, [here's my new Cororna song and music video!](https://youtu.be/DU6ObLRuz74)
 
 Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
 
