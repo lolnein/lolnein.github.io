@@ -3,7 +3,7 @@ layout: comic
 comic: praying.png
 title: Praying
 alt: Praying
-keywords: [toilet, paper, three-ply, grocery, shopping, supermarket, store cashier, apocalypse, payment, method, cash, money]
+keywords: [praying, god, religion, bible, christianity, christian, mother, son, phone, magazine, prayer, pew, home]
 ---
 
 Bonus Panel:
