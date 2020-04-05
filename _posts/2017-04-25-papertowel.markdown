@@ -25,6 +25,8 @@ Bonus Panel 2:
 
 [Hot Bath](https://lolnein.com/2019/04/29/hotbath/)
 
+[The Hard Stuff](https://lolnein.com/2019/08/31/thehardstuff/)
+
 [Missing Mug](https://lolnein.com/2019/09/11/missingmug/)
 
 [Mad Mug](https://lolnein.com/2019/11/11/madmug/)
