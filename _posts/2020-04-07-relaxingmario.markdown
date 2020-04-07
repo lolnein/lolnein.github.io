@@ -8,7 +8,7 @@ keywords: [nintendo, super, mario, luigi, bros, switch, game, gaming, videogames
 
 Bonus Panel:
 
-![Relaxing Mario Bonus Panel](/images/praying_bonus.png)
+![Relaxing Mario Bonus Panel](/images/relaxingmario_bonus.png)
 
 Also, [here's my new Cororna song and music video!](https://youtu.be/DU6ObLRuz74)
 
