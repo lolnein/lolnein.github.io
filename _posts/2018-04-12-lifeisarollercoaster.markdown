@@ -11,13 +11,11 @@ Bonus Comic:
 ![Life Is a Rollercoaster Bonus Comic](/images/lifeisarollercoaster_bonus.png)
 
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
-
-Also, [here's my new Cororna song and music video!](https://youtu.be/DU6ObLRuz74)
-
-<iframe class="center" width="100%" height="width/56,25" src="https://www.youtube.com/embed/DU6ObLRuz74" allowfullscreen="allowfullscreen" seamless="seamless"></iframe>
 
 
+
+
+<iframe class="center" width="100%" src="https://www.youtube.com/embed/DU6ObLRuz74" allowfullscreen="allowfullscreen" seamless="seamless"></iframe>
 
 ### More health-related comics:
 

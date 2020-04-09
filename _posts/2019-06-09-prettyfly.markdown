@@ -11,7 +11,7 @@ Bonus Panel:
 ![Pretty Fly Bonus Panel](/images/prettyfly_bonus.PNG)
 
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 
 ### More insect-related comics:

@@ -11,7 +11,7 @@ Bonus Panel:
 ![Taste in Music Bonus Panel](/images/tasteinmusic_bonus.png)
 
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 
 ### More smartphone-related comics:

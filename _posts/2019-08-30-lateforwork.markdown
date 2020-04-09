@@ -11,7 +11,7 @@ Bonus Panel:
 ![Late for Work Bonus](/images/lateforwork_bonus.png)
 
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 
 ### More work-related comics:

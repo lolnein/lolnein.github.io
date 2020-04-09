@@ -10,7 +10,7 @@ Bonus Panel:
 
 ![Relaxing Mario Bonus Panel](/images/relaxingmario_bonus.png)
 
-Also, [here's my new Cororna song and music video!](https://youtu.be/DU6ObLRuz74)
+
 
 
 ### More gaming-related comics:

@@ -6,7 +6,7 @@ alt: Spider Magic
 keywords: [spider, disappear, reappear, magic, scared, bed, glass]
 ---
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 Bonus Panel:
 

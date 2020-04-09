@@ -7,7 +7,7 @@ keywords: [nintendo, switch, consoles, ps4, sony, playstation, play, station, ps
 ---
 
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 Bonus Panel:
 

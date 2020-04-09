@@ -6,7 +6,7 @@ alt:  Loving Technology
 keywords: [technology, IT, pc, computer, printer, mouse, screen, monitor, comic]
 ---
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 Bonus Panel:
 

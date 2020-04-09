@@ -6,7 +6,7 @@ alt: Lava Floor
 keywords: [floor, lava, volcano, volcayes, game, pompeii, magma, mountain, eruption]
 ---
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 Bonus Panel:
 

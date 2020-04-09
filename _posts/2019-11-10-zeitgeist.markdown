@@ -6,7 +6,7 @@ alt:  Zeitgeist
 keywords: [zeitgeist, ghost, daylight, saving, time, winter, clock, fall, back, spring, forward]
 ---
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 Bonus Panel:
 

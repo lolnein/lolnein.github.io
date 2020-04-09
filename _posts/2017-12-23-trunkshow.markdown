@@ -6,7 +6,7 @@ alt: Trunk Show
 keywords: [christmas, present, ideas, presents, tree, trunk, winter, needles, leafs, snow]
 ---
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 Bonus Panel:
 

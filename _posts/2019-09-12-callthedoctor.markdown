@@ -11,7 +11,7 @@ Bonus Panel:
 ![Call the Doctor Bonus](/images/callthedoctor_bonus.png)
 
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 
 ### More smartphone-related comics:

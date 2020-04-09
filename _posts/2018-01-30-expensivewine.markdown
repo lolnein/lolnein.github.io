@@ -6,7 +6,7 @@ alt: Expensive Wine
 keywords: [wine, fortune, tile, red, rich, complex, drunk, bathroom, susan]
 ---
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 Bonus Panel:
 

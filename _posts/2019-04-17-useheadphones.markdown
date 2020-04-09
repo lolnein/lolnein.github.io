@@ -6,7 +6,7 @@ alt: Use Headphones
 keywords: [headphones, train, subway, music, loud]
 ---
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 Bonus Panel:
 

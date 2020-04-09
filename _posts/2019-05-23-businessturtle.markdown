@@ -13,7 +13,7 @@ Bonus Panel:
 ![Business Turtle Bonus Panel 2](/images/businessturtle_bonus2.png)
 
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 
 ### More work-related comics:

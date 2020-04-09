@@ -6,7 +6,7 @@ alt: Moisturiser
 keywords: [moisturiser, moisturizer, tile, floor, soft, skin, bathroom, expensive]
 ---
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 Bonus Panel:
 

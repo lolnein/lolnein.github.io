@@ -6,7 +6,7 @@ alt: Death Wish
 keywords: [death, wish, plant, water, dry, dying, cactus, sweet, why]
 ---
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 Bonus Panel:
 

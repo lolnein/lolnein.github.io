@@ -6,7 +6,7 @@ alt: No Soaking Matter
 keywords: [pot, clean, soaking, dishes, soak]
 ---
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 Bonus Panel:
 

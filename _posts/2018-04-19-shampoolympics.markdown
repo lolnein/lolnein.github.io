@@ -6,7 +6,7 @@ alt: Shampoolympics
 keywords: [shampoo, foot, feet, shower, toe, olympics, water, jump]
 ---
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 Bonus Comic:
 

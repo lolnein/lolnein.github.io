@@ -6,7 +6,7 @@ alt:  Electric Scooter vs Regular Scooter
 keywords: [electric, scooter, escooter, e-scooter, lime, bird, xiaomi, segway, roller, e-roller, eroller, elektro]
 ---
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 Bonus Panel:
 

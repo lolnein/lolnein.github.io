@@ -11,7 +11,7 @@ Bonus Panel:
 ![A Socking Discovery Bonus Panel](/images/asockingdiscovery_bonus.png)
 
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 
 ### More clothes-related comics:

@@ -6,7 +6,7 @@ alt: Finally a Kiss
 keywords: [kiss, toilet, susan, bathroom, hug, tile, throwing, up]
 ---
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 Bonus Panel:
 

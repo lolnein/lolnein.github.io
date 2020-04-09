@@ -6,7 +6,7 @@ alt:  Nintendo Switch vs Cardboard Crafts
 keywords: [nintendo, switch, labo, cardboard, crafts, piano]
 ---
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 ### More "But can you do this" Comics:
 

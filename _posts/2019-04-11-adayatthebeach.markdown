@@ -6,7 +6,7 @@ alt: A Day at the Beach
 keywords: [fish, beach, pee, sea, water, land, disgusting]
 ---
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 Bonus Panel:
 

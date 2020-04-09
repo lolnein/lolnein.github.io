@@ -6,7 +6,7 @@ alt: Windows Update
 keywords: [windows, update, microsoft, edge, google, chrome, desktop, vlc, media, player, recycle, bin, restart]
 ---
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 Bonus Panel:
 

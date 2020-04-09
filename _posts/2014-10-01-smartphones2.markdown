@@ -6,7 +6,7 @@ alt: Smartphones (Part 2)
 keywords: [bendgate, iphone, apple, smartphones, flip phones]
 ---
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 ### More "But can you do this" Comics:
 

@@ -6,7 +6,7 @@ alt: SNES Classic Mini vs SNES
 keywords: [snes, classic, mini, cartridge, comic, animation, super, mario]
 ---
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 ### More "But can you do this" Comics:
 

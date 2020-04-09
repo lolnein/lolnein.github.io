@@ -6,7 +6,7 @@ alt: Love Is Scary
 keywords: [ghosts, ghost, halloween, skeleton, skeleghost, relationship, spooky, son]
 ---
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 Bonus Panel:
 

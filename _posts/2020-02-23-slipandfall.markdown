@@ -11,7 +11,7 @@ Bonus Panel:
 ![Slip and Fall Bonus Panel](/images/slipandfall_bonus.png)
 
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 
 ### More food-related comics:

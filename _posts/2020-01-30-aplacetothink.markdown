@@ -6,7 +6,7 @@ alt: A Place to Think
 keywords: [brain, comic, sleep, wake, bed, awake, insomnia, think, desk]
 ---
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 Bonus Panel:
 

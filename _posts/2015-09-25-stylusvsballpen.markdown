@@ -6,7 +6,7 @@ alt: Stylus vs Ball Pen
 keywords: [stylus, ball pen, apple, pencil]
 ---
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 ### More "But can you do this" Comics:
 

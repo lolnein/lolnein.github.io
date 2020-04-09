@@ -11,7 +11,7 @@ Bonus Comic:
 ![The Perfect Camping Spot Bonus](/images/theperfectcampingspot_bonus.png)
 
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 
 ### More "motivational" comics:

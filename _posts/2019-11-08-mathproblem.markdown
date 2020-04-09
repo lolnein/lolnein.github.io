@@ -6,7 +6,7 @@ alt:  Math Problem
 keywords: [math, problem, calculator, algebra, casio, maths, algebra, letters, equation, school, class, university, blackboard, learning, one, plus, two]
 ---
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 Bonus Panel:
 

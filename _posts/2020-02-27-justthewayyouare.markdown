@@ -11,7 +11,7 @@ Bonus Panel:
 ![Just the Way You Are Bonus Panel](/images/justthewayyouare_bonus.png)
 
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 
 ### More food-related comics:

@@ -11,7 +11,7 @@ Bonus Panel:
 ![Must Bee Love Bonus Panel](/images/mustbeelove_bonus.png)
 
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 
 ### More insect-related comics:

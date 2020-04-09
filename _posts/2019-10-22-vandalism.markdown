@@ -6,7 +6,7 @@ alt: Vandalism
 keywords: [vampires, vanpire, car, van, blood, oil, helsing, halloween]
 ---
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 Bonus Panel:
 

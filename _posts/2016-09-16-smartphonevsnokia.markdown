@@ -6,7 +6,7 @@ alt: Smartphone vs Nokia
 keywords: [smartphone, nokia, flip, phone]
 ---
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 ### More "But can you do this" Comics:
 

@@ -11,7 +11,7 @@ Bonus Panel:
 ![Leg Surgery](/images/legsurgery_bonus.png)
 
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 
 ### More insect-related comics:

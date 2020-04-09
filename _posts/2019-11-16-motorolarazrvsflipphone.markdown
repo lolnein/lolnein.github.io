@@ -6,7 +6,7 @@ alt:  Motorola Razr vs Flip Phone
 keywords: [motorola, razr, 2019, flip, phone, smartphone, smart, technology, samsung, but can you do this]
 ---
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 Bonus Panel:
 

@@ -9,7 +9,7 @@ keywords: [pewdiepie, chairz, chair, clutch, lolnein, flip, phone]
 [I made this because my comics were just mentioned in a PewDiePie video! Yay!](https://www.youtube.com/watch?v=v8eIuhPstno&feature=youtu.be&t=6m11s)
 
  
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 ### More "But can you do this" Comics:
 

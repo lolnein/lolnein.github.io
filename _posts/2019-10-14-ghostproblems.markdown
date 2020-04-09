@@ -6,7 +6,7 @@ alt: Ghost Problems
 keywords: [ghosts, bed, mattress, fitted, sheet, sheets, halloween]
 ---
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 Bonus Panel:
 

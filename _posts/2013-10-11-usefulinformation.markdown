@@ -6,7 +6,7 @@ alt: Useful Information
 keywords: [useful, information, brain, fun, facts]
 ---
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 Bonus Panel:
 

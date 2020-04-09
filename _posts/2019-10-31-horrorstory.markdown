@@ -6,7 +6,7 @@ alt:  Horror Story
 keywords: [horror, comic, animation, animated, library, book, curse, susan, monster, ghost, halloween]
 ---
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 Bonus Panel:
 

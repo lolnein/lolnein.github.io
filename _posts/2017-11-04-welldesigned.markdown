@@ -13,7 +13,7 @@ Bonus GIF:
 ![Well-Designed Bonus GIF](/images/welldesigned_bonus.gif)
 
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 
 ### More smartphone-related comics:

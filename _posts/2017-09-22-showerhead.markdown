@@ -6,7 +6,7 @@ alt: Shower Head
 keywords: [shower, head, burning, freezing, dream]
 ---
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 Bonus Panel:
 

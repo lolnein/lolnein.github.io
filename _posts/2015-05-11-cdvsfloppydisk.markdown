@@ -6,7 +6,7 @@ alt: CD vs Floppy Disk
 keywords: [CD, floppy disk]
 ---
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 ### More "But can you do this" Comics:
 

@@ -10,9 +10,9 @@ Bonus Panel:
 
 ![Grocery Shopping Bonus Panel](/images/groceryshopping_bonus.png)
 
-Also, [here's my new Cororna song and music video!](https://youtu.be/DU6ObLRuz74)
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
+
 
 
 ### More food-related comics:

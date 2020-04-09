@@ -15,7 +15,7 @@ Bonus GIF:
 ![The Ugly Caterpillar Bonus GIF](/images/theuglycaterpillar_bonus2.gif)
 
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 
 ### More insect-related comics:

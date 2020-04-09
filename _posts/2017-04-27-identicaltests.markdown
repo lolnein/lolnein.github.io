@@ -6,7 +6,7 @@ alt: Identical Tests
 keywords: [tests, copier, class, copy, exam, answers, school, university, teacher, professor]
 ---
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 Bonus Panel:
 

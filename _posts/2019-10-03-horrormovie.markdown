@@ -6,7 +6,7 @@ alt: Horror Movie
 keywords: [exorcist, exorcism, horror, movie, pepper, mill, salt, shaker, head, spin, possessed, halloween]
 ---
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 Bonus Panel:
 

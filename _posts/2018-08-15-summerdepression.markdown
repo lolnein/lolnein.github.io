@@ -11,7 +11,7 @@ Bonus Comic:
 ![Summer Depression Bonus Comic](/images/summerdepression_bonus.png)
 
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 
 ### More weather-related comics:

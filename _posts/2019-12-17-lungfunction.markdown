@@ -10,8 +10,10 @@ Bonus Panel:
 
 ![Lung Function Bonus](/images/lungfunction_bonus.png)
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
 
+
+
+<iframe class="center" width="100%" src="https://www.youtube.com/embed/DU6ObLRuz74" allowfullscreen="allowfullscreen" seamless="seamless"></iframe>
 
 ### More health-related comics:
 

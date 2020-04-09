@@ -6,7 +6,7 @@ alt: Something on Your Face
 keywords: [mirrors, faces, reflection, face]
 ---
 
-Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com/lolnein)
+
 
 Bonus Panel:
 
