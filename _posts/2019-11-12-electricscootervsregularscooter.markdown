@@ -15,7 +15,7 @@ Bonus Panel:
 ### More "But can you do this" Comics:
 
 &nbsp; | [![Smartphones](/thumbs/smartphones.png){:height="50px" width="50px"}](https://lolnein.com/2013/08/28/smartphones/) | [Smartphones](https://lolnein.com/2013/08/28/smartphones/)
-&nbsp; | [![Smartphones (Part 2)](/thumbs/smartphones(part2).png){:height="50px" width="50px"}](https://lolnein.com/2014/10/01/smartphones(part2)/) | [Smartphones (Part 2)](https://lolnein.com/2014/10/01/smartphones(part2)/)
+&nbsp; | [![Smartphones (Part 2)](/thumbs/smartphones2.png){:height="50px" width="50px"}](https://lolnein.com/2014/10/01/smartphones2/) | [Smartphones (Part 2)](https://lolnein.com/2014/10/01/smartphones2/)
 &nbsp; | [![Galaxy Note 7 vs Flip Phone](/thumbs/galaxynote7vsflipphone.png){:height="50px" width="50px"}](https://lolnein.com/2016/09/12/galaxynote7vsflipphone/) | [Galaxy Note 7 vs Flip Phone](https://lolnein.com/2016/09/12/galaxynote7vsflipphone/)
 &nbsp; | [![Galaxy Fold vs Flip Phone](/thumbs/galaxyfoldvsflipphone.png){:height="50px" width="50px"}](https://lolnein.com/2019/04/27/galaxyfoldvsflipphone/) | [Galaxy Fold vs Flip Phone](https://lolnein.com/2019/04/27/galaxyfoldvsflipphone/)
 &nbsp; | [![Smartwatches](/thumbs/smartwatches.png){:height="50px" width="50px"}](https://lolnein.com/2015/04/24/smartwatches/) | [Smartwatches](https://lolnein.com/2015/04/24/smartwatches/)
