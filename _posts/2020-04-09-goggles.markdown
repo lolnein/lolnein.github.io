@@ -1,14 +1,14 @@
 ---
 layout: comic
 comic: goggles.png
-title: Relaxing Mario
-alt: Relaxing Mario
-keywords: [nintendo, super, mario, luigi, bros, switch, game, gaming, videogames, consoles, dancing, flagpole]
+title: Goggles
+alt: Goggles
+keywords: [swim, goggles, protection, safety, salt, water, tears, gear, snorkel, snorkeling, diving, sea, ocean, swimming]
 ---
 
 Bonus Panel:
 
-![Relaxing Mario Bonus Panel](/images/goggles_bonus.png)
+![Goggles Bonus Panel](/images/goggles_bonus.png)
 
 Also, [here's my new Cororna song and music video!](https://youtu.be/DU6ObLRuz74)
 
