@@ -15,7 +15,7 @@ Support my webcomic and [become a patron on my Patreon!](https://www.patreon.com
 
 Also, [here's my new Cororna song and music video!](https://youtu.be/DU6ObLRuz74)
 
-<iframe class="center" width="560" height="315" src="{{ https://www.youtube.com/embed/DU6ObLRuz74 }}" allowfullscreen="allowfullscreen" seamless="seamless"></iframe>
+<iframe class="center" width="560" height="315" src="https://www.youtube.com/embed/DU6ObLRuz74" allowfullscreen="allowfullscreen" seamless="seamless"></iframe>
 
 
 
