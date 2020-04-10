@@ -1,6 +1,6 @@
 ---
 layout: comic
-comic: selfimprovement.png
+comic: selfimprovement.gif
 title: Self-Improvement
 alt: Self-Improvement
 keywords: [boulder, of, self-improvement, improvement, self, motivation, self, hate, self-hate, discipline, mountain, hill, pushing, sisyphus, motivational]
