@@ -17,7 +17,7 @@ Also, here is my new Corona song and music video:
 ### More pen-related comics:
 
 &nbsp; | [![A Marked Pen](/thumbs/amarkedpen.png){:height="50px" width="50px"}](https://lolnein.com/2019/05/16/amarkedpen/) | [A Marked Pen](https://lolnein.com/2019/05/16/amarkedpen/)
-&nbsp; | [![Universal Pen](/thumbs/universalpen.png){:height="50px" width="50px"}](https://lolnein.com/2019/11/07/universalpen/) | [Universal Pen](https://lolnein.com/2019/11/07/universalpen/)
+&rarr; &nbsp; | [![Universal Pen](/thumbs/universalpen.png){:height="50px" width="50px"}](https://lolnein.com/2019/11/07/universalpen/) | [Universal Pen](https://lolnein.com/2019/11/07/universalpen/)
 &nbsp; | [![Run Away](/thumbs/runaway.png){:height="50px" width="50px"}](https://lolnein.com/2020/04/12/runaway/) | [Run Away](https://lolnein.com/2020/04/12/runaway/)
 &nbsp; | [![Stylus vs Ball Pen](/thumbs/stylusvsballpen.png){:height="50px" width="50px"}](https://lolnein.com/2015/09/25/stylusvsballpen/) | [Stylus vs Ball Pen](https://lolnein.com/2015/09/25/stylusvsballpen/)
 
