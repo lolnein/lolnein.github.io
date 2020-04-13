@@ -1,17 +1,14 @@
 ---
 layout: comic
-comic: mixup.png
-title: Mix-Up
-alt: Mix-Up
-keywords: [mix-up, elevator, stairs, staircase, flight]
+comic: allmyproblems.png
+title: All My Problems
+alt: All My Problems
+keywords: [mirror, bathroom, problems, sink, depression, talking, reason, blame, blaming, mental, health, reflection, reflect]
 ---
-
-
 
 Bonus Panel:
 
-![Mix-Up Bonus Panel](/images/mixup_bonus.png)
-
+![All My Problems Bonus Panel](/images/allmyproblems_bonus.png)
 
 Also, here is my new Corona song and music video:
 
@@ -20,11 +17,11 @@ Also, here is my new Corona song and music video:
 ### More confusion-related comics:
 
 &nbsp; | [![Something on Your Face](/thumbs/somethingonyourface.png){:height="50px" width="50px"}](https://lolnein.com/2017/05/07/somethingonyourface/) | [Something on Your Face](https://lolnein.com/2017/05/07/somethingonyourface/)
-&rarr; &nbsp; | [![Mix-Up](/thumbs/mixup.png){:height="50px" width="50px"}](https://lolnein.com/2017/11/23/mixup/) | [Mix-Up](https://lolnein.com/2017/11/23/mixup/)
+&nbsp; | [![Mix-Up](/thumbs/mixup.png){:height="50px" width="50px"}](https://lolnein.com/2017/11/23/mixup/) | [Mix-Up](https://lolnein.com/2017/11/23/mixup/)
 &nbsp; | [![Don’t Move](/thumbs/dontmove.png){:height="50px" width="50px"}](https://lolnein.com/2019/10/20/dontmove/) | [Don’t Move](https://lolnein.com/2019/10/20/dontmove/)
 &nbsp; | [![TikTok](/thumbs/tiktok.png){:height="50px" width="50px"}](https://lolnein.com/2019/10/24/tiktok/) | [TikTok](https://lolnein.com/2019/10/24/tiktok/)
 &nbsp; | [![Fine Legs](/thumbs/finelegs.png){:height="50px" width="50px"}](https://lolnein.com/2020/02/05/finelegs/) | [Fine Legs](https://lolnein.com/2020/02/05/finelegs/)
 &nbsp; | [![It’s a Bird](/thumbs/itsabird.png){:height="50px" width="50px"}](https://lolnein.com/2020/02/21/itsabird/) | [It’s a Bird](https://lolnein.com/2020/02/21/itsabird/)
 &nbsp; | [![First Date](/thumbs/firstdate.png){:height="50px" width="50px"}](https://lolnein.com/2020/04/11/firstdate/) | [First Date](https://lolnein.com/2020/04/11/firstdate/)
-&nbsp; | [![All My Problems](/thumbs/allmyproblems.png){:height="50px" width="50px"}](https://lolnein.com/2020/04/13/allmyproblems/) | [All My Problems](https://lolnein.com/2020/04/13/allmyproblems/)
+&rarr; &nbsp; | [![All My Problems](/thumbs/allmyproblems.png){:height="50px" width="50px"}](https://lolnein.com/2020/04/13/allmyproblems/) | [All My Problems](https://lolnein.com/2020/04/13/allmyproblems/)
 &nbsp; | [![Airpods vs Earbuds](/thumbs/airpodsvsearbuds.png){:height="50px" width="50px"}](https://lolnein.com/2016/09/08/airpodsvsearbuds/) | [Airpods vs Earbuds](https://lolnein.com/2016/09/08/airpodsvsearbuds/)
