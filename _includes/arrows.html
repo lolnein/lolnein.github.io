@@ -8,7 +8,7 @@
                         <figure class="column is-one-fifth previous-thumb image">
                             <img src="/thumbs/{{ page.previous.comic }}" alt="Previous" onerror="this.src='/assets/black.png';"/>
                         </figure>
-                        <span class="column is-four-fifths">Previous</span>
+                        <span class="column is-four-fifths">&lrarr; Previous</span>
                     </div>
                 </a>
                 {% else %}
@@ -22,9 +22,9 @@
             </div>
             <div class="column">
                 {% if page.next %}
-                <a rel="next" href="{{ page.next.id }}/" title="Next &rarr;">
+                <a rel="next" href="{{ page.next.id }}/" title="Next">
                     <div class="columns is-mobile has-text-right is-vcentered has-background-black">
-                        <span class="column is-four-fifths next-arrow">Next</span>
+                        <span class="column is-four-fifths next-arrow">Next &rarr;</span>
                         <figure class="column is-one-fifth next-thumb image">
                             <img src="/thumbs/{{ page.next.comic }}" alt="Next" onerror="this.src='/assets/black.png';"/>
                         </figure>
