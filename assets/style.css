@@ -75,7 +75,6 @@ td:nth-child(2) {
 .arrow-container {
     margin-top: 0.05rem;
     margin-bottom: 0.05rem !important;
-    border: thin solid white;
 }
 
 .margin-bottom {
