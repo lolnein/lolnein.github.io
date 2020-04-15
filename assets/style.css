@@ -1,6 +1,6 @@
 body {
     background-color: #333333;
-    color: #CCCCCC;
+    color: #999999;
     font-weight: normal;
     font-size: 1em;
 }
@@ -12,12 +12,11 @@ h3 {
   margin-top: 1em;
   margin-bottom: 1em;
   font-weight: lighter;
-  border-bottom: thin solid #CCCCCC;
+  border-bottom: thin solid #999999;
 }
 
 a {
   color: #white;
-  font-weight: 700;
 }
 
 hr {
@@ -36,7 +35,7 @@ table td {
 
 table td a {
     display:block;
-    width:100%;
+    width: 100%;
 }
 
 table tr:nth-child(odd) {background-color: #333333;}
@@ -65,11 +64,11 @@ td:nth-child(2) {
 }
 
 .next-arrow {
-    border-left: thin solid #CCCCCC;
+    border-left: thin solid white;
 }
 
 .previous-arrow {
-    border-right: thin solid #CCCCCC;
+    border-right: thin solid white;
 }
 
 .arrow-container {
@@ -81,8 +80,21 @@ td:nth-child(2) {
     margin-bottom: 1rem;
 }
 
-.text-light {
+
+.text-nav {
     font-weight: lighter;
+}
+
+.text-arrow {
+    font-weight: bold;
+}
+
+.text-description {
+    font-weight: lighter;
+}
+
+.text-light {
+    font-weight: normal;
 }
 
 .nav-row .column:not(:first-child) .has-background-black {
@@ -94,7 +106,7 @@ td:nth-child(2) {
 }
 
 .title-container {
-    border-bottom: thin solid #CCCCCC;
+    border-bottom: thin solid #999999;
 }
 
 .sticky {
