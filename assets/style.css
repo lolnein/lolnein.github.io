@@ -1,7 +1,7 @@
 body {
     background-color: #333333;
-    color: #999999;
-    font-weight: 300;
+    color: #CCCCCC;
+    font-weight: normal;
     font-size: 1em;
 }
 
@@ -11,8 +11,8 @@ h3 {
   font-size: 1.5em;
   margin-top: 1em;
   margin-bottom: 1em;
-  font-weight: 300;
-  border-bottom: thin solid #999999;
+  font-weight: lighter;
+  border-bottom: thin solid #CCCCCC;
 }
 
 a {
@@ -65,16 +65,17 @@ td:nth-child(2) {
 }
 
 .next-arrow {
-    border-left: thin solid #333333;
+    border-left: thin solid #CCCCCC;
 }
 
 .previous-arrow {
-    border-right: thin solid #333333;
+    border-right: thin solid #CCCCCC;
 }
 
 .arrow-container {
     margin-top: 0.05rem;
     margin-bottom: 0.05rem !important;
+    border: thin solid white;
 }
 
 .margin-bottom {
@@ -94,7 +95,7 @@ td:nth-child(2) {
 }
 
 .title-container {
-    border-bottom: thin solid #999999;
+    border-bottom: thin solid #CCCCCC;
 }
 
 .sticky {
