@@ -11,9 +11,6 @@ Bonus Panel:
 ![Making Mistakes Bonus Panel](/images/makingmistakes_bonus.png)
 
 
-Also, here is my new Corona song and music video:
-
-<iframe class="center" width="100%" src="https://www.youtube.com/embed/DU6ObLRuz74" allowfullscreen="allowfullscreen" seamless="seamless"></iframe>
 
 ### More brain-related comics:
 
