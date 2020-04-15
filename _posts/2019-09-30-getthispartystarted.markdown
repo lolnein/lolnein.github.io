@@ -22,5 +22,5 @@ Bonus Panel:
 &nbsp; | [![The Perfect Camping Spot](/thumbs/theperfectcampingspot.png){:height="50px" width="50px"}](https://lolnein.com/2019/09/04/theperfectcampingspot/) | [The Perfect Camping Spot](https://lolnein.com/2019/09/04/theperfectcampingspot/)
 &rarr; &nbsp; | [![Get This Party Started](/thumbs/getthispartystarted.png){:height="50px" width="50px"}](https://lolnein.com/2019/09/30/getthispartystarted/) | [Get This Party Started](https://lolnein.com/2019/09/30/getthispartystarted/)
 &nbsp; | [![Socket Up](/thumbs/socketup.png){:height="50px" width="50px"}](https://lolnein.com/2020/03/04/socketup/) | [Socket Up](https://lolnein.com/2020/03/04/socketup/)
-&nbsp; | [![Self-Improvement](/thumbs/self-improvement.png){:height="50px" width="50px"}](https://lolnein.com/2020/04/10/selfimprovement/) | [Self-Improvement](https://lolnein.com/2020/04/10/selfimprovement/)
+&nbsp; | [![Self-Improvement](/thumbs/selfimprovement.gif){:height="50px" width="50px"}](https://lolnein.com/2020/04/10/selfimprovement/) | [Self-Improvement](https://lolnein.com/2020/04/10/selfimprovement/)
 &nbsp; | [![Motorola Razr vs Flip Phone](/thumbs/motorolarazrvsflipphone.png){:height="50px" width="50px"}](https://lolnein.com/2019/11/16/motorolarazrvsflipphone/) | [Motorola Razr vs Flip Phone](https://lolnein.com/2019/11/16/motorolarazrvsflipphone/)
