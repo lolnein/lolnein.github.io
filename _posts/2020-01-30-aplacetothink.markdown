@@ -12,29 +12,16 @@ Bonus Panel:
 
 ![A Place to Think Bonus Panel](/images/aplacetothink_bonus.png)
 
+Also, here is my new Corona song and music video:
 
-More comics about our weird bodies:
+<iframe class="center" width="100%" src="https://www.youtube.com/embed/DU6ObLRuz74" allowfullscreen="allowfullscreen" seamless="seamless"></iframe>
 
-[Potato Chips](https://lolnein.com/2017/06/21/potatochips/)
+### More brain-related comics:
 
-[Useful Information](https://lolnein.com/2017/07/18/usefulinformation/)
-
-[Handle This Situtation](https://lolnein.com/2019/04/25/handlethissituation/)
-
-[Heart Problems](https://lolnein.com/2019/06/05/heartproblems/)
-
-[Bus Of Thought](https://lolnein.com/2019/09/05/busofthought/)
-
-[A Question of Digestion](https://lolnein.com/2019/09/10/aquestionofdigestion/)
-
-[Making Mistakes](https://lolnein.com/2020/01/17/makingmistakes/)
-
-A Place to Think <- You are here!
-
-[Travel the World](https://lolnein.com/2020/02/03/traveltheworld/)
-
-[Haircut](https://lolnein.com/2020/02/19/haircut/)
-
-[Amazing View](https://lolnein.com/2020/02/20/amazingview/)
-
-[Smartphone vs Flip Phone PART 2](http://lolnein.com/2014/10/01/smartphones2/)
+&nbsp; | [![Potato Chips](/thumbs/potatochips.png){:height="50px" width="50px"}](https://lolnein.com/2017/06/21/potatochips/) | [Potato Chips](https://lolnein.com/2017/06/21/potatochips/)
+&nbsp; | [![Useful Information](/thumbs/usefulinformation.png){:height="50px" width="50px"}](https://lolnein.com/2017/07/18/usefulinformation/) | [Useful Information](https://lolnein.com/2017/07/18/usefulinformation/)
+&nbsp; | [![Handle This Situation](/thumbs/handlethissituation.png){:height="50px" width="50px"}](https://lolnein.com/2019/04/25/handlethissituation/) | [Handle This Situation](https://lolnein.com/2019/04/25/handlethissituation/)
+&nbsp; | [![Bus Of Thought](/thumbs/busofthought.png){:height="50px" width="50px"}](https://lolnein.com/2019/09/05/busofthought/) | [Bus Of Thought](https://lolnein.com/2019/09/05/busofthought/)
+&nbsp; | [![Making Mistakes](/thumbs/makingmistakes.png){:height="50px" width="50px"}](https://lolnein.com/2020/01/17/makingmistakes/) | [Making Mistakes](https://lolnein.com/2020/01/17/makingmistakes/)
+&rarr; &nbsp; | [![A Place to Think](/thumbs/aplacetothink.png){:height="50px" width="50px"}](https://lolnein.com/2020/01/30/aplacetothink/) | [A Place to Think](https://lolnein.com/2020/01/30/aplacetothink/)
+&nbsp; | [![One of the Best](/thumbs/oneofthebest.png){:height="50px" width="50px"}](https://lolnein.com/2020/04/15/oneofthebest/) | [One of the Best](https://lolnein.com/2020/04/15/oneofthebest/)
