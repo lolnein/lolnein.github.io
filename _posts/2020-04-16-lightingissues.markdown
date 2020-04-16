@@ -10,10 +10,6 @@ Bonus Panel:
 
 ![Lighting Issues Bonus Panel](/images/lightingissues_bonus.png)
 
-### More brain-related comics:
-
-&nbsp; | [![Lighting Issues](/thumbs/lightingissues.png){:height="50px" width="50px"}](https://lolnein.com/2020/04/16/lightingissues/) | [Lighting Issues](https://lolnein.com/2020/04/16/lightingissues/)
-
 ### More health-related comics:
 
 &nbsp; | [![Life Is a Rollercoaster](/thumbs/lifeisarollercoaster.png){:height="50px" width="50px"}](https://lolnein.com/2018/04/12/lifeisarollercoaster/) | [Life Is a Rollercoaster](https://lolnein.com/2018/04/12/lifeisarollercoaster/)
