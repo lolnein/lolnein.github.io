@@ -27,5 +27,6 @@ Bonus Panel:
 &nbsp; | [![Slip and Fall](/thumbs/slipandfall.png){:height="50px" width="50px"}](https://lolnein.com/2020/02/23/slipandfall/) | [Slip and Fall](https://lolnein.com/2020/02/23/slipandfall/)
 &nbsp; | [![Just the Way You Are](/thumbs/justthewayyouare.png){:height="50px" width="50px"}](https://lolnein.com/2020/02/27/justthewayyouare/) | [Just the Way You Are](https://lolnein.com/2020/02/27/justthewayyouare/)
 &rarr; &nbsp; | [![Cutelery](/thumbs/cutelery.png){:height="50px" width="50px"}](https://lolnein.com/2020/03/06/cutelery/) | [Cutelery](https://lolnein.com/2020/03/06/cutelery/)
+&nbsp; | [![Still Waters](/thumbs/stillwaters.png){:height="50px" width="50px"}](https://lolnein.com/2020/04/17/stillwaters/) | [Still Waters](https://lolnein.com/2020/04/17/stillwaters/)
 &nbsp; | [![Grocery Shopping](/thumbs/groceryshopping.png){:height="50px" width="50px"}](https://lolnein.com/2020/03/29/groceryshopping/) | [Grocery Shopping](https://lolnein.com/2020/03/29/groceryshopping/)
 &nbsp; | [![Coffee Machine vs French Press](/thumbs/coffeemachinevsfrenchpress.png){:height="50px" width="50px"}](https://lolnein.com/2019/10/29/coffeemachinevsfrenchpress/) | [Coffee Machine vs French Press](https://lolnein.com/2019/10/29/coffeemachinevsfrenchpress/)
