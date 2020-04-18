@@ -6,7 +6,7 @@ alt: The Perfect House
 keywords: [realtor, real, estate, agent, house, home, bird, seeds]
 ---
 
-This comic is dedicatedto my dad, who likes birds :)
+This comic is dedicated to my dad, who likes birds :)
 
 Bonus Panel:
 
