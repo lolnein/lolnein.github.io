@@ -1,18 +1,16 @@
 ---
 layout: comic
-comic: finelegs.png
-title: Fine Legs
-alt: Fine Legs
-keywords: [bar, chair, stool, fine, legs, romantic, flirting, flirt, compliment, valentine's, day, valentines, drink]
+comic: birdstrike.png
+title: Bird Strike
+alt: Bird Strike
+keywords: [bird, strike, window, glass, mime, building, pane]
 ---
 
-
+This comic is dedicated to my dad who likes birds :)
 
 Bonus Panel:
 
-![Fine Legs Bonus Panel](/images/finelegs_bonus.png)
-
-
+![Bird Strike Bonus Panel](/images/birdstrike_bonus.png)
 
 ### More confusion-related comics:
 
@@ -20,10 +18,10 @@ Bonus Panel:
 &nbsp; | [![Mix-Up](/thumbs/mixup.png){:height="50px" width="50px"}](https://lolnein.com/2017/11/23/mixup/) | [Mix-Up](https://lolnein.com/2017/11/23/mixup/)
 &nbsp; | [![Don’t Move](/thumbs/dontmove.png){:height="50px" width="50px"}](https://lolnein.com/2019/10/20/dontmove/) | [Don’t Move](https://lolnein.com/2019/10/20/dontmove/)
 &nbsp; | [![TikTok](/thumbs/tiktok.png){:height="50px" width="50px"}](https://lolnein.com/2019/10/24/tiktok/) | [TikTok](https://lolnein.com/2019/10/24/tiktok/)
-&rarr; &nbsp; | [![Fine Legs](/thumbs/finelegs.png){:height="50px" width="50px"}](https://lolnein.com/2020/02/05/finelegs/) | [Fine Legs](https://lolnein.com/2020/02/05/finelegs/)
+&nbsp; | [![Fine Legs](/thumbs/finelegs.png){:height="50px" width="50px"}](https://lolnein.com/2020/02/05/finelegs/) | [Fine Legs](https://lolnein.com/2020/02/05/finelegs/)
 &nbsp; | [![It’s a Bird](/thumbs/itsabird.png){:height="50px" width="50px"}](https://lolnein.com/2020/02/21/itsabird/) | [It’s a Bird](https://lolnein.com/2020/02/21/itsabird/)
 &nbsp; | [![First Date](/thumbs/firstdate.png){:height="50px" width="50px"}](https://lolnein.com/2020/04/11/firstdate/) | [First Date](https://lolnein.com/2020/04/11/firstdate/)
 &nbsp; | [![All My Problems](/thumbs/allmyproblems.png){:height="50px" width="50px"}](https://lolnein.com/2020/04/13/allmyproblems/) | [All My Problems](https://lolnein.com/2020/04/13/allmyproblems/)
 &nbsp; | [![The Perfect House](/thumbs/theperfecthouse.png){:height="50px" width="50px"}](https://lolnein.com/2020/04/18/theperfecthouse/) | [The Perfect House](https://lolnein.com/2020/04/18/theperfecthouse/)
-&nbsp; | [![Bird Strike](/thumbs/birdstrike.png){:height="50px" width="50px"}](https://lolnein.com/2020/04/19/birdstrike/) | [Bird Strike](https://lolnein.com/2020/04/19/birdstrike/)
+&rarr; &nbsp; | [![Bird Strike](/thumbs/birdstrike.png){:height="50px" width="50px"}](https://lolnein.com/2020/04/19/birdstrike/) | [Bird Strike](https://lolnein.com/2020/04/19/birdstrike/)
 &nbsp; | [![Airpods vs Earbuds](/thumbs/airpodsvsearbuds.png){:height="50px" width="50px"}](https://lolnein.com/2016/09/08/airpodsvsearbuds/) | [Airpods vs Earbuds](https://lolnein.com/2016/09/08/airpodsvsearbuds/)
