@@ -12,6 +12,9 @@ Bonus Panel:
 
 ![Love Is Scary Bonus](/images/loveisscary_bonus.png)
 
+Hi there! :) If you like my comics, you can support them [with just $1 per month on Patreon: https://patreon.com/lolnein!](https://patreon.com/lolnein) Let me know if there's any kind of content that you would like to see as a Patron. I'm open to suggestions! Thank you so much and have a nice day :)
+
+![Patreon Comic](/assets/patreon_comic.png)
 
 More spooky comics:
 
