@@ -10,6 +10,12 @@ Bonus Panel:
 
 ![Hairstyles Bonus Panel](/images/hairstyles_bonus.png)
 
+Hi there! :) If you like my comics, you can support them with just $1 per month on Patreon: https://patreon.com/lolnein
+
+Let me know if there's any kind of content that you would like to see as a Patron. I'm open to suggestions! Thank you so much and have a nice day :)
+
+![Patreon Comic](/assets/patreon_comic.png)
+
 ### More body-related comics:
 
 &nbsp; | [![Heart Problems](/thumbs/heartproblems.png){:height="50px" width="50px"}](https://lolnein.com/2019/06/05/heartproblems/) | [Heart Problems](https://lolnein.com/2019/06/05/heartproblems/)
