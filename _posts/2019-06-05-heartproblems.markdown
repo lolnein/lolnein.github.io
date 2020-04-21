@@ -22,6 +22,7 @@ Bonus Panel:
 &nbsp; | [![Haircut](/thumbs/haircut.png){:height="50px" width="50px"}](https://lolnein.com/2020/02/19/haircut/) | [Haircut](https://lolnein.com/2020/02/19/haircut/)
 &nbsp; | [![Amazing View](/thumbs/amazingview.png){:height="50px" width="50px"}](https://lolnein.com/2020/02/20/amazingview/) | [Amazing View](https://lolnein.com/2020/02/20/amazingview/)
 &nbsp; | [![Praying](/thumbs/praying.png){:height="50px" width="50px"}](https://lolnein.com/2020/04/04/praying/) | [Praying](https://lolnein.com/2020/04/04/praying/)
+&nbsp; | [![Hairstyles](/thumbs/hairstyles.png){:height="50px" width="50px"}](https://lolnein.com/2020/04/21/hairstyles/) | [Hairstyles](https://lolnein.com/2020/04/21/hairstyles/)
 &nbsp; | [![Smartphones (Part 2)](/thumbs/smartphones2.png){:height="50px" width="50px"}](https://lolnein.com/2014/10/01/smartphones2/) | [Smartphone vs Flip Phone PART 2](http://lolnein.com/2014/10/01/smartphones2/)
 
 
