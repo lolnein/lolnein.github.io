@@ -21,3 +21,4 @@ Bonus Panel:
 &nbsp; | [![A New Adventure](/thumbs/anewadventure.png){:height="50px" width="50px"}](https://lolnein.com/2018/08/10/anewadventure/) | [A New Adventure](https://lolnein.com/2018/08/10/anewadventure/)
 &nbsp; | [![Huge Guy](/thumbs/hugeguy.png){:height="50px" width="50px"}](https://lolnein.com/2019/09/16/hugeguy/) | [Huge Guy](https://lolnein.com/2019/09/16/hugeguy/)
 &nbsp; | [![Toilet Me Alone](/thumbs/toiletmealone.png){:height="50px" width="50px"}](https://lolnein.com/2020/02/22/toiletmealone/) | [Toilet Me Alone](https://lolnein.com/2020/02/22/toiletmealone/)
+&nbsp; | [![The Worst Shower](/thumbs/theworstshower.png){:height="50px" width="50px"}](https://lolnein.com/2020/04/22/theworstshower/) | [The Worst Shower](https://lolnein.com/2020/04/22/theworstshower/)
