@@ -22,3 +22,4 @@ Bonus Panel:
 &nbsp; | [![Shakenado](/thumbs/shakenado.png){:height="50px" width="50px"}](https://lolnein.com/2019/04/30/shakenado/) | [Shakenado](https://lolnein.com/2019/04/30/shakenado/)
 &nbsp; | [![Humaning](/thumbs/humaning.png){:height="50px" width="50px"}](https://lolnein.com/2019/06/24/humaning/) | [Humaning](https://lolnein.com/2019/06/24/humaning/)
 &nbsp; | [![Sunny Comeback](/thumbs/sunnycomeback.png){:height="50px" width="50px"}](https://lolnein.com/2020/04/14/sunnycomeback/) | [Sunny Comeback](https://lolnein.com/2020/04/14/sunnycomeback/)
+&nbsp; | [![Wonderful Sunshine](/thumbs/wonderfulsunshine.png){:height="50px" width="50px"}](https://lolnein.com/2020/04/23/wonderfulsunshine/) | [Wonderful Sunshine](https://lolnein.com/2017/09/22/showerhead/)
