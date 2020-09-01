@@ -10,9 +10,9 @@ Bonus Panel:
 
 ![The Worst Shower Bonus Panel](/images/theworstshower_bonus.png)
 
-Make sure to check out my latest project: This video which you can send to people who should just use a seach engine!
+Make sure to check out my latest project: But can you do this - THE SONG
 
-<iframe class="center" width="100%" src="https://www.youtube.com/embed/4dS6_pX5sTM" allowfullscreen="allowfullscreen" seamless="seamless"></iframe>
+<iframe class="center" width="100%" src="https://www.youtube.com/embed/YOSf6ovNOms" allowfullscreen="allowfullscreen" seamless="seamless"></iframe>
 
 ### More bathroom-related comics:
 

@@ -6,6 +6,9 @@ alt: Smartphone vs Nokia
 keywords: [smartphone, nokia, flip, phone]
 ---
 
+Bonus GIF:
+
+![Smartphone vs Nokia Bonus GIF](/images/smartphonevsnokia_bonus.gif)
 
 
 ### More "But can you do this" Comics:
@@ -30,6 +33,6 @@ keywords: [smartphone, nokia, flip, phone]
 &nbsp; | [![Coffee Machine vs French Press](/thumbs/coffeemachinevsfrenchpress.png){:height="50px" width="50px"}](https://lolnein.com/2019/10/29/coffeemachinevsfrenchpress/) | [Coffee Machine vs French Press](https://lolnein.com/2019/10/29/coffeemachinevsfrenchpress/)
 &nbsp; | [![Electric Scooter vs Regular Scooter](/thumbs/electricscootervsregularscooter.png){:height="50px" width="50px"}](https://lolnein.com/2019/11/12/electricscootervsregularscooter/) | [Electric Scooter vs Regular Scooter](https://lolnein.com/2019/11/12/electricscootervsregularscooter/)
 
-Make sure to check out my latest project: This video which you can send to people who should just use a seach engine!
+Make sure to check out my latest project: But can you do this - THE SONG
 
-<iframe class="center" width="100%" src="https://www.youtube.com/embed/4dS6_pX5sTM" allowfullscreen="allowfullscreen" seamless="seamless"></iframe>
+<iframe class="center" width="100%" src="https://www.youtube.com/embed/YOSf6ovNOms" allowfullscreen="allowfullscreen" seamless="seamless"></iframe>
