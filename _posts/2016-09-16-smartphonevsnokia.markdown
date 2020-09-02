@@ -11,6 +11,10 @@ Bonus GIF:
 ![Smartphone vs Nokia Bonus GIF](/images/smartphonevsnokia_bonus.gif)
 
 
+Make sure to check out my latest project: But can you do this - THE SONG
+
+<iframe class="center" width="100%" src="https://www.youtube.com/embed/YOSf6ovNOms" allowfullscreen="allowfullscreen" seamless="seamless"></iframe>
+
 ### More "But can you do this" Comics:
 
 &nbsp; | [![Smartphones](/thumbs/smartphones.png){:height="50px" width="50px"}](https://lolnein.com/2013/08/28/smartphones/) | [Smartphones](https://lolnein.com/2013/08/28/smartphones/)
@@ -32,7 +36,3 @@ Bonus GIF:
 &nbsp; | [![Laces vs Velcro](/thumbs/lacesvsvelcro.png){:height="50px" width="50px"}](https://lolnein.com/2016/07/28/lacesvsvelcro/) | [Laces vs Velcro](https://lolnein.com/2016/07/28/lacesvsvelcro/)
 &nbsp; | [![Coffee Machine vs French Press](/thumbs/coffeemachinevsfrenchpress.png){:height="50px" width="50px"}](https://lolnein.com/2019/10/29/coffeemachinevsfrenchpress/) | [Coffee Machine vs French Press](https://lolnein.com/2019/10/29/coffeemachinevsfrenchpress/)
 &nbsp; | [![Electric Scooter vs Regular Scooter](/thumbs/electricscootervsregularscooter.png){:height="50px" width="50px"}](https://lolnein.com/2019/11/12/electricscootervsregularscooter/) | [Electric Scooter vs Regular Scooter](https://lolnein.com/2019/11/12/electricscootervsregularscooter/)
-
-Make sure to check out my latest project: But can you do this - THE SONG
-
-<iframe class="center" width="100%" src="https://www.youtube.com/embed/YOSf6ovNOms" allowfullscreen="allowfullscreen" seamless="seamless"></iframe>
