@@ -10,12 +10,13 @@ Bonus Panel:
 
 ![Just the Way You Are Bonus Panel](/images/justthewayyouare_bonus.png)
 
+Make sure to check out my latest project: But can you do this - THE SONG
 
-
-
+<iframe class="center" width="100%" src="https://www.youtube.com/embed/YOSf6ovNOms" allowfullscreen="allowfullscreen" seamless="seamless"></iframe>
 
 ### More food-related comics:
 
+&nbsp; | [![Banana in Your Pocket](/thumbs/bananainyourpocket.png){:height="50px" width="50px"}](https://lolnein.com/2016/09/23/bananainyourpocket/) | [Banana in Your Pocket](https://lolnein.com/2016/09/23/bananainyourpocket/)
 &nbsp; | [![Crass Croissant](/thumbs/crasscroissant.png){:height="50px" width="50px"}](https://lolnein.com/2018/02/01/crasscroissant/) | [Crass Croissant](https://lolnein.com/2018/02/01/crasscroissant/)
 &nbsp; | [![When Life Makes You Lemonade](/thumbs/whenlifemakesyoulemonade.png){:height="50px" width="50px"}](https://lolnein.com/2019/08/29/whenlifemakesyoulemonade/) | [When Life Makes You Lemonade](https://lolnein.com/2019/08/29/whenlifemakesyoulemonade/)
 &nbsp; | [![The Right Amount of Pasta](/thumbs/therightamountofpasta.png){:height="50px" width="50px"}](https://lolnein.com/2019/09/06/therightamountofpasta/) | [The Right Amount of Pasta](https://lolnein.com/2019/09/06/therightamountofpasta/)
