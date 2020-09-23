@@ -6,6 +6,10 @@ alt: Missing Mug
 keywords: [mug, cup, table, pencils, pens, desk, office, fancy, cocktail, supplies, coffee, missing, dave]
 ---
 
+Make sure to check out my latest project: But can you do this - THE SONG
+
+<iframe class="center" width="100%" src="https://www.youtube.com/embed/YOSf6ovNOms" allowfullscreen="allowfullscreen" seamless="seamless"></iframe>
+
 Bonus Comic:
 
 ![Missing Mug Bonus](/images/missingmug_bonus.png)
