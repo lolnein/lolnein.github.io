@@ -6,11 +6,13 @@ alt:  Mad Mug
 keywords: [mug, coffee, tea, caffeine, productive, work, laptop, notebook]
 ---
 
+Make sure to check out my latest project: But can you do this - THE SONG
+
+<iframe class="center" width="100%" src="https://www.youtube.com/embed/YOSf6ovNOms" allowfullscreen="allowfullscreen" seamless="seamless"></iframe>
+
 Bonus Panel (which is connected to [this comic](https://lolnein.com/2019/09/11/missingmug/)):
 
 ![Mad Mug Bonus](/images/madmug_bonus.png)
-
-
 
 ### More kitchen-related comics:
 
