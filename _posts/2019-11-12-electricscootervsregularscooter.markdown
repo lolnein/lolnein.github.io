@@ -6,7 +6,9 @@ alt:  Electric Scooter vs Regular Scooter
 keywords: [electric, scooter, escooter, e-scooter, lime, bird, xiaomi, segway, roller, e-roller, eroller, elektro]
 ---
 
+Make sure to check out my latest project: But can you do this - THE SONG
 
+<iframe class="center" width="100%" src="https://www.youtube.com/embed/YOSf6ovNOms" allowfullscreen="allowfullscreen" seamless="seamless"></iframe>
 
 Bonus Panel:
 
@@ -33,7 +35,3 @@ Bonus Panel:
 &nbsp; | [![Laces vs Velcro](/thumbs/lacesvsvelcro.png){:height="50px" width="50px"}](https://lolnein.com/2016/07/28/lacesvsvelcro/) | [Laces vs Velcro](https://lolnein.com/2016/07/28/lacesvsvelcro/)
 &nbsp; | [![Coffee Machine vs French Press](/thumbs/coffeemachinevsfrenchpress.png){:height="50px" width="50px"}](https://lolnein.com/2019/10/29/coffeemachinevsfrenchpress/) | [Coffee Machine vs French Press](https://lolnein.com/2019/10/29/coffeemachinevsfrenchpress/)
 &rarr; &nbsp; | [![Electric Scooter vs Regular Scooter](/thumbs/electricscootervsregularscooter.png){:height="50px" width="50px"}](https://lolnein.com/2019/11/12/electricscootervsregularscooter/) | [Electric Scooter vs Regular Scooter](https://lolnein.com/2019/11/12/electricscootervsregularscooter/)
-
-Make sure to check out my latest project: But can you do this - THE SONG
-
-<iframe class="center" width="100%" src="https://www.youtube.com/embed/YOSf6ovNOms" allowfullscreen="allowfullscreen" seamless="seamless"></iframe>
