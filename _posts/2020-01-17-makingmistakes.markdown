@@ -6,6 +6,10 @@ alt: Making Mistakes
 keywords: [brain, anxiety, comic, everybody, makes, mistakes, depression, positive, thoughts, negative]
 ---
 
+Make sure to check out my latest project: But can you do this - THE SONG
+
+<iframe class="center" width="100%" src="https://www.youtube.com/embed/YOSf6ovNOms" allowfullscreen="allowfullscreen" seamless="seamless"></iframe>
+
 Bonus Panel:
 
 ![Making Mistakes Bonus Panel](/images/makingmistakes_bonus.png)
