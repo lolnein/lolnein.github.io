@@ -6,7 +6,9 @@ alt: A Place to Think
 keywords: [brain, comic, sleep, wake, bed, awake, insomnia, think, desk]
 ---
 
+Make sure to check out my latest project: But can you do this - THE SONG
 
+<iframe class="center" width="100%" src="https://www.youtube.com/embed/YOSf6ovNOms" allowfullscreen="allowfullscreen" seamless="seamless"></iframe>
 
 Bonus Panel:
 
