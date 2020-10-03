@@ -6,13 +6,13 @@ alt: Amazing View
 keywords: [booger, hanging, nose, notice, comic, job, interview, embarassing, face]
 ---
 
+Make sure to check out my latest project: But can you do this - THE SONG
+
+<iframe class="center" width="100%" src="https://www.youtube.com/embed/YOSf6ovNOms" allowfullscreen="allowfullscreen" seamless="seamless"></iframe>
+
 Bonus Panel:
 
 ![Amazing View Bonus Panel](/images/amazingview_bonus.png)
-
-
-
-
 
 ### More body-related comics:
 
