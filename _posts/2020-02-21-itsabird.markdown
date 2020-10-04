@@ -6,14 +6,13 @@ alt: It's a Bird
 keywords: [bird, plane, wings, moving, comic, superman, plird, blane, hero, superhero, animated]
 ---
 
+Make sure to check out my latest project: But can you do this - THE SONG
 
+<iframe class="center" width="100%" src="https://www.youtube.com/embed/YOSf6ovNOms" allowfullscreen="allowfullscreen" seamless="seamless"></iframe>
 
 Bonus Panel:
 
 ![It's a Bird Bonus Panel](/images/itsabird_bonus.png)
-
-
-
 
 ### More confusion-related comics:
 
