@@ -6,6 +6,10 @@ alt: Washing Machine
 keywords: [washing, machine, moving, walking, shaking, new, laundry, comic, bathroom, chores, household]
 ---
 
+Make sure to check out my latest project: But can you do this - THE SONG
+
+<iframe class="center" width="100%" src="https://www.youtube.com/embed/YOSf6ovNOms" allowfullscreen="allowfullscreen" seamless="seamless"></iframe>
+
 Bonus Panel:
 
 ![Washing Machine Bonus Panel](/images/washingmachine_bonus.png)
