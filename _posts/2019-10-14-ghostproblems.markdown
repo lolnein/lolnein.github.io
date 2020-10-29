@@ -6,7 +6,9 @@ alt: Ghost Problems
 keywords: [ghosts, bed, mattress, fitted, sheet, sheets, halloween]
 ---
 
+Make sure to check out my Halloween song!
 
+<iframe class="center" width="100%" src="https://www.youtube.com/embed/1wQT1oIAp2w" allowfullscreen="allowfullscreen" seamless="seamless"></iframe>
 
 Bonus Panel:
 
