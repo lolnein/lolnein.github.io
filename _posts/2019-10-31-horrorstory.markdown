@@ -6,7 +6,9 @@ alt:  Horror Story
 keywords: [horror, comic, animation, animated, library, book, curse, susan, monster, ghost, halloween]
 ---
 
+Make sure to check out my Halloween song!
 
+<iframe class="center" width="100%" src="https://www.youtube.com/embed/1wQT1oIAp2w" allowfullscreen="allowfullscreen" seamless="seamless"></iframe>
 
 Bonus Panel:
 
