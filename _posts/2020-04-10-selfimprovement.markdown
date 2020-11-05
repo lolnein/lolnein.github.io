@@ -10,6 +10,10 @@ Bonus Panel:
 
 ![Self-Improvement Bonus Panel](/images/selfimprovement_bonus.png)
 
+I DID manage to finish this large project, though: But can you do this - THE SONG
+
+<iframe class="center" width="100%" src="https://www.youtube.com/embed/YOSf6ovNOms" allowfullscreen="allowfullscreen" seamless="seamless"></iframe>
+
 
 ### More "motivational" comics:
 
